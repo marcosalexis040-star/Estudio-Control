@@ -1,0 +1,34 @@
+Tu sistema es estable, pero nunca llega a donde le pides.
+Ese hueco es el error en estado estable, y en el integrador vale puntos fáciles.
+Se saca con un límite y una pregunta: ¿cuántos integradores hay?
+Con realimentación unitaria, el error es la referencia entre uno más Gc por G.
+Aplica el valor final: límite de ese por R, entre uno más Gc G, con ese a cero.
+Pero antes, Routh: si el lazo no es estable, el error no existe.
+El tipo del sistema es el número de integradores, de polos en ese igual a cero, en Gc por G.
+Ante un escalón de amplitud A, el error es A entre uno más Kp, con Kp igual al límite de Gc G en cero.
+Si hay un integrador, Kp es infinito y el error es cero.
+Ante una rampa de pendiente A, el error es A entre Kv, con Kv igual al límite de ese por Gc G.
+Tipo cero: error infinito. Tipo uno: A entre Kv. Tipo dos: cero.
+Problema del integrador del año pasado: controlador k y planta uno entre ese a la ene por ese más a.
+Piden error de un medio y zeta de un medio.
+Con ene igual a cero sería de primer orden y no habría zeta; con ene igual a dos faltaría el término en ese y sería inestable.
+Así que ene es uno, y el error de un medio tiene que ser ante una rampa.
+Kv es k entre a, así que a entre k es un medio.
+El lazo cerrado es ese al cuadrado más a ese más k: omega ene es raíz de k y a es dos zeta omega ene, es decir, raíz de k.
+Resolviendo: k es cuatro y a es dos.
+Si la ganancia sola no alcanza, entra el PID.
+La parte proporcional empuja según el error de ahora.
+La integral suma el error pasado: agrega un integrador y borra el error al escalón.
+La derivativa mira hacia dónde va el error: amortigua y reduce el sobreimpulso.
+Con un PI y planta de primer orden: si apagas ki, queda un error permanente; si apagas kp, el error se borra, pero el lazo pasa a segundo orden y puede oscilar.
+Y para sintonizarlo sin un modelo fino, la segunda regla de Ziegler y Nichols.
+Sube la ganancia proporcional hasta que el lazo oscile sin crecer ni apagarse: esa es la ganancia crítica.
+Con Routh la sacas en papel: es el valor de k donde se anula la fila de ese a la uno.
+Ejemplo del libro: ese al cubo más seis ese al cuadrado más cinco ese más dos kp, estable hasta kp igual a 15.
+El auxiliar seis ese al cuadrado más treinta da omega igual a raíz de cinco, y un periodo crítico de 2.81 segundos.
+Las reglas: kp es 0.6 por la ganancia crítica, Ti es la mitad del periodo y Td un octavo.
+Resultado: kp de 9, Ti de 1.4 y Td de 0.35 segundos.
+Resumen que vale oro.
+El tipo decide si hay error; la ganancia decide cuánto; y Routh decide si todo eso tiene sentido.
+Haz la tabla de tipos cero, uno y dos contra escalón y rampa hasta que la escribas de memoria.
+Sígueme para más trucos de control.

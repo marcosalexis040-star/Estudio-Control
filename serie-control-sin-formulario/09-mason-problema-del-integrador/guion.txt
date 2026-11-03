@@ -1,0 +1,34 @@
+30 puntos del integrador se ganaban con una sola fórmula: Mason.
+Y casi todos los errores salen de un solo paso: los lazos que no se tocan.
+Vamos a resolver el problema del examen completo.
+La regla de Mason dice: suma de cada trayecto por su cofactor, entre delta.
+Delta es uno, menos la suma de todos los lazos, más los productos de pares de lazos que no se tocan, menos los tríos, y así.
+Cada cofactor es delta, quitando los lazos que tocan ese trayecto.
+Tocarse significa compartir un nodo o un bloque.
+En el examen, G1, G3 y G4 valen uno, G2 es k entre ese, G5 es uno entre ese.
+H1 y H3 valen uno, y H2 es uno entre ese más a.
+Trayecto uno: por arriba, G1 G2 G3 G4: k entre ese.
+Trayecto dos: por abajo, G1 G5 G4: uno entre ese.
+Ahora los lazos, cada uno con su signo menos porque la realimentación es negativa.
+L1, con H1 alrededor de G2: menos k entre ese.
+L2, el grande por H2 pasando por G2, G3 y G4: menos k entre ese por ese más a.
+L3, por H2 pero bajando por G5: menos uno entre ese por ese más a.
+L4, el pequeño de H3 con G5: menos uno entre ese.
+¿Qué pares no se tocan?
+L1 y L4: uno vive arriba y otro abajo, sin nodos en común.
+L2 y L4: el grande no pasa por el lazo de G5.
+Los demás comparten algún nodo, así que no entran.
+No hay tríos.
+Delta es uno, menos la suma de los cuatro lazos, más L1 por L4, más L2 por L4.
+El trayecto uno no toca a L4, así que su cofactor es uno menos L4: uno más uno entre ese.
+El trayecto dos toca a todos: su cofactor es uno.
+Multiplica todo por ese al cuadrado por ese más a para quitar fracciones.
+El numerador queda k ese más k más ese, por ese más a.
+Y el denominador: ese al cubo, más a más k más uno por ese al cuadrado, más a k más dos k más a más uno por ese, más a más uno por k.
+Ese denominador es el que vas a meter a Routh, así que verifícalo.
+Truco para comprobar: haz k igual a cero.
+Solo sobrevive la rama de abajo, y reducida a mano da ese más a, entre ese al cuadrado más a más uno por ese, más a más uno.
+Tu fórmula de Mason con k igual a cero debe dar lo mismo, y da lo mismo.
+El error que más puntos quitó: multiplicar lazos que sí se tocan.
+Marca cada lazo con un color y busca los pares sin nodos en común.
+Sígueme para más trucos de control.

@@ -1,0 +1,33 @@
+Llevas semanas estudiando y vas a perder puntos por errores que no son de teoría.
+En el integrador, una respuesta sin procedimiento vale cero aunque esté bien.
+Estos son los diez errores que más puntos quitan, y cómo arreglarlos.
+Error uno: dar el resultado sin justificar.
+Arreglo: escribe siempre qué fórmula usas y por qué aplica.
+Error dos: leer K y tau sin normalizar el denominador.
+Arreglo: haz que el término constante valga uno antes de comparar.
+Error tres: calcular el tiempo pico con omega ene.
+Arreglo: el tiempo pico usa la parte imaginaria, omega de.
+Error cuatro: medir beta desde el eje imaginario.
+Arreglo: beta se mide desde el eje real negativo y su coseno es zeta.
+Error cinco: decir más rápido sin decir con qué tiempo.
+Arreglo: nombra el reloj; normalmente, el de establecimiento, cuatro entre sigma.
+Error seis: en Mason, multiplicar lazos que comparten un nodo.
+Arreglo: márcalos de colores y solo multiplica los que no tienen nada en común.
+Error siete: en Routh, copiar un número en lugar de hacer la cruz.
+Arreglo: cada elemento sale de su cruz, y donde no hay número va un cero.
+Error ocho: contar negativos en vez de cambios de signo.
+Arreglo: recorre la primera columna de arriba abajo y cuenta cada cambio.
+Error nueve: usar el valor final en un sistema inestable.
+Arreglo: Routh primero, error después.
+Error diez: olvidar la ganancia de referencia en retroalimentación de estados.
+Arreglo: después de colocar polos, revisa la ganancia en cero y ajústala a uno.
+Y la estrategia para los 100 minutos.
+Los primeros cinco minutos, lee todo y empieza por el problema que más puntos da por minuto.
+Deduce las fórmulas en la hoja cuando las necesites: eso también cuenta como procedimiento.
+Comprueba cada resultado con un caso fácil, como k igual a cero o el valor final.
+Y deja diez minutos al final para revisar signos.
+Recuerda la frase que une todo el curso.
+Los polos lo deciden todo: si es estable, qué tan rápido, cuánto se pasa y cuánto oscila.
+Laplace los encuentra, los diagramas los esconden, Routh los cuenta y la retroalimentación los mueve.
+Repasa la serie completa una vez antes del examen.
+Sígueme para más trucos de control.

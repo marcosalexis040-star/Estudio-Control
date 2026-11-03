@@ -1,0 +1,36 @@
+A mitad de la tabla de Routh te sale un cero en la primera columna.
+No puedes dividir entre cero, y ahí se atora medio salón.
+Hay dos casos, y cada uno tiene su salida.
+Caso uno: el cero aparece solo en la primera columna y el resto de la fila no es cero.
+Cámbialo por épsilon, un número positivo muy pequeño, y sigue.
+Al final, haz que épsilon tienda a cero y cuenta los cambios de signo.
+En ese a la quinta más dos ese a la cuarta más dos ese al cubo más cuatro ese al cuadrado más seis ese más diez, la fila de ese al cubo empieza en cero.
+Con épsilon, la siguiente queda cuatro menos dos entre épsilon: muy negativa.
+Dos cambios de signo: dos raíces en el semiplano derecho.
+Caso dos: toda una fila se hace cero.
+Eso avisa que hay raíces simétricas respecto al origen, como un par en el eje imaginario.
+Arma el polinomio auxiliar con la fila de arriba, derívalo y usa esa derivada en lugar de los ceros.
+Las raíces simétricas salen de igualar el auxiliar a cero.
+Ejemplo del libro: ese al cubo más dos ese al cuadrado más cuatro ese más ocho.
+La fila de ese a la uno se hace cero; el auxiliar es dos ese al cuadrado más ocho.
+Sus raíces son más menos dos jota: oscila para siempre, críticamente estable.
+Ahora la pregunta estrella del integrador: ¿para qué valores de k es estable?
+Arma la tabla con k como letra.
+Pide que cada elemento de la primera columna sea positivo.
+Y quédate con la intersección de todas las condiciones.
+Ejemplo: ese al cubo más tres ese al cuadrado más tres ese más uno más k.
+La fila de ese a la uno es ocho menos k, entre tres; la última es uno más k.
+Estable para k entre menos uno y ocho.
+En el límite, k igual a ocho, la fila de ese a la uno se anula.
+El auxiliar de la fila de arriba te da la frecuencia de oscilación.
+Tres ese al cuadrado más nueve igual a cero: ese es más menos jota raíz de tres.
+Eso es lo que usan Ziegler y Nichols para sintonizar un PID, y lo vemos en el siguiente vídeo.
+En el integrador, el polinomio de Mason fue ese al cubo, más a más k más uno por ese al cuadrado, más a k más dos k más a más uno por ese, más a más uno por k.
+Con a positiva, el término independiente pide k positiva.
+Y la fila de ese a la uno, desarrollada, solo tiene sumandos positivos cuando k es positiva.
+Conclusión del examen: estable para toda k mayor que cero.
+Y la trampa del libro, ejemplo 42.
+Para error de 0.1 al escalón pedían k igual a nueve, pero Routh exige k menor que ocho.
+No existe una k que cumpla: siempre revisa la estabilidad antes de calcular el error.
+Practica el rango de k con el polinomio del integrador hasta que te salga sin mirar.
+Sígueme para más trucos de control.

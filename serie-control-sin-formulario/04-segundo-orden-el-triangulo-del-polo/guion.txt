@@ -1,0 +1,34 @@
+Te dan dos polos y te preguntan si la respuesta oscila.
+Si tienes que simularlo, ya perdiste.
+Los polos te dicen todo; solo hay que leerlos como un triángulo.
+La forma estándar de segundo orden es omega ene al cuadrado, entre ese al cuadrado más dos zeta omega ene ese, más omega ene al cuadrado.
+Zeta es el factor de amortiguamiento y omega ene la frecuencia natural no amortiguada.
+Si hay ganancia, multiplica el numerador por K.
+Para leer zeta y omega ene, iguala tu denominador a esa forma, término por término.
+Con ese al cuadrado más dos ese más 25: omega ene es cinco y dos zeta por cinco es dos, así que zeta es 0.2.
+Los polos salen de la fórmula general.
+Son menos zeta omega ene, más menos jota omega ene por la raíz de uno menos zeta al cuadrado.
+A la parte real le llamamos sigma, y a la imaginaria, omega de.
+Y zeta decide la forma de la respuesta.
+Con zeta igual a cero, los polos son imaginarios puros y oscila para siempre.
+Entre cero y uno, son complejos: subamortiguado, con sobreimpulso.
+Con zeta igual a uno, se juntan en un polo doble: críticamente amortiguado, lo más rápido sin pasarse.
+Mayor que uno, se separan en dos polos reales: sobreamortiguado, lento y sin sobreimpulso.
+Y con zeta negativa, los polos cruzan a la derecha y la respuesta crece: inestable.
+Ahora dibuja el polo de arriba y baja una vertical al eje real.
+Queda un triángulo rectángulo.
+El cateto horizontal es sigma, igual a zeta por omega ene.
+El cateto vertical es omega de, la frecuencia de la oscilación.
+La hipotenusa, la distancia al origen, es omega ene.
+Y el ángulo beta se mide desde el eje real negativo, no desde el imaginario.
+Su coseno es zeta.
+Por eso un polo pegado al eje imaginario tiene beta cerca de 90 grados y zeta casi cero: oscila mucho.
+Y uno pegado al eje real tiene zeta casi uno: casi no oscila.
+Con beta de 45 grados, zeta es 0.71.
+Con 60 grados, zeta es un medio.
+Pruébalo con un ejemplo real del integrador: menos dos más menos jota cuatro.
+Sigma es dos, omega de es cuatro, y omega ene es la raíz de 20, unos 4.47.
+Zeta es dos entre 4.47: 0.45.
+Subamortiguado, con sobreimpulso, y sin simular nada.
+Dibuja tres polos al azar y saca su triángulo hasta que te salga solo.
+Sígueme para más trucos de control.

@@ -1,0 +1,33 @@
+Te dan un polinomio de quinto grado y te preguntan si es estable.
+Sin calculadora de raíces, solo tienes un camino: Routh.
+Y la tabla entera se arma con una sola cruz.
+Un sistema es estable si toda entrada acotada da una salida acotada.
+Eso pasa si y solo si todos los polos tienen parte real negativa.
+Un polo sobre el eje imaginario ya no cuenta como estable: es críticamente estable.
+Ejemplo: uno entre ese con un escalón da una rampa que crece sin límite.
+Primera revisión, antes de cualquier tabla.
+Todos los coeficientes deben existir y tener el mismo signo.
+Si falta uno, como en ese a la cuarta más dos ese al cubo más tres ese más cuatro, ya es inestable.
+Pero ojo: que pase esta prueba no garantiza nada; solo te deja seguir.
+Las dos primeras filas se llenan con los coeficientes alternados.
+Fila de arriba: el primero, el tercero, el quinto. Fila de abajo: el segundo, el cuarto, el sexto.
+Cada elemento nuevo: el pivote por el de arriba a la derecha, menos el de arriba a la izquierda por el de abajo a la derecha, todo entre el pivote.
+El pivote es el primer número de la fila de justo arriba.
+Donde no hay número, pon cero.
+Ahora lee solo la primera columna.
+Cada cambio de signo es una raíz en el semiplano derecho.
+Si toda la columna es positiva, es estable.
+Ejemplo de clase: ese a la cuarta más tres ese al cubo más ese al cuadrado más ocho ese más ocho.
+La primera columna queda uno, tres, menos cinco tercios, 112 quintos y ocho.
+De positivo a negativo y de vuelta a positivo: dos cambios, dos polos inestables.
+Cuenta cambios, no números negativos: un solo negativo puede dar dos cambios.
+El de quinto grado: ese a la quinta más cinco ese a la cuarta más dos ese al cubo más tres ese al cuadrado más cuatro ese más diez.
+Su columna es uno, cinco, siete quintos, menos veintinueve séptimos, 156 entre 29 y diez: otra vez dos cambios.
+Y para tercer grado, el atajo que te ahorra la tabla.
+Ese al cubo más a ese al cuadrado más b ese más c es estable si a y c son positivos y a por b es mayor que c.
+Con ese al cubo más diez ese al cuadrado más ese más dos: diez por uno es diez, mayor que dos, estable.
+El error que más se repite: copiar un número en lugar de hacer la cruz.
+En clase, alguien puso dos donde iba diez, y toda la tabla dejó de ser del polinomio.
+Cada elemento sale de su cruz, sin excepción.
+Arma la tabla de ese a la cuarta más tres ese al cubo más ese al cuadrado más ocho ese más ocho sin mirar y busca los dos cambios.
+Sígueme para más trucos de control.

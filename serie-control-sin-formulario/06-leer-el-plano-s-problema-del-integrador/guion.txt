@@ -1,0 +1,34 @@
+Este problema valió 40 puntos en el integrador y se resuelve sin una sola cuenta larga.
+Cinco pares de polos, cinco preguntas.
+Si sabes qué mira cada métrica, terminas en cinco minutos.
+Primero el mapa.
+Una línea horizontal tiene la misma parte imaginaria: mismo tiempo pico.
+Una línea vertical tiene la misma parte real: mismo tiempo de establecimiento.
+Un rayo desde el origen tiene el mismo ángulo: mismo zeta y mismo sobreimpulso.
+Y un círculo centrado en el origen tiene la misma omega ene.
+Los polos del examen: menos dos más menos jota cuatro, menos cuatro más menos jota ocho, menos cuatro más menos jota cuatro, menos dos más menos jota ocho y menos ocho más menos jota cuatro.
+Ubícalos en el plano antes de calcular nada.
+¿Cuáles tienen el mismo sobreimpulso?
+El segundo es exactamente el doble del primero: menos cuatro más jota ocho es dos veces menos dos más jota cuatro.
+Están sobre el mismo rayo, con zeta de 0.45, y los dos tienen 21 % de sobreimpulso.
+¿Mismo tiempo pico? Agrupa por parte imaginaria.
+Con omega de igual a cuatro están el primero, el tercero y el quinto: tiempo pico de pi cuartos, 0.79 segundos.
+Con omega de igual a ocho, el segundo y el cuarto: 0.39 segundos.
+¿Mismo establecimiento? Agrupa por parte real.
+Sigma igual a dos: el primero y el cuarto, con 2 segundos.
+Sigma igual a cuatro: el segundo y el tercero, con 1 segundo.
+¿Menor sobreimpulso? El de menor ángulo respecto al eje real negativo.
+Es el quinto: menos ocho más menos jota cuatro, con zeta de 0.89 y menos de 0.2 % de sobreimpulso.
+¿Respuesta más rápida? El que tiene la parte real más negativa.
+Otra vez el quinto: se establece en medio segundo.
+Y di qué reloj usas: aquí, el tiempo de establecimiento.
+Pregunta de examen rápido: para bajar el establecimiento sin cambiar el sobreimpulso, ¿alejas los polos sobre el mismo rayo?
+Verdadero: el ángulo se conserva y la parte real crece.
+Multiplicar los polos por k es acelerar la misma curva k veces.
+Y si piden rapidez y poco sobreimpulso a la vez, elige el polo más a la izquierda y más pegado al eje real.
+Las tres confusiones que más puntos quitan.
+El sobreimpulso no depende de la distancia al origen, sino del ángulo.
+El tiempo pico se calcula con omega de, no con omega ene.
+Y beta se mide desde el eje real negativo.
+Dibuja tus cinco polos y responde las cinco preguntas en voz alta.
+Sígueme para más trucos de control.

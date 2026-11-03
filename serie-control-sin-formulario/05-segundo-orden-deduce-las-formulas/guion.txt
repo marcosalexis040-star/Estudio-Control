@@ -1,0 +1,35 @@
+Sin formulario, las fórmulas de tiempo pico y sobreimpulso son las que primero se olvidan.
+Y en el último integrador valían 40 puntos.
+No las memorices: dedúcelas de una sola ecuación en un minuto.
+La respuesta al escalón subamortiguada es uno, menos una exponencial que se apaga, por un seno.
+La exponencial es e a la menos sigma t: solo contiene a sigma, y es la envolvente.
+El seno oscila con frecuencia omega de, y empieza desfasado el ángulo beta.
+El pico está donde la derivada vale cero.
+La derivada del escalón es la respuesta al impulso: una exponencial por seno de omega de t.
+La exponencial nunca vale cero, así que manda el seno.
+El primer cero después del inicio es omega de t igual a pi.
+Tiempo pico: pi entre omega de. Solo depende de la parte imaginaria.
+Ahora evalúa la exponencial en ese tiempo.
+Te queda e a la menos pi por sigma entre omega de.
+Ese es el sobreimpulso máximo, y solo depende del cociente sigma entre omega de, es decir, del ángulo.
+En términos de zeta: e a la menos pi zeta entre la raíz de uno menos zeta al cuadrado.
+Para el establecimiento, pide que la envolvente baje del 2 %.
+Como el logaritmo de 50 es casi cuatro, queda cuatro entre sigma.
+Por eso el tiempo de establecimiento es aproximado y solo depende de la parte real.
+Con el criterio del 5 % es tres entre sigma.
+Y el tiempo de subida, de cero al cien por ciento, es pi menos beta, entre omega de.
+Para no depender de la calculadora, memoriza cuatro parejas.
+Zeta 0.5 da 16 % de sobreimpulso.
+Zeta 0.6 da 9.5 %.
+Zeta 0.7 da 4.6 %.
+Y zeta 0.8, 1.5 %.
+Si te dan el sobreimpulso y piden zeta, despeja con el logaritmo.
+Zeta es menos el logaritmo de Mp, entre la raíz de pi al cuadrado más ese logaritmo al cuadrado.
+Con 10 % sale 0.59.
+Y aquí el atajo que más puntos da.
+Si el polo es menos sigma más jota omega de, el sobreimpulso es e a la menos pi por sigma entre omega de.
+Con menos cuatro más menos jota cuatro, el cociente es uno: e a la menos pi, 4.3 %.
+Con menos dos más menos jota cuatro, es un medio: e a la menos pi medios, 21 %.
+Lo calculas directo del polo, sin pasar por zeta.
+Escribe la respuesta al escalón y saca las cuatro fórmulas tú solo, sin mirar.
+Sígueme para más trucos de control.

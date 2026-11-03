@@ -1,0 +1,36 @@
+En una gráfica de primer orden hay un número escondido que te da medio problema.
+Si no sabes dónde mirar, te quedas sin la constante de tiempo.
+Hoy aprendes a leerla en tres segundos.
+Un sistema de primer orden tiene un solo polo real.
+Su forma estándar es K entre tau ese más uno.
+K es la ganancia: cuánto vale la salida final por cada unidad de entrada.
+Tau es la constante de tiempo: qué tan rápido llega.
+El polo está en menos uno entre tau.
+Primer error típico: leer K y tau sin normalizar.
+Con cuatro entre ese más dos, factoriza el dos de abajo.
+Queda dos entre un medio de ese más uno.
+Ahora sí: K vale dos y tau vale un medio.
+Ante un escalón de amplitud A, la salida es K por A, por uno menos e a la menos t entre tau.
+En t igual a tau ya llegó al 63 %.
+En cuatro tau, al 98 %: ese es el tiempo de establecimiento.
+Y la tangente en el origen corta el valor final justo en t igual a tau.
+Sin formulario, estos números salen de e: e a la menos uno es 0.37 y e a la menos cuatro, 0.02.
+Para identificar un modelo con una gráfica, haz dos lecturas.
+El valor final entre la amplitud de la entrada te da K.
+El tiempo donde llega al 63 % de ese valor final te da tau.
+Ejemplo del libro: un termómetro llega al 98 % en un minuto.
+Eso es cuatro tau, así que tau es un cuarto de minuto.
+El circuito RC es el primer orden de manual.
+El voltaje del capacitor entre el de entrada es uno entre RC ese más uno.
+Así que tau es R por C, y K es uno.
+Con una rampa unitaria y K igual a uno, la salida la sigue con un retraso.
+Y el error en estado estable es exactamente tau.
+En el libro, el termómetro en un baño que sube 10 grados por minuto se queda 2.5 grados atrás.
+Con un impulso, la salida salta a K entre tau y decae.
+Y no memorices tres respuestas: la del impulso es la derivada de la del escalón, y esta, la derivada de la de la rampa.
+Ahora lo que más confunde.
+Subir K no hace más rápido al sistema: solo lo hace llegar más alto.
+Lo rápido lo decide tau, es decir, dónde está el polo.
+Mientras más a la izquierda está el polo, más rápido responde.
+Dibuja una curva de primer orden y marca 63 % y 98 % sin mirar.
+Sígueme para más trucos de control.

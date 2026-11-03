@@ -1,0 +1,37 @@
+Te dan una ecuación diferencial y te piden la salida en el tiempo.
+Si te pones a integrar, se te van veinte minutos del examen.
+Con Laplace son cinco pasos y uno de comprobación.
+Ejemplo: la segunda derivada de y, más tres veces su derivada, más dos y, igual a u.
+Con condiciones iniciales cero, cada derivada es una ese.
+Queda ese al cuadrado más tres ese más dos, por Y, igual a U.
+La función de transferencia es salida entre entrada: uno entre ese al cuadrado más tres ese más dos.
+Su denominador es el polinomio característico, y sus raíces, menos uno y menos dos, son los polos.
+Los ceros son las raíces del numerador.
+Cuidado: antes de contar polos, cancela los factores comunes.
+En dos por ese más uno por ese más tres, entre ese menos uno, ese más uno y ese más dos, el factor ese más uno se cancela.
+Quedan un cero en menos tres y polos en uno y en menos dos.
+Y la función es propia si el grado de arriba no supera al de abajo.
+Ahora la entrada: un escalón unitario es uno entre ese.
+Y queda uno entre ese, por ese más uno, por ese más dos.
+Escribe un término por cada polo: A entre ese, B entre ese más uno, C entre ese más dos.
+Método de tapar: tapa el factor del polo y evalúa lo que queda en ese polo.
+Para A, tapa la ese y evalúa en cero: un medio.
+Para B, tapa ese más uno y evalúa en menos uno: menos uno.
+Para C, tapa ese más dos y evalúa en menos dos: un medio.
+Si un polo se repite, agrega un término con el factor al cuadrado; si son complejos, completa el cuadrado y usa el seno amortiguado.
+Con la tabla regresas al tiempo.
+Y de t igual a un medio, menos e a la menos t, más un medio de e a la menos dos t.
+Compruébalo: en cero da cero, como pedían las condiciones iniciales.
+Y el valor final sale sin regresar al tiempo.
+Límite de ese por Y con ese a cero: un medio.
+Es la ganancia en corriente directa, G de cero, por la amplitud del escalón.
+Con ganancia cinco y un escalón de dos, la salida final es diez.
+Pero ojo: el teorema solo vale si el sistema es estable.
+Con uno entre ese por ese menos uno da menos uno, y la señal real explota.
+Lee la respuesta como ingeniero.
+El un medio viene del polo de la entrada: es el régimen permanente.
+Las exponenciales vienen de los polos del sistema: son el transitorio que se apaga.
+Entrada da permanente; polos del sistema dan transitorio.
+Esa frase te ahorra la mitad del examen.
+Practica tapar con tres polos distintos hasta hacerlo de memoria.
+Sígueme para más trucos de control.

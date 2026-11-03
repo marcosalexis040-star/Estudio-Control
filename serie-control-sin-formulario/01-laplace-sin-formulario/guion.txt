@@ -1,0 +1,39 @@
+Sin formulario, en el integrador la tabla de Laplace no te la va a dar nadie.
+Y sin tabla, no resuelves ni una ecuación diferencial.
+La buena noticia: te basta con un solo par y cuatro trucos.
+Laplace es un traductor.
+Convierte derivar en multiplicar por ese, e integrar en dividir entre ese.
+Por eso un integrador se dibuja como un bloque de uno entre ese.
+Así una ecuación diferencial se vuelve álgebra de secundaria.
+El único par que memorizas es este: e a la menos a t se transforma en uno entre ese más a.
+Sale de integrar una sola exponencial, y lo puedes comprobar en diez segundos.
+Léelo así: una exponencial en el tiempo es un polo en menos a.
+Truco uno: pon a igual a cero.
+El escalón, que vale uno siempre, se vuelve uno entre ese.
+Truco dos: multiplicar por t en el tiempo es derivar respecto a ese y cambiar el signo.
+Así la rampa t se vuelve uno entre ese al cuadrado.
+Y t por e a la menos a t se vuelve uno entre ese más a, al cuadrado.
+Ese es el polo repetido.
+Truco tres: Euler.
+El seno y el coseno son dos exponenciales imaginarias sumadas.
+Aplica el par madre a cada una y obtienes omega entre ese al cuadrado más omega al cuadrado para el seno.
+Y ese entre ese al cuadrado más omega al cuadrado para el coseno.
+¿Cuál era cuál? Evalúa en t igual a cero.
+El coseno empieza en uno, así que es el que tiene la ese arriba.
+Truco cuatro: multiplicar por e a la menos a t es cambiar ese por ese más a.
+Con eso sacas el seno amortiguado: omega entre ese más a, al cuadrado, más omega al cuadrado.
+Esa es exactamente la forma de un sistema de segundo orden subamortiguado.
+Ahora las reglas que usarás en cada problema.
+La derivada da ese por F menos el valor inicial; con condiciones iniciales cero, queda solo ese por F.
+La integral da F entre ese.
+El valor final es el límite de ese por F cuando ese tiende a cero.
+Y el valor inicial es el mismo límite, pero con ese tendiendo a infinito.
+Y aquí está la idea que conecta todo el curso.
+Cada polo de F produce un término en el tiempo.
+Polo real negativo: la señal se apaga.
+Polo real positivo: la señal explota.
+Polos complejos: oscila, y la parte real decide si la oscilación crece o se apaga.
+Sobre el eje imaginario oscila para siempre.
+Eso es estabilidad, y es lo que mide Routh.
+Repite el par madre y los cuatro trucos hasta poder escribir la tabla completa en un minuto.
+Sígueme para más trucos de control.

@@ -1,0 +1,35 @@
+Un diagrama de bloques mal reducido arrastra el error a todo el problema.
+Y en el integrador, la función de transferencia es el primer paso de todo.
+Con tres reglas y dos movimientos lo reduces sin perderte.
+Bloques en serie se multiplican.
+Bloques en paralelo se suman, con el signo de cada rama.
+Y un lazo de realimentación negativa es G entre uno más G por H.
+Si la realimentación es positiva, el signo de abajo cambia a menos.
+De ahí sale la ecuación característica: uno más G por H igual a cero.
+Cuando los lazos se enciman, mueve sumadores o nodos.
+Si mueves un sumador hacia atrás de un bloque G, la señal que entraba ahí pasa por uno entre G.
+Si lo mueves hacia adelante, pasa por G.
+Con un nodo de derivación es al revés: hacia atrás, la rama pasa por G; hacia adelante, por uno entre G.
+La regla para no equivocarte: la señal que sale debe ser la misma que antes.
+Ejemplo del examen rápido: un lazo externo con kp y kf, y uno interno con kd.
+Empieza siempre por el lazo más interno.
+Uno entre ese más a, realimentado con kd, queda uno entre ese más a más kd.
+En serie con el integrador: uno entre ese por ese más a más kd.
+La señal kf entra sin pasar por el comparador, así que es mejor escribir la ecuación del sumador.
+El sumador recibe kp por el error, más kf por la referencia.
+Escribe Y igual a la planta por kp por R menos Y, más kf por R.
+Despeja Y entre R: kp más kf, entre ese al cuadrado, más a más kd por ese, más kp.
+Comprueba tu resultado con dos preguntas.
+¿El grado del denominador coincide con el número de bloques dinámicos? Aquí hay dos, grado dos.
+¿La ganancia en cero tiene sentido? Kp más kf entre kp: con kf igual a cero, uno, sin error al escalón.
+Si una de las dos falla, revisa signos.
+Pregunta de examen rápido: dos diagramas distintos dan la misma función de transferencia.
+¿Qué es necesariamente cierto?
+No que tengan los mismos lazos ni las mismas señales internas.
+Solo que, con condiciones iniciales cero, dan la misma salida ante la misma entrada.
+Y el truco que te salva cuando el diagrama es un enredo.
+Ponle nombre a la salida de cada sumador y escribe una ecuación por sumador.
+Es álgebra pura, y funciona aunque ninguna regla de movimiento te salga.
+Y si hay muchos lazos cruzados, usa Mason.
+Reduce el mismo diagrama dos veces, por reglas y por ecuaciones, y compara.
+Sígueme para más trucos de control.

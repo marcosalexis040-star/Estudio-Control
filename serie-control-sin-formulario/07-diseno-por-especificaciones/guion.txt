@@ -1,0 +1,34 @@
+Encuentra a y b para que la respuesta sea críticamente amortiguada.
+Si no sabes por dónde empezar, ese problema se te va entero.
+El método siempre es el mismo: polinomio que tienes contra polinomio que quieres.
+Paso uno: saca la función de transferencia de lazo cerrado.
+Paso dos: escribe su denominador mónico, con ese al cuadrado sola.
+Paso tres: construye el polinomio deseado con los polos que te piden.
+Paso cuatro: iguala coeficiente por coeficiente y despeja.
+Ejemplo del integrador del año pasado, con k1 y k2 igual a cinco.
+Del diagrama sale cinco b, entre ese al cuadrado, más a más cinco b por ese, más cinco b.
+Polos críticamente amortiguados en menos uno: el deseado es ese más uno, al cuadrado: ese al cuadrado más dos ese más uno.
+Iguala: cinco b es uno, así que b es un quinto.
+Y a más cinco b es dos, así que a es uno.
+Con un escalón de dos, la salida final es la ganancia en cero, uno, por dos: dos.
+Si en vez de polos te dan zeta, compara con la forma estándar.
+En el examen rápido del diagrama con kp, kd y kf, el lazo cerrado queda kp más kf, entre ese al cuadrado, más a más kd por ese, más kp.
+Omega ene al cuadrado es kp: con kp igual a cinco, omega ene es la raíz de cinco.
+Y dos zeta omega ene es a más kd.
+Para zeta de 0.6 y kd igual a uno, a vale 1.68.
+Para críticamente amortiguado, zeta es uno y a más kd es dos raíz de cinco.
+Y para críticamente estable, el término en ese se anula: a más kd igual a cero.
+Cuando te dan desigualdades, dibuja la región permitida.
+Sobreimpulso máximo: un rayo, y los polos van entre el rayo y el eje real.
+Establecimiento máximo: una vertical, y los polos van a su izquierda.
+Tiempo pico máximo: una horizontal, y los polos van por encima.
+Elige un polo cómodo dentro de la región.
+Ejemplo del libro: con sobreimpulso menor a 10 % y tiempo pico menor a un segundo, eligen menos cuatro más menos jota cuatro.
+Eso da ese al cuadrado más ocho ese más 32, y comparando, p es 8 y k es 32.
+Y la trampa del integrador del año pasado.
+Con un controlador solo proporcional y planta uno entre ese más uno por ese más cuatro, el lazo cerrado es ese al cuadrado más cinco ese más cuatro más k.
+K solo mueve el último término: la parte real se queda fija en menos 2.5.
+El establecimiento no puede bajar de 1.6 segundos, por más ganancia que pongas.
+Por eso piden un PID: para mover lo que una ganancia sola no mueve.
+Antes de despejar, revisa qué coeficientes puede mover cada parámetro.
+Sígueme para más trucos de control.

@@ -1,0 +1,34 @@
+Encuentra K para que los polos de lazo cerrado queden en menos dos más menos dos jota.
+Suena a teoría moderna, pero es el mismo truco de siempre: comparar polinomios.
+Lo resolvemos con los dos exámenes rápidos.
+En retroalimentación de estados, la entrada se calcula con todos los estados.
+U es menos K por x, más una referencia escalada.
+K es un renglón de ganancias: k1 por x1, más k2 por x2.
+Al sustituir, la nueva matriz del sistema es A menos B por K.
+Y los polos de lazo cerrado salen del determinante de ese I menos A más B K.
+Examen rápido cuatro: A es cero, uno; cero, cero. Es un doble integrador.
+B es cero, uno, así que B por K solo llena la última fila con k1 y k2.
+A menos B K queda cero, uno; menos k1, menos k2.
+Otra vez la forma canónica: el polinomio es ese al cuadrado más k2 ese más k1.
+El deseado, con polos en menos dos más menos dos jota, es ese más dos al cuadrado más cuatro: ese al cuadrado más cuatro ese más ocho.
+Igualando: k1 es ocho y k2 es cuatro.
+Con la salida en x1 y la referencia sin escalar, el lazo cerrado es uno entre ese al cuadrado más cuatro ese más ocho.
+Su ganancia en cero es un octavo: la salida llega a 0.125, y el error al escalón es siete octavos.
+Colocar polos no garantiza que llegue a donde quieres.
+Examen rápido cinco: A es cero, uno; cero, menos b.
+Primero la función: C por ese I menos A inversa por B da uno entre ese por ese más b.
+Ahora u es menos k1 x1, menos k2 x2, más k3 por la referencia.
+A menos B K da el polinomio ese al cuadrado más b más k2 por ese, más k1.
+Piden los dos polos en menos dos b: el deseado es ese más dos b, al cuadrado.
+Ese al cuadrado más cuatro b ese más cuatro b al cuadrado.
+Igualando: k1 es cuatro b al cuadrado y k2 es tres b.
+El lazo cerrado es k3 entre ese más dos b, al cuadrado.
+Y aquí está el punto del examen.
+Para error cero al escalón, la ganancia en cero debe ser uno.
+K3 entre cuatro b al cuadrado igual a uno: k3 es cuatro b al cuadrado, igual a k1.
+Así que en el examen rápido cuatro, con la referencia multiplicada por ocho, el error sería cero.
+Con esta estructura, salida en x1 y entrada en la última fila, la ganancia de referencia es el término independiente del polinomio deseado.
+Si te piden el diagrama: la referencia pasa por k3, entra a un sumador, y le restas k1 por x1 y k2 por x2.
+La salida del sumador es u, que entra a la planta, y los dos estados regresan por sus ganancias.
+Repite el examen cuatro con polos dobles en menos tres, y comprueba que k1 sale nueve y k2 sale seis.
+Sígueme para más trucos de control.

@@ -1,0 +1,84 @@
+---
+titulo: 04 · Segundo orden: lee los polos como un triángulo
+formato: explicación de un concepto
+publico: estudiantes de Ingeniería de Control que presentan el integrador sin formulario
+tema: forma estándar, ζ y ωn, polos −σ ± jωd, los cuatro casos de ζ, triángulo del polo, β y cos β = ζ
+---
+
+## Gancho · #ff5a5f
+Te dan dos polos y te preguntan si la respuesta oscila. || Primer fotograma: plano s con dos × y la pregunta «¿oscila?». || push in rápido || SVG
+Si tienes que simularlo, ya perdiste. || Una ventana de simulador genérica (sin logotipos) se tacha en rojo; el perrito cae. || deriva lenta || SVG · perrito
+Los polos te dicen todo; solo hay que leerlos como un triángulo. || Desde la × de arriba se dibuja un triángulo rectángulo hasta el origen, en blanco. || push out || SVG
+
+## Forma estándar · #4da3ff
+La forma estándar de segundo orden es omega ene al cuadrado, entre ese al cuadrado más dos zeta omega ene ese, más omega ene al cuadrado. || G(s) = ωn² / (s² + 2ζωn s + ωn²) en tarjeta blanca. || viaje largo a la estación 1 || SVG
+Zeta es el factor de amortiguamiento y omega ene la frecuencia natural no amortiguada. || Etiquetas sobre ζ y ωn, cada una con su color. || push in || SVG
+Si hay ganancia, multiplica el numerador por K. || Aparece «K» delante de ωn² en el numerador. || deriva lenta || SVG
+Para leer zeta y omega ene, iguala tu denominador a esa forma, término por término. || Debajo: s² + 2s + 25; flechas unen término con término. || pan con desenfoque || SVG
+Con ese al cuadrado más dos ese más 25: omega ene es cinco y dos zeta por cinco es dos, así que zeta es 0.2. || ωn² = 25 → ωn = 5; 2ζ·5 = 2 → ζ = 0.2, los números se transforman en su sitio. || push in || SVG
+
+## Polos · #ffd166
+Los polos salen de la fórmula general. || Fórmula cuadrática animada sobre el denominador. || viaje largo a la estación 2 || SVG
+Son menos zeta omega ene, más menos jota omega ene por la raíz de uno menos zeta al cuadrado. || s₁,₂ = −ζωn ± jωn√(1 − ζ²). || push in || SVG
+A la parte real le llamamos sigma, y a la imaginaria, omega de. || −ζωn se etiqueta «σ» (verde azulado) y ωn√(1−ζ²) «ωd» (violeta). El perrito asiente. || deriva lenta || SVG · perrito
+
+## Los cuatro casos · #06d6a0
+Y zeta decide la forma de la respuesta. || Deslizador de ζ junto a un plano s y una gráfica de respuesta al escalón. || viaje largo a la estación 3 || SVG
+Con zeta igual a cero, los polos son imaginarios puros y oscila para siempre. || ζ = 0: × en ±jωn; senoide sin fin, ámbar. || push in || SVG
+Entre cero y uno, son complejos: subamortiguado, con sobreimpulso. || ζ = 0.4: × complejas; la curva se pasa de 1 y oscila. || deriva lenta || SVG
+Con zeta igual a uno, se juntan en un polo doble: críticamente amortiguado, lo más rápido sin pasarse. || ζ = 1: las × se juntan en −ωn; la curva sube sin pasarse, verde. || deriva lenta || SVG
+Mayor que uno, se separan en dos polos reales: sobreamortiguado, lento y sin sobreimpulso. || ζ = 2: las × se separan por el eje real; curva lenta. || pan con desenfoque || SVG
+Y con zeta negativa, los polos cruzan a la derecha y la respuesta crece: inestable. || ζ = −0.2: las × cruzan el eje imaginario; la curva crece oscilando, roja. || push in || SVG
+
+## El triángulo · #c77dff
+Ahora dibuja el polo de arriba y baja una vertical al eje real. || Plano s grande; × en −2 + j4; línea vertical punteada al eje real. || viaje largo a la estación 4 || SVG
+Queda un triángulo rectángulo. || El triángulo se rellena en blanco translúcido. || push in || SVG
+El cateto horizontal es sigma, igual a zeta por omega ene. || Cateto horizontal en verde azulado: «σ = ζωn». || deriva lenta || SVG
+El cateto vertical es omega de, la frecuencia de la oscilación. || Cateto vertical en violeta: «ωd». || deriva lenta || SVG
+La hipotenusa, la distancia al origen, es omega ene. || Hipotenusa en blanco: «ωn = √(σ² + ωd²)». || deriva lenta || SVG
+Y el ángulo beta se mide desde el eje real negativo, no desde el imaginario. || Arco ámbar desde el eje real negativo; un arco rojo desde el eje imaginario se tacha. El perrito se inclina. || push in al origen || SVG · perrito
+Su coseno es zeta. || «cos β = ζ» en tarjeta verde. || push out || SVG
+
+## Leer el ángulo · #ff9f1c
+Por eso un polo pegado al eje imaginario tiene beta cerca de 90 grados y zeta casi cero: oscila mucho. || La × se desliza hacia el eje imaginario; β → 90°, ζ → 0; la curva oscila mucho. || viaje largo a la estación 5 || SVG
+Y uno pegado al eje real tiene zeta casi uno: casi no oscila. || La × baja hacia el eje real; ζ → 1; la curva casi no se pasa. || pan con desenfoque || SVG
+Con beta de 45 grados, zeta es 0.71. || β = 45°: cos 45° = 0.71, el número se transforma. || push in || SVG
+Con 60 grados, zeta es un medio. || β = 60°: cos 60° = 0.5. || deriva lenta || SVG
+
+## Clímax · un polo del integrador · #ff5a5f
+Pruébalo con un ejemplo real del integrador: menos dos más menos jota cuatro. || Golpe y sacudida; brillo rojo. × en −2 ± j4 con el rótulo «Integrador 1 · 2026». || push in con golpe || SVG
+Sigma es dos, omega de es cuatro, y omega ene es la raíz de 20, unos 4.47. || El triángulo se mide: σ = 2, ωd = 4, ωn = √20 ≈ 4.47, en su sitio. || deriva lenta || SVG
+Zeta es dos entre 4.47: 0.45. || ζ = 2/4.47 → 0.45. || push in || SVG
+Subamortiguado, con sobreimpulso, y sin simular nada. || Tarjeta verde «subamortiguado»; el perrito celebra con bocadillo `check-circle`. || push out || perrito · Phosphor `check-circle`
+
+## Cierre · #06d6a0
+Dibuja tres polos al azar y saca su triángulo hasta que te salga solo. || Plano general de las cinco estaciones; tres × nuevas aparecen con su triángulo. || push out a plano general || SVG
+Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+
+=== NOTAS ===
+## Fuentes y comprobación
+
+| Dato que se dice | Fuente |
+|---|---|
+| Forma estándar, polos −ζωn ± jωn√(1−ζ²) | Libro de Vásquez López §4.2; apuntes Clase 3 parte 1 (8 oct 2026), 00:59 |
+| Los cuatro casos de ζ (y ζ < 0 inestable) | Libro §4.2; artifact [Laboratorio de Control](https://claude.ai/artifact/BJfyQSa8vXzATmStSCGQMr) tabla de casos; apuntes Clase 2 parte 2 |
+| Triángulo σ, ωd, ωn y cos β = ζ medido desde el eje real negativo | Artifact [Del polo a la respuesta](https://claude.ai/artifact/Jd34SCxbLtsozfW5Y5FAkG) §2 |
+| s² + 2s + 25 → ωn = 5, ζ = 0.2 | Ejemplo propio; cuenta directa |
+| −2 ± j4 → ωn = √20 = 4.472, ζ = 0.447, β = 63.4° | Examen Integrador 1 (23 oct 2026), problema 1; sympy (`comprobaciones/verificar.py`) |
+| cos 45° = 0.707; cos 60° = 0.5 | Cuenta directa |
+
+## COMO_SE_DICE
+
+| Escrito | Se dice |
+|---|---|
+| 25 | veinticinco |
+| 0.2 | cero punto dos |
+| 0.71 | cero punto setenta y uno |
+| 4.47 | cuatro punto cuarenta y siete |
+| 0.45 | cero punto cuarenta y cinco |
+| 20 | veinte |
+| 45 / 60 / 90 | cuarenta y cinco / sesenta / noventa |
+| jota | jota (la j imaginaria) |
+
+## Medios
+Todo dibujado o animado.

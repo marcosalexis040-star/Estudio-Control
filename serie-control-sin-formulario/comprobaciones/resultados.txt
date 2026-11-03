@@ -1,0 +1,79 @@
+== Laplace
+exp(-a*t) -> 1/(a + s)
+1 -> 1/s
+t -> s**(-2)
+t*exp(-a*t) -> (a + s)**(-2)
+sin(omega*t) -> omega/(omega**2 + s**2)
+cos(omega*t) -> s/(omega**2 + s**2)
+exp(-a*t)*sin(omega*t) -> omega/(omega**2 + (a + s)**2)
+exp(-a*t)*cos(omega*t) -> (a + s)/(omega**2 + (a + s)**2)
+FP: 1/(2*(s + 2)) - 1/(s + 1) + 1/(2*s) | y(t)= Heaviside(t)/2 - exp(-t)*Heaviside(t) + exp(-2*t)*Heaviside(t)/2
+valor final: 1/2
+2/(s(s+2)) -> -1/(s + 2) + 1/s | 6/(s(s+3)) vf 2
+== Primer orden
+1-e^-1=0.6321 1-e^-3=0.9502 1-e^-4=0.9817
+4/(s+2): K=2 tau=0.5 ts= 2.0
+== Segundo orden: examen Q1
+s1 wn=4.472 z=0.447 beta=63.4 Mp=20.79% tp=0.785 ts=2.000
+s2 wn=8.944 z=0.447 beta=63.4 Mp=20.79% tp=0.393 ts=1.000
+s3 wn=5.657 z=0.707 beta=45.0 Mp=4.32% tp=0.785 ts=1.000
+s4 wn=8.246 z=0.243 beta=76.0 Mp=45.59% tp=0.393 ts=2.000
+s5 wn=8.944 z=0.894 beta=26.6 Mp=0.19% tp=0.785 ts=0.500
+== Tabla Mp(zeta)
+ z=0.100 Mp=72.9% beta=84.3
+ z=0.200 Mp=52.7% beta=78.5
+ z=0.300 Mp=37.2% beta=72.5
+ z=0.400 Mp=25.4% beta=66.4
+ z=0.500 Mp=16.3% beta=60.0
+ z=0.600 Mp=9.5% beta=53.1
+ z=0.700 Mp=4.6% beta=45.6
+ z=0.707 Mp=4.3% beta=45.0
+ z=0.800 Mp=1.5% beta=36.9
+ z=0.900 Mp=0.2% beta=25.8
+ Mp=0.50 -> zeta=0.2155
+ Mp=0.20 -> zeta=0.4559
+ Mp=0.10 -> zeta=0.5912
+ Mp=0.05 -> zeta=0.6901
+== ER3b
+a Mp=67.523% ts=4.00
+b Mp=4.321% ts=1.00
+c Mp=0.000% ts=0.50
+d Mp=4.321% ts=2.00
+ ymax a 1.0000
+ ymax b 1.0432
+ ymax c 1.7304
+ ymax d 1.0000
+== ER2 (kf,kp,kd)
+Y/R= (k_f + k_p)/(a*s + k_d*s + k_p + s**2)
+ a (kd=1,kp=5,zeta=.6)= 1.6833 | kd(a=1)= 1.6833  | crit estable kd= -1  | crit amort kd= 3.4721
+== Integrador 2025 Q1
+ Y/R= 5*b/(a*s + 5*b*s + 5*b + s**2)
+ sol a,b: {a: 1, b: 1/5}
+== Integrador 2025 Q2: G=k/(s(s+a)) rampa
+[(2, 4)]
+== Integrador 2025 Q3: s^2+5s+4+k  sigma= 2.5  ts= 1.6
+== Mason examen 2026
+ T= (a + s)*(k*s + k + s)/(a*k*s + a*k + a*s**2 + a*s + k*s**2 + 2*k*s + k + s**3 + s**2 + s)
+ den expand: [1, a + k + 1, a*k + a + 2*k + 1, a*k + k]
+ Mason == nodos: True
+== Routh
+[1, 3, 1, 8, 8] [1, 3, -5/3, 112/5, 8] [(-3.2212044607222037+0j), (-0.9074688196118915+0j), (0.5643366401670477-1.5550899528989452j), (0.5643366401670477+1.5550899528989452j)]
+[1, 5, 2, 3, 4, 10] [1, 5, 7/5, -29/7, 156/29, 10] [(-4.691919650393532+0j), (-0.8498748098374251-0.8685502267988416j), (-0.8498748098374251+0.8685502267988416j), (0.6958346350341913-0.9793612908990887j), (0.6958346350341913+0.9793612908990887j)]
+[1, 10, 1, 2] [1, 10, 4/5, 2] [(-9.919514485317793+0j), (-0.04024275734110381-0.4472172757543795j), (-0.04024275734110381+0.4472172757543795j)]
+[1, 6, 5, 30] [1, 6, 0, nan] [(-6+0j), -2.23606797749979j, 2.23606797749979j]
+ Ej42 s^3+3s^2+3s+1+k: [1, 3, 8/3 - k/3, k + 1]
+ Ej47 s^3+6s^2+5s+2k: [1, 6, 5 - k/3, 2*k]
+  Kc=15 w=2.236 Pc=2.810 kp=9.0 Ti=1.405 Td=0.351
+ Ej42 ess=0.1 escalon -> k: [9]
+ Examen Q2 Routh: [1, a + k + 1, (-k*(a + 1) + (a + k + 1)*(a*k + a + 2*k + 1))/(a + k + 1), k*(a + 1)]
+a**2*k + a**2 + a*k**2 + 3*a*k + 2*a + 2*k**2 + 2*k + 1
+== Variables de estado
+ C(sI-A)^-1B = 3/(s**2 + 3*s + 2)  det= (s + 1)*(s + 2)
+ ER4 char: k1 + k2*s + s**2 {k1: 8, k2: 4}
+  ER4 T(s)= 1/(s**2 + 4*s + 8)  yss= 1/8  ess= 7/8
+ ER5 G= 1/(s*(b + s))
+  ER5 char: b*s + k1 + k2*s + s**2 {k1: 4*b**2, k2: 3*b}
+  ER5 T= k3/(2*b + s)**2  k3 para ess=0: [4*b**2]
+ Prueba: G= b + c1/(p1 + s) + c2/(p2 + s) + c3/(p3 + s)  det= (p1 + s)*(p2 + s)*(p3 + s)
+== Ej.27 diseño: s^2+8s+32 -> wn=5.657 z=0.707 Mp=4.32% tp=0.785 ts=1.00
+== Inversa 2x2: [[a,b],[c,d]]^-1 = Matrix([[d/(a*d - b*c), -b/(a*d - b*c)], [-c/(a*d - b*c), a/(a*d - b*c)]])
