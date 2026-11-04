@@ -31,4 +31,4 @@ K solo mueve el último término: la parte real se queda fija en menos 2.5.
 El establecimiento no puede bajar de 1.6 segundos, por más ganancia que pongas.
 Por eso piden un PID: para mover lo que una ganancia sola no mueve.
 Antes de despejar, revisa qué coeficientes puede mover cada parámetro.
-Sígueme para más trucos de control.
+En el siguiente vídeo: álgebra de bloques.

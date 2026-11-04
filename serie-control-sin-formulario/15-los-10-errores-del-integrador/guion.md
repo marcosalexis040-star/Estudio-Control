@@ -8,7 +8,7 @@
 | publico | estudiantes de Ingeniería de Control que presentan el integrador sin formulario |
 | tema | repaso final de toda la serie; errores típicos; estrategia de tiempo; plano general de los 15 vídeos |
 | Frases | 33 |
-| Palabras | 371 |
+| Palabras | 370 |
 | Duración estimada | ~2:24 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
 
 Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bien y rojo = mal, Inter en negrita a 46 px o más, iconos de Phosphor. Un solo mundo 2D: cada bloque es una estación unida por un camino que se dibuja mientras viaja la cámara. El perrito es la foto recortada `assets/perrito-recorte.png`; nunca tapa texto.
@@ -84,7 +84,7 @@ Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bie
 | # | Frase (voz) | Qué se ve | Cámara | Medio |
 |---:|---|---|---|---|
 | 32 | Repasa la serie completa una vez antes del examen. | Push out a plano general con las 15 estaciones de la serie unidas por el camino, cada una con su título. | push out a plano general | SVG |
-| 33 | Sígueme para más trucos de control. | Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». | push in a la tarjeta | perrito-avatar.png |
+| 33 | Mucho éxito en tu integrador. | Tarjeta final «Fin de la serie» con el mapa de los 15 vídeos. | push in a la tarjeta | SVG |
 
 ## Fuentes y comprobación
 

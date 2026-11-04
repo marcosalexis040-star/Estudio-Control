@@ -1,0 +1,2581 @@
+{
+ "video": "05-segundo-orden-deduce-las-formulas",
+ "voz": "em_alex",
+ "duracion": 155.72,
+ "bloques": [
+  {
+   "nombre": "Gancho",
+   "color": "#ff5a5f"
+  },
+  {
+   "nombre": "La respuesta",
+   "color": "#4da3ff"
+  },
+  {
+   "nombre": "Tiempo pico",
+   "color": "#c77dff"
+  },
+  {
+   "nombre": "Sobreimpulso",
+   "color": "#ffd166"
+  },
+  {
+   "nombre": "Establecimiento y subida",
+   "color": "#06d6a0"
+  },
+  {
+   "nombre": "Cuatro valores para memorizar",
+   "color": "#ff9f1c"
+  },
+  {
+   "nombre": "Clímax",
+   "color": "Mp directo del polo · #ff5a5f"
+  },
+  {
+   "nombre": "Cierre",
+   "color": "#06d6a0"
+  }
+ ],
+ "frases": [
+  {
+   "bloque": 0,
+   "frase": 0,
+   "texto": "Sin formulario, las fórmulas de tiempo pico y sobreimpulso son las que primero se olvidan.",
+   "dicho": "Sin formulario, las fórmulas de tiempo pico y sobreimpulso son las que primero se olvidan.",
+   "camara": "push in rápido",
+   "inicio": 0.35,
+   "fin": 5.525,
+   "palabras": [
+    {
+     "w": "Sin",
+     "inicio": 0.35,
+     "fin": 1.123
+    },
+    {
+     "w": "formulario,",
+     "inicio": 1.123,
+     "fin": 3.7
+    },
+    {
+     "w": "las",
+     "inicio": 3.9,
+     "fin": 3.981
+    },
+    {
+     "w": "fórmulas",
+     "inicio": 3.981,
+     "fin": 4.198
+    },
+    {
+     "w": "de",
+     "inicio": 4.198,
+     "fin": 4.252
+    },
+    {
+     "w": "tiempo",
+     "inicio": 4.252,
+     "fin": 4.415
+    },
+    {
+     "w": "pico",
+     "inicio": 4.415,
+     "fin": 4.523
+    },
+    {
+     "w": "y",
+     "inicio": 4.523,
+     "fin": 4.55
+    },
+    {
+     "w": "sobreimpulso",
+     "inicio": 4.55,
+     "fin": 4.875
+    },
+    {
+     "w": "son",
+     "inicio": 4.875,
+     "fin": 4.956
+    },
+    {
+     "w": "las",
+     "inicio": 4.956,
+     "fin": 5.038
+    },
+    {
+     "w": "que",
+     "inicio": 5.038,
+     "fin": 5.092
+    },
+    {
+     "w": "primero",
+     "inicio": 5.092,
+     "fin": 5.281
+    },
+    {
+     "w": "se",
+     "inicio": 5.281,
+     "fin": 5.335
+    },
+    {
+     "w": "olvidan.",
+     "inicio": 5.335,
+     "fin": 5.525
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 1,
+   "texto": "Y en el último integrador valían 40 puntos.",
+   "dicho": "Y en el último integrador valían 40 puntos.",
+   "camara": "deriva lenta",
+   "inicio": 5.825,
+   "fin": 8.746,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 5.825,
+     "fin": 5.896
+    },
+    {
+     "w": "en",
+     "inicio": 5.896,
+     "fin": 6.039
+    },
+    {
+     "w": "el",
+     "inicio": 6.039,
+     "fin": 6.181
+    },
+    {
+     "w": "último",
+     "inicio": 6.181,
+     "fin": 6.609
+    },
+    {
+     "w": "integrador",
+     "inicio": 6.609,
+     "fin": 7.321
+    },
+    {
+     "w": "valían",
+     "inicio": 7.321,
+     "fin": 7.748
+    },
+    {
+     "w": "40",
+     "inicio": 7.748,
+     "fin": 8.318
+    },
+    {
+     "w": "puntos.",
+     "inicio": 8.318,
+     "fin": 8.746
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 2,
+   "texto": "No las memorices: dedúcelas de una sola ecuación en un minuto.",
+   "dicho": "No las memorices: dedúcelas de una sola ecuación en un minuto.",
+   "camara": "push out",
+   "inicio": 9.046,
+   "fin": 12.622,
+   "palabras": [
+    {
+     "w": "No",
+     "inicio": 9.046,
+     "fin": 9.187
+    },
+    {
+     "w": "las",
+     "inicio": 9.187,
+     "fin": 9.399
+    },
+    {
+     "w": "memorices:",
+     "inicio": 9.399,
+     "fin": 10.036
+    },
+    {
+     "w": "dedúcelas",
+     "inicio": 10.246,
+     "fin": 10.84
+    },
+    {
+     "w": "de",
+     "inicio": 10.84,
+     "fin": 10.972
+    },
+    {
+     "w": "una",
+     "inicio": 10.972,
+     "fin": 11.17
+    },
+    {
+     "w": "sola",
+     "inicio": 11.17,
+     "fin": 11.434
+    },
+    {
+     "w": "ecuación",
+     "inicio": 11.434,
+     "fin": 11.962
+    },
+    {
+     "w": "en",
+     "inicio": 11.962,
+     "fin": 12.094
+    },
+    {
+     "w": "un",
+     "inicio": 12.094,
+     "fin": 12.226
+    },
+    {
+     "w": "minuto.",
+     "inicio": 12.226,
+     "fin": 12.622
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 0,
+   "texto": "La respuesta al escalón subamortiguada es uno, menos una exponencial que se apaga, por un seno.",
+   "dicho": "La respuesta al escalón subamortiguada es uno, menos una exponencial que se apaga, por un seno.",
+   "camara": "viaje largo a la estación 1",
+   "inicio": 13.122,
+   "fin": 18.577,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 13.122,
+     "fin": 13.264
+    },
+    {
+     "w": "respuesta",
+     "inicio": 13.264,
+     "fin": 13.901
+    },
+    {
+     "w": "al",
+     "inicio": 13.901,
+     "fin": 14.043
+    },
+    {
+     "w": "escalón",
+     "inicio": 14.043,
+     "fin": 14.539
+    },
+    {
+     "w": "subamortiguada",
+     "inicio": 14.539,
+     "fin": 15.531
+    },
+    {
+     "w": "es",
+     "inicio": 15.531,
+     "fin": 15.673
+    },
+    {
+     "w": "uno,",
+     "inicio": 15.673,
+     "fin": 15.885
+    },
+    {
+     "w": "menos",
+     "inicio": 15.885,
+     "fin": 16.239
+    },
+    {
+     "w": "una",
+     "inicio": 16.239,
+     "fin": 16.452
+    },
+    {
+     "w": "exponencial",
+     "inicio": 16.452,
+     "fin": 17.302
+    },
+    {
+     "w": "que",
+     "inicio": 17.302,
+     "fin": 17.444
+    },
+    {
+     "w": "se",
+     "inicio": 17.444,
+     "fin": 17.585
+    },
+    {
+     "w": "apaga,",
+     "inicio": 17.585,
+     "fin": 17.94
+    },
+    {
+     "w": "por",
+     "inicio": 17.94,
+     "fin": 18.152
+    },
+    {
+     "w": "un",
+     "inicio": 18.152,
+     "fin": 18.294
+    },
+    {
+     "w": "seno.",
+     "inicio": 18.294,
+     "fin": 18.577
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 1,
+   "texto": "La exponencial es e a la menos sigma t: solo contiene a sigma, y es la envolvente.",
+   "dicho": "La exponencial es e a la menos sigma t: solo contiene a sigma, y es la envolvente.",
+   "camara": "push in",
+   "inicio": 18.877,
+   "fin": 23.659,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 18.877,
+     "fin": 19.025
+    },
+    {
+     "w": "exponencial",
+     "inicio": 19.025,
+     "fin": 19.907
+    },
+    {
+     "w": "es",
+     "inicio": 19.907,
+     "fin": 20.054
+    },
+    {
+     "w": "e",
+     "inicio": 20.054,
+     "fin": 20.128
+    },
+    {
+     "w": "a",
+     "inicio": 20.128,
+     "fin": 20.202
+    },
+    {
+     "w": "la",
+     "inicio": 20.202,
+     "fin": 20.349
+    },
+    {
+     "w": "menos",
+     "inicio": 20.349,
+     "fin": 20.717
+    },
+    {
+     "w": "sigma",
+     "inicio": 20.717,
+     "fin": 21.084
+    },
+    {
+     "w": "t:",
+     "inicio": 21.084,
+     "fin": 21.232
+    },
+    {
+     "w": "solo",
+     "inicio": 21.232,
+     "fin": 21.526
+    },
+    {
+     "w": "contiene",
+     "inicio": 21.526,
+     "fin": 22.114
+    },
+    {
+     "w": "a",
+     "inicio": 22.114,
+     "fin": 22.188
+    },
+    {
+     "w": "sigma,",
+     "inicio": 22.188,
+     "fin": 22.556
+    },
+    {
+     "w": "y",
+     "inicio": 22.556,
+     "fin": 22.629
+    },
+    {
+     "w": "es",
+     "inicio": 22.629,
+     "fin": 22.776
+    },
+    {
+     "w": "la",
+     "inicio": 22.776,
+     "fin": 22.924
+    },
+    {
+     "w": "envolvente.",
+     "inicio": 22.924,
+     "fin": 23.659
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 2,
+   "texto": "El seno oscila con frecuencia omega de, y empieza desfasado el ángulo beta.",
+   "dicho": "El seno oscila con frecuencia omega de, y empieza desfasado el ángulo beta.",
+   "camara": "deriva lenta",
+   "inicio": 23.959,
+   "fin": 28.466,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 23.959,
+     "fin": 24.101
+    },
+    {
+     "w": "seno",
+     "inicio": 24.101,
+     "fin": 24.383
+    },
+    {
+     "w": "oscila",
+     "inicio": 24.383,
+     "fin": 24.807
+    },
+    {
+     "w": "con",
+     "inicio": 24.807,
+     "fin": 25.019
+    },
+    {
+     "w": "frecuencia",
+     "inicio": 25.019,
+     "fin": 25.725
+    },
+    {
+     "w": "omega",
+     "inicio": 25.725,
+     "fin": 26.078
+    },
+    {
+     "w": "de,",
+     "inicio": 26.078,
+     "fin": 26.219
+    },
+    {
+     "w": "y",
+     "inicio": 26.489,
+     "fin": 26.557
+    },
+    {
+     "w": "empieza",
+     "inicio": 26.557,
+     "fin": 27.034
+    },
+    {
+     "w": "desfasado",
+     "inicio": 27.034,
+     "fin": 27.648
+    },
+    {
+     "w": "el",
+     "inicio": 27.648,
+     "fin": 27.784
+    },
+    {
+     "w": "ángulo",
+     "inicio": 27.784,
+     "fin": 28.193
+    },
+    {
+     "w": "beta.",
+     "inicio": 28.193,
+     "fin": 28.466
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 0,
+   "texto": "El pico está donde la derivada vale cero.",
+   "dicho": "El pico está donde la derivada vale cero.",
+   "camara": "viaje largo a la estación 2",
+   "inicio": 28.966,
+   "fin": 31.506,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 28.966,
+     "fin": 29.119
+    },
+    {
+     "w": "pico",
+     "inicio": 29.119,
+     "fin": 29.427
+    },
+    {
+     "w": "está",
+     "inicio": 29.427,
+     "fin": 29.735
+    },
+    {
+     "w": "donde",
+     "inicio": 29.735,
+     "fin": 30.12
+    },
+    {
+     "w": "la",
+     "inicio": 30.12,
+     "fin": 30.274
+    },
+    {
+     "w": "derivada",
+     "inicio": 30.274,
+     "fin": 30.89
+    },
+    {
+     "w": "vale",
+     "inicio": 30.89,
+     "fin": 31.198
+    },
+    {
+     "w": "cero.",
+     "inicio": 31.198,
+     "fin": 31.506
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 1,
+   "texto": "La derivada del escalón es la respuesta al impulso: una exponencial por seno de omega de t.",
+   "dicho": "La derivada del escalón es la respuesta al impulso: una exponencial por seno de omega de t.",
+   "camara": "push in",
+   "inicio": 31.806,
+   "fin": 37.161,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 31.806,
+     "fin": 31.941
+    },
+    {
+     "w": "derivada",
+     "inicio": 31.941,
+     "fin": 32.482
+    },
+    {
+     "w": "del",
+     "inicio": 32.482,
+     "fin": 32.685
+    },
+    {
+     "w": "escalón",
+     "inicio": 32.685,
+     "fin": 33.158
+    },
+    {
+     "w": "es",
+     "inicio": 33.158,
+     "fin": 33.293
+    },
+    {
+     "w": "la",
+     "inicio": 33.293,
+     "fin": 33.429
+    },
+    {
+     "w": "respuesta",
+     "inicio": 33.429,
+     "fin": 34.037
+    },
+    {
+     "w": "al",
+     "inicio": 34.037,
+     "fin": 34.172
+    },
+    {
+     "w": "impulso:",
+     "inicio": 34.172,
+     "fin": 34.646
+    },
+    {
+     "w": "una",
+     "inicio": 34.986,
+     "fin": 35.183
+    },
+    {
+     "w": "exponencial",
+     "inicio": 35.183,
+     "fin": 35.974
+    },
+    {
+     "w": "por",
+     "inicio": 35.974,
+     "fin": 36.172
+    },
+    {
+     "w": "seno",
+     "inicio": 36.172,
+     "fin": 36.436
+    },
+    {
+     "w": "de",
+     "inicio": 36.436,
+     "fin": 36.568
+    },
+    {
+     "w": "omega",
+     "inicio": 36.568,
+     "fin": 36.897
+    },
+    {
+     "w": "de",
+     "inicio": 36.897,
+     "fin": 37.029
+    },
+    {
+     "w": "t.",
+     "inicio": 37.029,
+     "fin": 37.161
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 2,
+   "texto": "La exponencial nunca vale cero, así que manda el seno.",
+   "dicho": "La exponencial nunca vale cero, así que manda el seno.",
+   "camara": "deriva lenta",
+   "inicio": 37.461,
+   "fin": 40.624,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 37.461,
+     "fin": 37.59
+    },
+    {
+     "w": "exponencial",
+     "inicio": 37.59,
+     "fin": 38.363
+    },
+    {
+     "w": "nunca",
+     "inicio": 38.363,
+     "fin": 38.685
+    },
+    {
+     "w": "vale",
+     "inicio": 38.685,
+     "fin": 38.943
+    },
+    {
+     "w": "cero,",
+     "inicio": 38.943,
+     "fin": 39.201
+    },
+    {
+     "w": "así",
+     "inicio": 39.361,
+     "fin": 39.598
+    },
+    {
+     "w": "que",
+     "inicio": 39.598,
+     "fin": 39.756
+    },
+    {
+     "w": "manda",
+     "inicio": 39.756,
+     "fin": 40.15
+    },
+    {
+     "w": "el",
+     "inicio": 40.15,
+     "fin": 40.308
+    },
+    {
+     "w": "seno.",
+     "inicio": 40.308,
+     "fin": 40.624
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 3,
+   "texto": "El primer cero después del inicio es omega de t igual a pi.",
+   "dicho": "El primer cero después del inicio es omega de t igual a pi.",
+   "camara": "push in",
+   "inicio": 40.924,
+   "fin": 44.545,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 40.924,
+     "fin": 41.078
+    },
+    {
+     "w": "primer",
+     "inicio": 41.078,
+     "fin": 41.541
+    },
+    {
+     "w": "cero",
+     "inicio": 41.541,
+     "fin": 41.849
+    },
+    {
+     "w": "después",
+     "inicio": 41.849,
+     "fin": 42.388
+    },
+    {
+     "w": "del",
+     "inicio": 42.388,
+     "fin": 42.619
+    },
+    {
+     "w": "inicio",
+     "inicio": 42.619,
+     "fin": 43.081
+    },
+    {
+     "w": "es",
+     "inicio": 43.081,
+     "fin": 43.235
+    },
+    {
+     "w": "omega",
+     "inicio": 43.235,
+     "fin": 43.621
+    },
+    {
+     "w": "de",
+     "inicio": 43.621,
+     "fin": 43.775
+    },
+    {
+     "w": "t",
+     "inicio": 43.775,
+     "fin": 43.929
+    },
+    {
+     "w": "igual",
+     "inicio": 43.929,
+     "fin": 44.314
+    },
+    {
+     "w": "a",
+     "inicio": 44.314,
+     "fin": 44.391
+    },
+    {
+     "w": "pi.",
+     "inicio": 44.391,
+     "fin": 44.545
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 4,
+   "texto": "Tiempo pico: pi entre omega de. Solo depende de la parte imaginaria.",
+   "dicho": "Tiempo pico: pi entre omega de. Solo depende de la parte imaginaria.",
+   "camara": "push out",
+   "inicio": 44.845,
+   "fin": 48.759,
+   "palabras": [
+    {
+     "w": "Tiempo",
+     "inicio": 44.845,
+     "fin": 45.829
+    },
+    {
+     "w": "pico:",
+     "inicio": 45.829,
+     "fin": 46.485
+    },
+    {
+     "w": "pi",
+     "inicio": 46.715,
+     "fin": 46.808
+    },
+    {
+     "w": "entre",
+     "inicio": 46.808,
+     "fin": 47.04
+    },
+    {
+     "w": "omega",
+     "inicio": 47.04,
+     "fin": 47.272
+    },
+    {
+     "w": "de.",
+     "inicio": 47.272,
+     "fin": 47.365
+    },
+    {
+     "w": "Solo",
+     "inicio": 47.365,
+     "fin": 47.551
+    },
+    {
+     "w": "depende",
+     "inicio": 47.551,
+     "fin": 47.876
+    },
+    {
+     "w": "de",
+     "inicio": 47.876,
+     "fin": 47.969
+    },
+    {
+     "w": "la",
+     "inicio": 47.969,
+     "fin": 48.062
+    },
+    {
+     "w": "parte",
+     "inicio": 48.062,
+     "fin": 48.294
+    },
+    {
+     "w": "imaginaria.",
+     "inicio": 48.294,
+     "fin": 48.759
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 0,
+   "texto": "Ahora evalúa la exponencial en ese tiempo.",
+   "dicho": "Ahora evalúa la exponencial en ese tiempo.",
+   "camara": "viaje largo a la estación 3",
+   "inicio": 49.259,
+   "fin": 51.684,
+   "palabras": [
+    {
+     "w": "Ahora",
+     "inicio": 49.259,
+     "fin": 49.536
+    },
+    {
+     "w": "evalúa",
+     "inicio": 49.536,
+     "fin": 49.952
+    },
+    {
+     "w": "la",
+     "inicio": 49.952,
+     "fin": 50.09
+    },
+    {
+     "w": "exponencial",
+     "inicio": 50.09,
+     "fin": 50.922
+    },
+    {
+     "w": "en",
+     "inicio": 50.922,
+     "fin": 51.061
+    },
+    {
+     "w": "ese",
+     "inicio": 51.061,
+     "fin": 51.268
+    },
+    {
+     "w": "tiempo.",
+     "inicio": 51.268,
+     "fin": 51.684
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 1,
+   "texto": "Te queda e a la menos pi por sigma entre omega de.",
+   "dicho": "Te queda e a la menos pi por sigma entre omega de.",
+   "camara": "push in",
+   "inicio": 51.984,
+   "fin": 54.773,
+   "palabras": [
+    {
+     "w": "Te",
+     "inicio": 51.984,
+     "fin": 52.135
+    },
+    {
+     "w": "queda",
+     "inicio": 52.135,
+     "fin": 52.436
+    },
+    {
+     "w": "e",
+     "inicio": 52.436,
+     "fin": 52.512
+    },
+    {
+     "w": "a",
+     "inicio": 52.512,
+     "fin": 52.587
+    },
+    {
+     "w": "la",
+     "inicio": 52.587,
+     "fin": 52.738
+    },
+    {
+     "w": "menos",
+     "inicio": 52.738,
+     "fin": 53.115
+    },
+    {
+     "w": "pi",
+     "inicio": 53.115,
+     "fin": 53.265
+    },
+    {
+     "w": "por",
+     "inicio": 53.265,
+     "fin": 53.491
+    },
+    {
+     "w": "sigma",
+     "inicio": 53.491,
+     "fin": 53.868
+    },
+    {
+     "w": "entre",
+     "inicio": 53.868,
+     "fin": 54.245
+    },
+    {
+     "w": "omega",
+     "inicio": 54.245,
+     "fin": 54.622
+    },
+    {
+     "w": "de.",
+     "inicio": 54.622,
+     "fin": 54.773
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 2,
+   "texto": "Ese es el sobreimpulso máximo, y solo depende del cociente sigma entre omega de, es decir, del ángulo.",
+   "dicho": "Ese es el sobreimpulso máximo, y solo depende del cociente sigma entre omega de, es decir, del ángulo.",
+   "camara": "deriva lenta",
+   "inicio": 55.073,
+   "fin": 61.103,
+   "palabras": [
+    {
+     "w": "Ese",
+     "inicio": 55.073,
+     "fin": 55.293
+    },
+    {
+     "w": "es",
+     "inicio": 55.293,
+     "fin": 55.44
+    },
+    {
+     "w": "el",
+     "inicio": 55.44,
+     "fin": 55.587
+    },
+    {
+     "w": "sobreimpulso",
+     "inicio": 55.587,
+     "fin": 56.47
+    },
+    {
+     "w": "máximo,",
+     "inicio": 56.47,
+     "fin": 56.985
+    },
+    {
+     "w": "y",
+     "inicio": 56.985,
+     "fin": 57.058
+    },
+    {
+     "w": "solo",
+     "inicio": 57.058,
+     "fin": 57.352
+    },
+    {
+     "w": "depende",
+     "inicio": 57.352,
+     "fin": 57.867
+    },
+    {
+     "w": "del",
+     "inicio": 57.867,
+     "fin": 58.088
+    },
+    {
+     "w": "cociente",
+     "inicio": 58.088,
+     "fin": 58.676
+    },
+    {
+     "w": "sigma",
+     "inicio": 58.676,
+     "fin": 59.044
+    },
+    {
+     "w": "entre",
+     "inicio": 59.044,
+     "fin": 59.411
+    },
+    {
+     "w": "omega",
+     "inicio": 59.411,
+     "fin": 59.779
+    },
+    {
+     "w": "de,",
+     "inicio": 59.779,
+     "fin": 59.926
+    },
+    {
+     "w": "es",
+     "inicio": 59.926,
+     "fin": 60.073
+    },
+    {
+     "w": "decir,",
+     "inicio": 60.073,
+     "fin": 60.441
+    },
+    {
+     "w": "del",
+     "inicio": 60.441,
+     "fin": 60.662
+    },
+    {
+     "w": "ángulo.",
+     "inicio": 60.662,
+     "fin": 61.103
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 3,
+   "texto": "En términos de zeta: e a la menos pi zeta entre la raíz de uno menos zeta al cuadrado.",
+   "dicho": "En términos de zeta: e a la menos pi zeta entre la raíz de uno menos zeta al cuadrado.",
+   "camara": "deriva lenta",
+   "inicio": 61.403,
+   "fin": 66.335,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 61.403,
+     "fin": 61.535
+    },
+    {
+     "w": "términos",
+     "inicio": 61.535,
+     "fin": 62.065
+    },
+    {
+     "w": "de",
+     "inicio": 62.065,
+     "fin": 62.198
+    },
+    {
+     "w": "zeta:",
+     "inicio": 62.198,
+     "fin": 62.463
+    },
+    {
+     "w": "e",
+     "inicio": 62.773,
+     "fin": 62.844
+    },
+    {
+     "w": "a",
+     "inicio": 62.844,
+     "fin": 62.915
+    },
+    {
+     "w": "la",
+     "inicio": 62.915,
+     "fin": 63.058
+    },
+    {
+     "w": "menos",
+     "inicio": 63.058,
+     "fin": 63.414
+    },
+    {
+     "w": "pi",
+     "inicio": 63.414,
+     "fin": 63.557
+    },
+    {
+     "w": "zeta",
+     "inicio": 63.557,
+     "fin": 63.842
+    },
+    {
+     "w": "entre",
+     "inicio": 63.842,
+     "fin": 64.198
+    },
+    {
+     "w": "la",
+     "inicio": 64.198,
+     "fin": 64.34
+    },
+    {
+     "w": "raíz",
+     "inicio": 64.34,
+     "fin": 64.625
+    },
+    {
+     "w": "de",
+     "inicio": 64.625,
+     "fin": 64.768
+    },
+    {
+     "w": "uno",
+     "inicio": 64.768,
+     "fin": 64.981
+    },
+    {
+     "w": "menos",
+     "inicio": 64.981,
+     "fin": 65.338
+    },
+    {
+     "w": "zeta",
+     "inicio": 65.338,
+     "fin": 65.623
+    },
+    {
+     "w": "al",
+     "inicio": 65.623,
+     "fin": 65.765
+    },
+    {
+     "w": "cuadrado.",
+     "inicio": 65.765,
+     "fin": 66.335
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 0,
+   "texto": "Para el establecimiento, pide que la envolvente baje del 2 %.",
+   "dicho": "Para el establecimiento, pide que la envolvente baje del 2 %.",
+   "camara": "viaje largo a la estación 4",
+   "inicio": 66.835,
+   "fin": 70.652,
+   "palabras": [
+    {
+     "w": "Para",
+     "inicio": 66.835,
+     "fin": 67.046
+    },
+    {
+     "w": "el",
+     "inicio": 67.046,
+     "fin": 67.152
+    },
+    {
+     "w": "establecimiento,",
+     "inicio": 67.152,
+     "fin": 67.945
+    },
+    {
+     "w": "pide",
+     "inicio": 68.195,
+     "fin": 68.461
+    },
+    {
+     "w": "que",
+     "inicio": 68.461,
+     "fin": 68.593
+    },
+    {
+     "w": "la",
+     "inicio": 68.593,
+     "fin": 68.726
+    },
+    {
+     "w": "envolvente",
+     "inicio": 68.726,
+     "fin": 69.39
+    },
+    {
+     "w": "baje",
+     "inicio": 69.39,
+     "fin": 69.656
+    },
+    {
+     "w": "del",
+     "inicio": 69.656,
+     "fin": 69.855
+    },
+    {
+     "w": "2",
+     "inicio": 69.855,
+     "fin": 70.054
+    },
+    {
+     "w": "%.",
+     "inicio": 70.054,
+     "fin": 70.652
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 1,
+   "texto": "Como el logaritmo de 50 es casi cuatro, queda cuatro entre sigma.",
+   "dicho": "Como el logaritmo de 50 es casi cuatro, queda cuatro entre sigma.",
+   "camara": "push in",
+   "inicio": 70.952,
+   "fin": 74.92,
+   "palabras": [
+    {
+     "w": "Como",
+     "inicio": 70.952,
+     "fin": 71.219
+    },
+    {
+     "w": "el",
+     "inicio": 71.219,
+     "fin": 71.353
+    },
+    {
+     "w": "logaritmo",
+     "inicio": 71.353,
+     "fin": 71.954
+    },
+    {
+     "w": "de",
+     "inicio": 71.954,
+     "fin": 72.088
+    },
+    {
+     "w": "50",
+     "inicio": 72.088,
+     "fin": 72.69
+    },
+    {
+     "w": "es",
+     "inicio": 72.69,
+     "fin": 72.823
+    },
+    {
+     "w": "casi",
+     "inicio": 72.823,
+     "fin": 73.091
+    },
+    {
+     "w": "cuatro,",
+     "inicio": 73.091,
+     "fin": 73.492
+    },
+    {
+     "w": "queda",
+     "inicio": 73.662,
+     "fin": 73.913
+    },
+    {
+     "w": "cuatro",
+     "inicio": 73.913,
+     "fin": 74.291
+    },
+    {
+     "w": "entre",
+     "inicio": 74.291,
+     "fin": 74.605
+    },
+    {
+     "w": "sigma.",
+     "inicio": 74.605,
+     "fin": 74.92
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 2,
+   "texto": "Por eso el tiempo de establecimiento es aproximado y solo depende de la parte real.",
+   "dicho": "Por eso el tiempo de establecimiento es aproximado y solo depende de la parte real.",
+   "camara": "deriva lenta",
+   "inicio": 75.22,
+   "fin": 79.931,
+   "palabras": [
+    {
+     "w": "Por",
+     "inicio": 75.22,
+     "fin": 75.425
+    },
+    {
+     "w": "eso",
+     "inicio": 75.425,
+     "fin": 75.63
+    },
+    {
+     "w": "el",
+     "inicio": 75.63,
+     "fin": 75.766
+    },
+    {
+     "w": "tiempo",
+     "inicio": 75.766,
+     "fin": 76.176
+    },
+    {
+     "w": "de",
+     "inicio": 76.176,
+     "fin": 76.312
+    },
+    {
+     "w": "establecimiento",
+     "inicio": 76.312,
+     "fin": 77.336
+    },
+    {
+     "w": "es",
+     "inicio": 77.336,
+     "fin": 77.473
+    },
+    {
+     "w": "aproximado",
+     "inicio": 77.473,
+     "fin": 78.224
+    },
+    {
+     "w": "y",
+     "inicio": 78.224,
+     "fin": 78.292
+    },
+    {
+     "w": "solo",
+     "inicio": 78.292,
+     "fin": 78.565
+    },
+    {
+     "w": "depende",
+     "inicio": 78.565,
+     "fin": 79.043
+    },
+    {
+     "w": "de",
+     "inicio": 79.043,
+     "fin": 79.18
+    },
+    {
+     "w": "la",
+     "inicio": 79.18,
+     "fin": 79.316
+    },
+    {
+     "w": "parte",
+     "inicio": 79.316,
+     "fin": 79.658
+    },
+    {
+     "w": "real.",
+     "inicio": 79.658,
+     "fin": 79.931
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 3,
+   "texto": "Con el criterio del 5 % es tres entre sigma.",
+   "dicho": "Con el criterio del 5 % es tres entre sigma.",
+   "camara": "deriva lenta",
+   "inicio": 80.231,
+   "fin": 83.525,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 80.231,
+     "fin": 80.446
+    },
+    {
+     "w": "el",
+     "inicio": 80.446,
+     "fin": 80.589
+    },
+    {
+     "w": "criterio",
+     "inicio": 80.589,
+     "fin": 81.162
+    },
+    {
+     "w": "del",
+     "inicio": 81.162,
+     "fin": 81.377
+    },
+    {
+     "w": "5",
+     "inicio": 81.377,
+     "fin": 81.735
+    },
+    {
+     "w": "%",
+     "inicio": 81.735,
+     "fin": 82.379
+    },
+    {
+     "w": "es",
+     "inicio": 82.379,
+     "fin": 82.522
+    },
+    {
+     "w": "tres",
+     "inicio": 82.522,
+     "fin": 82.809
+    },
+    {
+     "w": "entre",
+     "inicio": 82.809,
+     "fin": 83.167
+    },
+    {
+     "w": "sigma.",
+     "inicio": 83.167,
+     "fin": 83.525
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 4,
+   "texto": "Y el tiempo de subida, de cero al cien por ciento, es pi menos beta, entre omega de.",
+   "dicho": "Y el tiempo de subida, de cero al cien por ciento, es pi menos beta, entre omega de.",
+   "camara": "push in",
+   "inicio": 83.825,
+   "fin": 88.281,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 83.825,
+     "fin": 83.895
+    },
+    {
+     "w": "el",
+     "inicio": 83.895,
+     "fin": 84.037
+    },
+    {
+     "w": "tiempo",
+     "inicio": 84.037,
+     "fin": 84.461
+    },
+    {
+     "w": "de",
+     "inicio": 84.461,
+     "fin": 84.603
+    },
+    {
+     "w": "subida,",
+     "inicio": 84.603,
+     "fin": 85.027
+    },
+    {
+     "w": "de",
+     "inicio": 85.027,
+     "fin": 85.169
+    },
+    {
+     "w": "cero",
+     "inicio": 85.169,
+     "fin": 85.451
+    },
+    {
+     "w": "al",
+     "inicio": 85.451,
+     "fin": 85.593
+    },
+    {
+     "w": "cien",
+     "inicio": 85.593,
+     "fin": 85.876
+    },
+    {
+     "w": "por",
+     "inicio": 85.876,
+     "fin": 86.088
+    },
+    {
+     "w": "ciento,",
+     "inicio": 86.088,
+     "fin": 86.512
+    },
+    {
+     "w": "es",
+     "inicio": 86.512,
+     "fin": 86.654
+    },
+    {
+     "w": "pi",
+     "inicio": 86.654,
+     "fin": 86.795
+    },
+    {
+     "w": "menos",
+     "inicio": 86.795,
+     "fin": 87.149
+    },
+    {
+     "w": "beta,",
+     "inicio": 87.149,
+     "fin": 87.432
+    },
+    {
+     "w": "entre",
+     "inicio": 87.432,
+     "fin": 87.786
+    },
+    {
+     "w": "omega",
+     "inicio": 87.786,
+     "fin": 88.139
+    },
+    {
+     "w": "de.",
+     "inicio": 88.139,
+     "fin": 88.281
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 0,
+   "texto": "Para no depender de la calculadora, memoriza cuatro parejas.",
+   "dicho": "Para no depender de la calculadora, memoriza cuatro parejas.",
+   "camara": "viaje largo a la estación 5",
+   "inicio": 88.781,
+   "fin": 92.222,
+   "palabras": [
+    {
+     "w": "Para",
+     "inicio": 88.781,
+     "fin": 89.025
+    },
+    {
+     "w": "no",
+     "inicio": 89.025,
+     "fin": 89.147
+    },
+    {
+     "w": "depender",
+     "inicio": 89.147,
+     "fin": 89.635
+    },
+    {
+     "w": "de",
+     "inicio": 89.635,
+     "fin": 89.757
+    },
+    {
+     "w": "la",
+     "inicio": 89.757,
+     "fin": 89.879
+    },
+    {
+     "w": "calculadora,",
+     "inicio": 89.879,
+     "fin": 90.551
+    },
+    {
+     "w": "memoriza",
+     "inicio": 90.731,
+     "fin": 91.299
+    },
+    {
+     "w": "cuatro",
+     "inicio": 91.299,
+     "fin": 91.725
+    },
+    {
+     "w": "parejas.",
+     "inicio": 91.725,
+     "fin": 92.222
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 1,
+   "texto": "Zeta 0.5 da 16 % de sobreimpulso.",
+   "dicho": "Zeta 0.5 da 16 % de sobreimpulso.",
+   "camara": "deriva lenta",
+   "inicio": 92.522,
+   "fin": 96.329,
+   "palabras": [
+    {
+     "w": "Zeta",
+     "inicio": 92.522,
+     "fin": 92.815
+    },
+    {
+     "w": "0.5",
+     "inicio": 92.815,
+     "fin": 93.84
+    },
+    {
+     "w": "da",
+     "inicio": 93.84,
+     "fin": 93.986
+    },
+    {
+     "w": "16",
+     "inicio": 93.986,
+     "fin": 94.645
+    },
+    {
+     "w": "%",
+     "inicio": 94.645,
+     "fin": 95.304
+    },
+    {
+     "w": "de",
+     "inicio": 95.304,
+     "fin": 95.45
+    },
+    {
+     "w": "sobreimpulso.",
+     "inicio": 95.45,
+     "fin": 96.329
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 2,
+   "texto": "Zeta 0.6 da 9.5 %.",
+   "dicho": "Zeta 0.6 da 9.5 %.",
+   "camara": "deriva lenta",
+   "inicio": 96.629,
+   "fin": 99.96,
+   "palabras": [
+    {
+     "w": "Zeta",
+     "inicio": 96.629,
+     "fin": 96.939
+    },
+    {
+     "w": "0.6",
+     "inicio": 96.939,
+     "fin": 97.946
+    },
+    {
+     "w": "da",
+     "inicio": 97.946,
+     "fin": 98.101
+    },
+    {
+     "w": "9.5",
+     "inicio": 98.101,
+     "fin": 99.263
+    },
+    {
+     "w": "%.",
+     "inicio": 99.263,
+     "fin": 99.96
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 3,
+   "texto": "Zeta 0.7 da 4.6 %.",
+   "dicho": "Zeta 0.7 da 4.6 %.",
+   "camara": "deriva lenta",
+   "inicio": 100.26,
+   "fin": 103.569,
+   "palabras": [
+    {
+     "w": "Zeta",
+     "inicio": 100.26,
+     "fin": 100.561
+    },
+    {
+     "w": "0.7",
+     "inicio": 100.561,
+     "fin": 101.614
+    },
+    {
+     "w": "da",
+     "inicio": 101.614,
+     "fin": 101.764
+    },
+    {
+     "w": "4.6",
+     "inicio": 101.764,
+     "fin": 102.892
+    },
+    {
+     "w": "%.",
+     "inicio": 102.892,
+     "fin": 103.569
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 4,
+   "texto": "Y zeta 0.8, 1.5 %.",
+   "dicho": "Y zeta 0.8, 1.5 %.",
+   "camara": "push in",
+   "inicio": 103.869,
+   "fin": 107.101,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 103.869,
+     "fin": 103.949
+    },
+    {
+     "w": "zeta",
+     "inicio": 103.949,
+     "fin": 104.272
+    },
+    {
+     "w": "0.8,",
+     "inicio": 104.272,
+     "fin": 105.319
+    },
+    {
+     "w": "1.5",
+     "inicio": 105.459,
+     "fin": 106.429
+    },
+    {
+     "w": "%.",
+     "inicio": 106.429,
+     "fin": 107.101
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 5,
+   "texto": "Si te dan el sobreimpulso y piden zeta, despeja con el logaritmo.",
+   "dicho": "Si te dan el sobreimpulso y piden zeta, despeja con el logaritmo.",
+   "camara": "pan con desenfoque",
+   "inicio": 107.401,
+   "fin": 111.32,
+   "palabras": [
+    {
+     "w": "Si",
+     "inicio": 107.401,
+     "fin": 107.541
+    },
+    {
+     "w": "te",
+     "inicio": 107.541,
+     "fin": 107.68
+    },
+    {
+     "w": "dan",
+     "inicio": 107.68,
+     "fin": 107.889
+    },
+    {
+     "w": "el",
+     "inicio": 107.889,
+     "fin": 108.028
+    },
+    {
+     "w": "sobreimpulso",
+     "inicio": 108.028,
+     "fin": 108.864
+    },
+    {
+     "w": "y",
+     "inicio": 108.864,
+     "fin": 108.934
+    },
+    {
+     "w": "piden",
+     "inicio": 108.934,
+     "fin": 109.283
+    },
+    {
+     "w": "zeta,",
+     "inicio": 109.283,
+     "fin": 109.561
+    },
+    {
+     "w": "despeja",
+     "inicio": 109.811,
+     "fin": 110.314
+    },
+    {
+     "w": "con",
+     "inicio": 110.314,
+     "fin": 110.53
+    },
+    {
+     "w": "el",
+     "inicio": 110.53,
+     "fin": 110.673
+    },
+    {
+     "w": "logaritmo.",
+     "inicio": 110.673,
+     "fin": 111.32
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 6,
+   "texto": "Zeta es menos el logaritmo de Mp, entre la raíz de pi al cuadrado más ese logaritmo al cuadrado.",
+   "dicho": "Zeta es menos el logaritmo de eme pe, entre la raíz de pi al cuadrado más ese logaritmo al cuadrado.",
+   "camara": "push in",
+   "inicio": 111.62,
+   "fin": 117.657,
+   "palabras": [
+    {
+     "w": "Zeta",
+     "inicio": 111.62,
+     "fin": 111.916
+    },
+    {
+     "w": "es",
+     "inicio": 111.916,
+     "fin": 112.065
+    },
+    {
+     "w": "menos",
+     "inicio": 112.065,
+     "fin": 112.435
+    },
+    {
+     "w": "el",
+     "inicio": 112.435,
+     "fin": 112.584
+    },
+    {
+     "w": "logaritmo",
+     "inicio": 112.584,
+     "fin": 113.251
+    },
+    {
+     "w": "de",
+     "inicio": 113.251,
+     "fin": 113.399
+    },
+    {
+     "w": "Mp,",
+     "inicio": 113.399,
+     "fin": 113.77
+    },
+    {
+     "w": "entre",
+     "inicio": 114.09,
+     "fin": 114.447
+    },
+    {
+     "w": "la",
+     "inicio": 114.447,
+     "fin": 114.589
+    },
+    {
+     "w": "raíz",
+     "inicio": 114.589,
+     "fin": 114.875
+    },
+    {
+     "w": "de",
+     "inicio": 114.875,
+     "fin": 115.017
+    },
+    {
+     "w": "pi",
+     "inicio": 115.017,
+     "fin": 115.16
+    },
+    {
+     "w": "al",
+     "inicio": 115.16,
+     "fin": 115.303
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 115.303,
+     "fin": 115.873
+    },
+    {
+     "w": "más",
+     "inicio": 115.873,
+     "fin": 116.088
+    },
+    {
+     "w": "ese",
+     "inicio": 116.088,
+     "fin": 116.302
+    },
+    {
+     "w": "logaritmo",
+     "inicio": 116.302,
+     "fin": 116.944
+    },
+    {
+     "w": "al",
+     "inicio": 116.944,
+     "fin": 117.086
+    },
+    {
+     "w": "cuadrado.",
+     "inicio": 117.086,
+     "fin": 117.657
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 7,
+   "texto": "Con 10 % sale 0.59.",
+   "dicho": "Con 10 % sale 0.59.",
+   "camara": "deriva lenta",
+   "inicio": 117.957,
+   "fin": 120.863,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 117.957,
+     "fin": 118.155
+    },
+    {
+     "w": "10",
+     "inicio": 118.155,
+     "fin": 118.419
+    },
+    {
+     "w": "%",
+     "inicio": 118.419,
+     "fin": 119.014
+    },
+    {
+     "w": "sale",
+     "inicio": 119.014,
+     "fin": 119.278
+    },
+    {
+     "w": "0.59.",
+     "inicio": 119.278,
+     "fin": 120.863
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 0,
+   "texto": "Y aquí el atajo que más puntos da.",
+   "dicho": "Y aquí el atajo que más puntos da.",
+   "camara": "push in con golpe",
+   "inicio": 121.363,
+   "fin": 123.478,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 121.363,
+     "fin": 121.451
+    },
+    {
+     "w": "aquí",
+     "inicio": 121.451,
+     "fin": 121.716
+    },
+    {
+     "w": "el",
+     "inicio": 121.716,
+     "fin": 121.892
+    },
+    {
+     "w": "atajo",
+     "inicio": 121.892,
+     "fin": 122.332
+    },
+    {
+     "w": "que",
+     "inicio": 122.332,
+     "fin": 122.509
+    },
+    {
+     "w": "más",
+     "inicio": 122.509,
+     "fin": 122.773
+    },
+    {
+     "w": "puntos",
+     "inicio": 122.773,
+     "fin": 123.302
+    },
+    {
+     "w": "da.",
+     "inicio": 123.302,
+     "fin": 123.478
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 1,
+   "texto": "Si el polo es menos sigma más jota omega de, el sobreimpulso es e a la menos pi por sigma entre omega de.",
+   "dicho": "Si el polo es menos sigma más jota omega de, el sobreimpulso es e a la menos pi por sigma entre omega de.",
+   "camara": "deriva lenta",
+   "inicio": 123.778,
+   "fin": 129.759,
+   "palabras": [
+    {
+     "w": "Si",
+     "inicio": 123.778,
+     "fin": 123.918
+    },
+    {
+     "w": "el",
+     "inicio": 123.918,
+     "fin": 124.059
+    },
+    {
+     "w": "polo",
+     "inicio": 124.059,
+     "fin": 124.34
+    },
+    {
+     "w": "es",
+     "inicio": 124.34,
+     "fin": 124.481
+    },
+    {
+     "w": "menos",
+     "inicio": 124.481,
+     "fin": 124.832
+    },
+    {
+     "w": "sigma",
+     "inicio": 124.832,
+     "fin": 125.184
+    },
+    {
+     "w": "más",
+     "inicio": 125.184,
+     "fin": 125.395
+    },
+    {
+     "w": "jota",
+     "inicio": 125.395,
+     "fin": 125.676
+    },
+    {
+     "w": "omega",
+     "inicio": 125.676,
+     "fin": 126.027
+    },
+    {
+     "w": "de,",
+     "inicio": 126.027,
+     "fin": 126.168
+    },
+    {
+     "w": "el",
+     "inicio": 126.518,
+     "fin": 126.656
+    },
+    {
+     "w": "sobreimpulso",
+     "inicio": 126.656,
+     "fin": 127.483
+    },
+    {
+     "w": "es",
+     "inicio": 127.483,
+     "fin": 127.621
+    },
+    {
+     "w": "e",
+     "inicio": 127.621,
+     "fin": 127.69
+    },
+    {
+     "w": "a",
+     "inicio": 127.69,
+     "fin": 127.759
+    },
+    {
+     "w": "la",
+     "inicio": 127.759,
+     "fin": 127.897
+    },
+    {
+     "w": "menos",
+     "inicio": 127.897,
+     "fin": 128.242
+    },
+    {
+     "w": "pi",
+     "inicio": 128.242,
+     "fin": 128.38
+    },
+    {
+     "w": "por",
+     "inicio": 128.38,
+     "fin": 128.587
+    },
+    {
+     "w": "sigma",
+     "inicio": 128.587,
+     "fin": 128.931
+    },
+    {
+     "w": "entre",
+     "inicio": 128.931,
+     "fin": 129.276
+    },
+    {
+     "w": "omega",
+     "inicio": 129.276,
+     "fin": 129.621
+    },
+    {
+     "w": "de.",
+     "inicio": 129.621,
+     "fin": 129.759
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 2,
+   "texto": "Con menos cuatro más menos jota cuatro, el cociente es uno: e a la menos pi, 4.3 %.",
+   "dicho": "Con menos cuatro más menos jota cuatro, el cociente es uno: e a la menos pi, 4.3 %.",
+   "camara": "push in",
+   "inicio": 130.059,
+   "fin": 136.139,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 130.059,
+     "fin": 130.281
+    },
+    {
+     "w": "menos",
+     "inicio": 130.281,
+     "fin": 130.652
+    },
+    {
+     "w": "cuatro",
+     "inicio": 130.652,
+     "fin": 131.097
+    },
+    {
+     "w": "más",
+     "inicio": 131.097,
+     "fin": 131.319
+    },
+    {
+     "w": "menos",
+     "inicio": 131.319,
+     "fin": 131.69
+    },
+    {
+     "w": "jota",
+     "inicio": 131.69,
+     "fin": 131.987
+    },
+    {
+     "w": "cuatro,",
+     "inicio": 131.987,
+     "fin": 132.432
+    },
+    {
+     "w": "el",
+     "inicio": 132.432,
+     "fin": 132.58
+    },
+    {
+     "w": "cociente",
+     "inicio": 132.58,
+     "fin": 133.173
+    },
+    {
+     "w": "es",
+     "inicio": 133.173,
+     "fin": 133.322
+    },
+    {
+     "w": "uno:",
+     "inicio": 133.322,
+     "fin": 133.544
+    },
+    {
+     "w": "e",
+     "inicio": 133.544,
+     "fin": 133.618
+    },
+    {
+     "w": "a",
+     "inicio": 133.618,
+     "fin": 133.692
+    },
+    {
+     "w": "la",
+     "inicio": 133.692,
+     "fin": 133.841
+    },
+    {
+     "w": "menos",
+     "inicio": 133.841,
+     "fin": 134.211
+    },
+    {
+     "w": "pi,",
+     "inicio": 134.211,
+     "fin": 134.36
+    },
+    {
+     "w": "4.3",
+     "inicio": 134.36,
+     "fin": 135.472
+    },
+    {
+     "w": "%.",
+     "inicio": 135.472,
+     "fin": 136.139
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 3,
+   "texto": "Con menos dos más menos jota cuatro, es un medio: e a la menos pi medios, 21 %.",
+   "dicho": "Con menos dos más menos jota cuatro, es un medio: e a la menos pi medios, 21 %.",
+   "camara": "deriva lenta",
+   "inicio": 136.439,
+   "fin": 141.915,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 136.439,
+     "fin": 136.664
+    },
+    {
+     "w": "menos",
+     "inicio": 136.664,
+     "fin": 137.039
+    },
+    {
+     "w": "dos",
+     "inicio": 137.039,
+     "fin": 137.265
+    },
+    {
+     "w": "más",
+     "inicio": 137.265,
+     "fin": 137.49
+    },
+    {
+     "w": "menos",
+     "inicio": 137.49,
+     "fin": 137.865
+    },
+    {
+     "w": "jota",
+     "inicio": 137.865,
+     "fin": 138.165
+    },
+    {
+     "w": "cuatro,",
+     "inicio": 138.165,
+     "fin": 138.615
+    },
+    {
+     "w": "es",
+     "inicio": 138.615,
+     "fin": 138.765
+    },
+    {
+     "w": "un",
+     "inicio": 138.765,
+     "fin": 138.915
+    },
+    {
+     "w": "medio:",
+     "inicio": 138.915,
+     "fin": 139.29
+    },
+    {
+     "w": "e",
+     "inicio": 139.29,
+     "fin": 139.365
+    },
+    {
+     "w": "a",
+     "inicio": 139.365,
+     "fin": 139.44
+    },
+    {
+     "w": "la",
+     "inicio": 139.44,
+     "fin": 139.59
+    },
+    {
+     "w": "menos",
+     "inicio": 139.59,
+     "fin": 139.965
+    },
+    {
+     "w": "pi",
+     "inicio": 139.965,
+     "fin": 140.115
+    },
+    {
+     "w": "medios,",
+     "inicio": 140.115,
+     "fin": 140.565
+    },
+    {
+     "w": "21",
+     "inicio": 140.565,
+     "fin": 141.24
+    },
+    {
+     "w": "%.",
+     "inicio": 141.24,
+     "fin": 141.915
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 4,
+   "texto": "Lo calculas directo del polo, sin pasar por zeta.",
+   "dicho": "Lo calculas directo del polo, sin pasar por zeta.",
+   "camara": "push out",
+   "inicio": 142.215,
+   "fin": 145.129,
+   "palabras": [
+    {
+     "w": "Lo",
+     "inicio": 142.215,
+     "fin": 142.365
+    },
+    {
+     "w": "calculas",
+     "inicio": 142.365,
+     "fin": 142.963
+    },
+    {
+     "w": "directo",
+     "inicio": 142.963,
+     "fin": 143.486
+    },
+    {
+     "w": "del",
+     "inicio": 143.486,
+     "fin": 143.71
+    },
+    {
+     "w": "polo,",
+     "inicio": 143.71,
+     "fin": 144.009
+    },
+    {
+     "w": "sin",
+     "inicio": 144.009,
+     "fin": 144.233
+    },
+    {
+     "w": "pasar",
+     "inicio": 144.233,
+     "fin": 144.606
+    },
+    {
+     "w": "por",
+     "inicio": 144.606,
+     "fin": 144.83
+    },
+    {
+     "w": "zeta.",
+     "inicio": 144.83,
+     "fin": 145.129
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 0,
+   "texto": "Escribe la respuesta al escalón y saca las cuatro fórmulas tú solo, sin mirar.",
+   "dicho": "Escribe la respuesta al escalón y saca las cuatro fórmulas tú solo, sin mirar.",
+   "camara": "push out a plano general",
+   "inicio": 145.629,
+   "fin": 150.057,
+   "palabras": [
+    {
+     "w": "Escribe",
+     "inicio": 145.629,
+     "fin": 145.846
+    },
+    {
+     "w": "la",
+     "inicio": 145.846,
+     "fin": 145.908
+    },
+    {
+     "w": "respuesta",
+     "inicio": 145.908,
+     "fin": 146.186
+    },
+    {
+     "w": "al",
+     "inicio": 146.186,
+     "fin": 146.248
+    },
+    {
+     "w": "escalón",
+     "inicio": 146.248,
+     "fin": 146.464
+    },
+    {
+     "w": "y",
+     "inicio": 146.464,
+     "fin": 146.495
+    },
+    {
+     "w": "saca",
+     "inicio": 146.495,
+     "fin": 146.618
+    },
+    {
+     "w": "las",
+     "inicio": 146.618,
+     "fin": 146.711
+    },
+    {
+     "w": "cuatro",
+     "inicio": 146.711,
+     "fin": 146.897
+    },
+    {
+     "w": "fórmulas",
+     "inicio": 146.897,
+     "fin": 147.144
+    },
+    {
+     "w": "tú",
+     "inicio": 147.144,
+     "fin": 147.206
+    },
+    {
+     "w": "solo,",
+     "inicio": 147.206,
+     "fin": 147.329
+    },
+    {
+     "w": "sin",
+     "inicio": 147.439,
+     "fin": 148.421
+    },
+    {
+     "w": "mirar.",
+     "inicio": 148.421,
+     "fin": 150.057
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 1,
+   "texto": "En el siguiente vídeo: el problema de los cinco polos del integrador.",
+   "dicho": "En el siguiente vídeo: el problema de los cinco polos del integrador.",
+   "camara": "push in a la tarjeta",
+   "inicio": 150.357,
+   "fin": 154.02,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 150.357,
+     "fin": 150.489
+    },
+    {
+     "w": "el",
+     "inicio": 150.489,
+     "fin": 150.62
+    },
+    {
+     "w": "siguiente",
+     "inicio": 150.62,
+     "fin": 151.148
+    },
+    {
+     "w": "vídeo:",
+     "inicio": 151.148,
+     "fin": 151.477
+    },
+    {
+     "w": "el",
+     "inicio": 151.697,
+     "fin": 151.819
+    },
+    {
+     "w": "problema",
+     "inicio": 151.819,
+     "fin": 152.308
+    },
+    {
+     "w": "de",
+     "inicio": 152.308,
+     "fin": 152.431
+    },
+    {
+     "w": "los",
+     "inicio": 152.431,
+     "fin": 152.614
+    },
+    {
+     "w": "cinco",
+     "inicio": 152.614,
+     "fin": 152.92
+    },
+    {
+     "w": "polos",
+     "inicio": 152.92,
+     "fin": 153.226
+    },
+    {
+     "w": "del",
+     "inicio": 153.226,
+     "fin": 153.409
+    },
+    {
+     "w": "integrador.",
+     "inicio": 153.409,
+     "fin": 154.02
+    }
+   ]
+  }
+ ]
+}

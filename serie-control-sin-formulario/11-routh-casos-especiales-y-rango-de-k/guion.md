@@ -8,8 +8,8 @@
 | publico | estudiantes de Ingeniería de Control que presentan el integrador sin formulario |
 | tema | caso especial ε, renglón de ceros y polinomio auxiliar, rango de estabilidad de k, frecuencia en el límite, Routh del problema 2 del Integrador 1 (2026), trampa del Ej. 42 |
 | Frases | 36 |
-| Palabras | 519 |
-| Duración estimada | ~3:18 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
+| Palabras | 523 |
+| Duración estimada | ~3:19 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
 
 Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bien y rojo = mal, Inter en negrita a 46 px o más, iconos de Phosphor. Un solo mundo 2D: cada bloque es una estación unida por un camino que se dibuja mientras viaja la cámara. El perrito es la foto recortada `assets/perrito-recorte.png`; nunca tapa texto.
 
@@ -87,7 +87,7 @@ Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bie
 | # | Frase (voz) | Qué se ve | Cámara | Medio |
 |---:|---|---|---|---|
 | 35 | Practica el rango de k con el polinomio del integrador hasta que te salga sin mirar. | Plano general de las cinco estaciones. | push out a plano general | SVG |
-| 36 | Sígueme para más trucos de control. | Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». | push in a la tarjeta | perrito-avatar.png |
+| 36 | En el siguiente vídeo: error en estado estable y PID. | Tarjeta final «Siguiente · 12» con el título del próximo vídeo y el mapa de la serie. | push in a la tarjeta | SVG |
 
 ## Fuentes y comprobación
 

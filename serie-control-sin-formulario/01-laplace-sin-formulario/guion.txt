@@ -36,4 +36,4 @@ Polos complejos: oscila, y la parte real decide si la oscilación crece o se apa
 Sobre el eje imaginario oscila para siempre.
 Eso es estabilidad, y es lo que mide Routh.
 Repite el par madre y los cuatro trucos hasta poder escribir la tabla completa en un minuto.
-Sígueme para más trucos de control.
+En el siguiente vídeo: de la ecuación diferencial a la respuesta.

@@ -33,4 +33,4 @@ Subir K no hace más rápido al sistema: solo lo hace llegar más alto.
 Lo rápido lo decide tau, es decir, dónde está el polo.
 Mientras más a la izquierda está el polo, más rápido responde.
 Dibuja una curva de primer orden y marca 63 % y 98 % sin mirar.
-Sígueme para más trucos de control.
+En el siguiente vídeo: segundo orden y el triángulo del polo.

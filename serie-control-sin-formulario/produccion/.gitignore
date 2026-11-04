@@ -1,0 +1,10 @@
+node_modules/
+salida/
+proyectos/*/.hyperframes/
+proyectos/*/renders/
+proyectos/*/_medir.html
+proyectos/*/assets/*.wav
+proyectos/*/assets/katex/
+proyectos/*/assets/gsap.min.js
+voz/__pycache__/
+*.log

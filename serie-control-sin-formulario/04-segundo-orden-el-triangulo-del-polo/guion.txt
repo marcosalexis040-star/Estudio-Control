@@ -31,4 +31,4 @@ Sigma es dos, omega de es cuatro, y omega ene es la raíz de 20, unos 4.47.
 Zeta es dos entre 4.47: 0.45.
 Subamortiguado, con sobreimpulso, y sin simular nada.
 Dibuja tres polos al azar y saca su triángulo hasta que te salga solo.
-Sígueme para más trucos de control.
+En el siguiente vídeo: cómo deducir tiempo pico, sobreimpulso y establecimiento.

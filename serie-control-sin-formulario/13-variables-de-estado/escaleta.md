@@ -55,7 +55,7 @@ Resumen: los estados son las salidas de los integradores, A es el diagrama, y el
 
 ## Cierre · #06d6a0
 Practica la inversa de dos por dos con tres matrices distintas hasta que salga sola. || Plano general de las seis estaciones. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: retroalimentación de estados. || Tarjeta final «Siguiente · 14» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

@@ -1,0 +1,3124 @@
+{
+ "video": "13-variables-de-estado",
+ "voz": "em_alex",
+ "duracion": 174.899,
+ "bloques": [
+  {
+   "nombre": "Gancho",
+   "color": "#ff5a5f"
+  },
+  {
+   "nombre": "El modelo",
+   "color": "#4da3ff"
+  },
+  {
+   "nombre": "De la ecuación a los estados",
+   "color": "#ffd166"
+  },
+  {
+   "nombre": "El truco de la inversa",
+   "color": "#06d6a0"
+  },
+  {
+   "nombre": "El determinante son los polos",
+   "color": "#c77dff"
+  },
+  {
+   "nombre": "Ejercicio de prueba",
+   "color": "en paralelo · #ff9f1c"
+  },
+  {
+   "nombre": "En hardware",
+   "color": "#4da3ff"
+  },
+  {
+   "nombre": "Clímax",
+   "color": "el resumen · #ff5a5f"
+  },
+  {
+   "nombre": "Cierre",
+   "color": "#06d6a0"
+  }
+ ],
+ "frases": [
+  {
+   "bloque": 0,
+   "frase": 0,
+   "texto": "En el examen rápido pidieron la función de transferencia con C por ese I menos A, a la menos uno, por B.",
+   "dicho": "En el examen rápido pidieron la función de transferencia con C por ese I menos A, a la menos uno, por B.",
+   "camara": "push in rápido",
+   "inicio": 0.35,
+   "fin": 6.207,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 0.35,
+     "fin": 0.491
+    },
+    {
+     "w": "el",
+     "inicio": 0.491,
+     "fin": 0.632
+    },
+    {
+     "w": "examen",
+     "inicio": 0.632,
+     "fin": 1.126
+    },
+    {
+     "w": "rápido",
+     "inicio": 1.126,
+     "fin": 1.55
+    },
+    {
+     "w": "pidieron",
+     "inicio": 1.55,
+     "fin": 2.114
+    },
+    {
+     "w": "la",
+     "inicio": 2.114,
+     "fin": 2.255
+    },
+    {
+     "w": "función",
+     "inicio": 2.255,
+     "fin": 2.749
+    },
+    {
+     "w": "de",
+     "inicio": 2.749,
+     "fin": 2.891
+    },
+    {
+     "w": "transferencia",
+     "inicio": 2.891,
+     "fin": 3.808
+    },
+    {
+     "w": "con",
+     "inicio": 3.808,
+     "fin": 4.02
+    },
+    {
+     "w": "C",
+     "inicio": 4.02,
+     "fin": 4.161
+    },
+    {
+     "w": "por",
+     "inicio": 4.161,
+     "fin": 4.373
+    },
+    {
+     "w": "ese",
+     "inicio": 4.373,
+     "fin": 4.584
+    },
+    {
+     "w": "I",
+     "inicio": 4.584,
+     "fin": 4.655
+    },
+    {
+     "w": "menos",
+     "inicio": 4.655,
+     "fin": 5.008
+    },
+    {
+     "w": "A,",
+     "inicio": 5.008,
+     "fin": 5.078
+    },
+    {
+     "w": "a",
+     "inicio": 5.078,
+     "fin": 5.149
+    },
+    {
+     "w": "la",
+     "inicio": 5.149,
+     "fin": 5.29
+    },
+    {
+     "w": "menos",
+     "inicio": 5.29,
+     "fin": 5.643
+    },
+    {
+     "w": "uno,",
+     "inicio": 5.643,
+     "fin": 5.855
+    },
+    {
+     "w": "por",
+     "inicio": 5.855,
+     "fin": 6.066
+    },
+    {
+     "w": "B.",
+     "inicio": 6.066,
+     "fin": 6.207
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 1,
+   "texto": "Si no recuerdas cómo invertir una matriz de dos por dos, te quedas en blanco.",
+   "dicho": "Si no recuerdas cómo invertir una matriz de dos por dos, te quedas en blanco.",
+   "camara": "deriva lenta",
+   "inicio": 6.507,
+   "fin": 10.69,
+   "palabras": [
+    {
+     "w": "Si",
+     "inicio": 6.507,
+     "fin": 6.639
+    },
+    {
+     "w": "no",
+     "inicio": 6.639,
+     "fin": 6.771
+    },
+    {
+     "w": "recuerdas",
+     "inicio": 6.771,
+     "fin": 7.365
+    },
+    {
+     "w": "cómo",
+     "inicio": 7.365,
+     "fin": 7.629
+    },
+    {
+     "w": "invertir",
+     "inicio": 7.629,
+     "fin": 8.157
+    },
+    {
+     "w": "una",
+     "inicio": 8.157,
+     "fin": 8.355
+    },
+    {
+     "w": "matriz",
+     "inicio": 8.355,
+     "fin": 8.751
+    },
+    {
+     "w": "de",
+     "inicio": 8.751,
+     "fin": 8.883
+    },
+    {
+     "w": "dos",
+     "inicio": 8.883,
+     "fin": 9.081
+    },
+    {
+     "w": "por",
+     "inicio": 9.081,
+     "fin": 9.279
+    },
+    {
+     "w": "dos,",
+     "inicio": 9.279,
+     "fin": 9.477
+    },
+    {
+     "w": "te",
+     "inicio": 9.597,
+     "fin": 9.743
+    },
+    {
+     "w": "quedas",
+     "inicio": 9.743,
+     "fin": 10.107
+    },
+    {
+     "w": "en",
+     "inicio": 10.107,
+     "fin": 10.253
+    },
+    {
+     "w": "blanco.",
+     "inicio": 10.253,
+     "fin": 10.69
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 2,
+   "texto": "Hoy lo resolvemos todo con un truco de tres segundos.",
+   "dicho": "Hoy lo resolvemos todo con un truco de tres segundos.",
+   "camara": "push out",
+   "inicio": 10.99,
+   "fin": 14.003,
+   "palabras": [
+    {
+     "w": "Hoy",
+     "inicio": 10.99,
+     "fin": 11.133
+    },
+    {
+     "w": "lo",
+     "inicio": 11.133,
+     "fin": 11.277
+    },
+    {
+     "w": "resolvemos",
+     "inicio": 11.277,
+     "fin": 11.994
+    },
+    {
+     "w": "todo",
+     "inicio": 11.994,
+     "fin": 12.281
+    },
+    {
+     "w": "con",
+     "inicio": 12.281,
+     "fin": 12.497
+    },
+    {
+     "w": "un",
+     "inicio": 12.497,
+     "fin": 12.64
+    },
+    {
+     "w": "truco",
+     "inicio": 12.64,
+     "fin": 12.999
+    },
+    {
+     "w": "de",
+     "inicio": 12.999,
+     "fin": 13.142
+    },
+    {
+     "w": "tres",
+     "inicio": 13.142,
+     "fin": 13.429
+    },
+    {
+     "w": "segundos.",
+     "inicio": 13.429,
+     "fin": 14.003
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 0,
+   "texto": "Un modelo en variables de estado son dos ecuaciones.",
+   "dicho": "Un modelo en variables de estado son dos ecuaciones.",
+   "camara": "viaje largo a la estación 1",
+   "inicio": 14.503,
+   "fin": 17.464,
+   "palabras": [
+    {
+     "w": "Un",
+     "inicio": 14.503,
+     "fin": 14.641
+    },
+    {
+     "w": "modelo",
+     "inicio": 14.641,
+     "fin": 15.054
+    },
+    {
+     "w": "en",
+     "inicio": 15.054,
+     "fin": 15.192
+    },
+    {
+     "w": "variables",
+     "inicio": 15.192,
+     "fin": 15.811
+    },
+    {
+     "w": "de",
+     "inicio": 15.811,
+     "fin": 15.949
+    },
+    {
+     "w": "estado",
+     "inicio": 15.949,
+     "fin": 16.362
+    },
+    {
+     "w": "son",
+     "inicio": 16.362,
+     "fin": 16.569
+    },
+    {
+     "w": "dos",
+     "inicio": 16.569,
+     "fin": 16.775
+    },
+    {
+     "w": "ecuaciones.",
+     "inicio": 16.775,
+     "fin": 17.464
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 1,
+   "texto": "La derivada de x es A por x más B por u, y la salida es C por x.",
+   "dicho": "La derivada de x es A por x más B por u, y la salida es C por x.",
+   "camara": "push in",
+   "inicio": 17.764,
+   "fin": 22.026,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 17.764,
+     "fin": 17.911
+    },
+    {
+     "w": "derivada",
+     "inicio": 17.911,
+     "fin": 18.501
+    },
+    {
+     "w": "de",
+     "inicio": 18.501,
+     "fin": 18.648
+    },
+    {
+     "w": "x",
+     "inicio": 18.648,
+     "fin": 18.943
+    },
+    {
+     "w": "es",
+     "inicio": 18.943,
+     "fin": 19.09
+    },
+    {
+     "w": "A",
+     "inicio": 19.09,
+     "fin": 19.164
+    },
+    {
+     "w": "por",
+     "inicio": 19.164,
+     "fin": 19.385
+    },
+    {
+     "w": "x",
+     "inicio": 19.385,
+     "fin": 19.68
+    },
+    {
+     "w": "más",
+     "inicio": 19.68,
+     "fin": 19.901
+    },
+    {
+     "w": "B",
+     "inicio": 19.901,
+     "fin": 20.049
+    },
+    {
+     "w": "por",
+     "inicio": 20.049,
+     "fin": 20.27
+    },
+    {
+     "w": "u,",
+     "inicio": 20.27,
+     "fin": 20.344
+    },
+    {
+     "w": "y",
+     "inicio": 20.604,
+     "fin": 20.675
+    },
+    {
+     "w": "la",
+     "inicio": 20.675,
+     "fin": 20.817
+    },
+    {
+     "w": "salida",
+     "inicio": 20.817,
+     "fin": 21.244
+    },
+    {
+     "w": "es",
+     "inicio": 21.244,
+     "fin": 21.386
+    },
+    {
+     "w": "C",
+     "inicio": 21.386,
+     "fin": 21.528
+    },
+    {
+     "w": "por",
+     "inicio": 21.528,
+     "fin": 21.742
+    },
+    {
+     "w": "x.",
+     "inicio": 21.742,
+     "fin": 22.026
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 2,
+   "texto": "A dice cómo se mueven los estados solos, B por dónde entra la entrada y C qué mides.",
+   "dicho": "A dice cómo se mueven los estados solos, B por dónde entra la entrada y C qué mides.",
+   "camara": "deriva lenta",
+   "inicio": 22.326,
+   "fin": 27.209,
+   "palabras": [
+    {
+     "w": "A",
+     "inicio": 22.326,
+     "fin": 22.393
+    },
+    {
+     "w": "dice",
+     "inicio": 22.393,
+     "fin": 22.663
+    },
+    {
+     "w": "cómo",
+     "inicio": 22.663,
+     "fin": 22.933
+    },
+    {
+     "w": "se",
+     "inicio": 22.933,
+     "fin": 23.068
+    },
+    {
+     "w": "mueven",
+     "inicio": 23.068,
+     "fin": 23.473
+    },
+    {
+     "w": "los",
+     "inicio": 23.473,
+     "fin": 23.676
+    },
+    {
+     "w": "estados",
+     "inicio": 23.676,
+     "fin": 24.148
+    },
+    {
+     "w": "solos,",
+     "inicio": 24.148,
+     "fin": 24.486
+    },
+    {
+     "w": "B",
+     "inicio": 24.766,
+     "fin": 24.91
+    },
+    {
+     "w": "por",
+     "inicio": 24.91,
+     "fin": 25.125
+    },
+    {
+     "w": "dónde",
+     "inicio": 25.125,
+     "fin": 25.485
+    },
+    {
+     "w": "entra",
+     "inicio": 25.485,
+     "fin": 25.844
+    },
+    {
+     "w": "la",
+     "inicio": 25.844,
+     "fin": 25.988
+    },
+    {
+     "w": "entrada",
+     "inicio": 25.988,
+     "fin": 26.49
+    },
+    {
+     "w": "y",
+     "inicio": 26.49,
+     "fin": 26.562
+    },
+    {
+     "w": "C",
+     "inicio": 26.562,
+     "fin": 26.706
+    },
+    {
+     "w": "qué",
+     "inicio": 26.706,
+     "fin": 26.85
+    },
+    {
+     "w": "mides.",
+     "inicio": 26.85,
+     "fin": 27.209
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 0,
+   "texto": "Para pasar de una ecuación diferencial a estados, elige x1 igual a y, y x2 igual a su derivada.",
+   "dicho": "Para pasar de una ecuación diferencial a estados, elige x1 igual a y, y x2 igual a su derivada.",
+   "camara": "viaje largo a la estación 2",
+   "inicio": 27.709,
+   "fin": 33.698,
+   "palabras": [
+    {
+     "w": "Para",
+     "inicio": 27.709,
+     "fin": 27.93
+    },
+    {
+     "w": "pasar",
+     "inicio": 27.93,
+     "fin": 28.205
+    },
+    {
+     "w": "de",
+     "inicio": 28.205,
+     "fin": 28.315
+    },
+    {
+     "w": "una",
+     "inicio": 28.315,
+     "fin": 28.481
+    },
+    {
+     "w": "ecuación",
+     "inicio": 28.481,
+     "fin": 28.922
+    },
+    {
+     "w": "diferencial",
+     "inicio": 28.922,
+     "fin": 29.528
+    },
+    {
+     "w": "a",
+     "inicio": 29.528,
+     "fin": 29.583
+    },
+    {
+     "w": "estados,",
+     "inicio": 29.583,
+     "fin": 29.969
+    },
+    {
+     "w": "elige",
+     "inicio": 30.189,
+     "fin": 30.515
+    },
+    {
+     "w": "x1",
+     "inicio": 30.515,
+     "fin": 30.972
+    },
+    {
+     "w": "igual",
+     "inicio": 30.972,
+     "fin": 31.299
+    },
+    {
+     "w": "a",
+     "inicio": 31.299,
+     "fin": 31.364
+    },
+    {
+     "w": "y,",
+     "inicio": 31.364,
+     "fin": 31.429
+    },
+    {
+     "w": "y",
+     "inicio": 31.589,
+     "fin": 31.677
+    },
+    {
+     "w": "x2",
+     "inicio": 31.677,
+     "fin": 32.292
+    },
+    {
+     "w": "igual",
+     "inicio": 32.292,
+     "fin": 32.731
+    },
+    {
+     "w": "a",
+     "inicio": 32.731,
+     "fin": 32.819
+    },
+    {
+     "w": "su",
+     "inicio": 32.819,
+     "fin": 32.995
+    },
+    {
+     "w": "derivada.",
+     "inicio": 32.995,
+     "fin": 33.698
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 1,
+   "texto": "Ejemplo: la segunda derivada de y, más tres veces la primera, más dos y, igual a tres u.",
+   "dicho": "Ejemplo: la segunda derivada de y, más tres veces la primera, más dos y, igual a tres u.",
+   "camara": "push in",
+   "inicio": 33.998,
+   "fin": 38.899,
+   "palabras": [
+    {
+     "w": "Ejemplo:",
+     "inicio": 33.998,
+     "fin": 34.517
+    },
+    {
+     "w": "la",
+     "inicio": 34.517,
+     "fin": 34.666
+    },
+    {
+     "w": "segunda",
+     "inicio": 34.666,
+     "fin": 35.186
+    },
+    {
+     "w": "derivada",
+     "inicio": 35.186,
+     "fin": 35.78
+    },
+    {
+     "w": "de",
+     "inicio": 35.78,
+     "fin": 35.928
+    },
+    {
+     "w": "y,",
+     "inicio": 35.928,
+     "fin": 36.003
+    },
+    {
+     "w": "más",
+     "inicio": 36.003,
+     "fin": 36.225
+    },
+    {
+     "w": "tres",
+     "inicio": 36.225,
+     "fin": 36.522
+    },
+    {
+     "w": "veces",
+     "inicio": 36.522,
+     "fin": 36.894
+    },
+    {
+     "w": "la",
+     "inicio": 36.894,
+     "fin": 37.042
+    },
+    {
+     "w": "primera,",
+     "inicio": 37.042,
+     "fin": 37.562
+    },
+    {
+     "w": "más",
+     "inicio": 37.562,
+     "fin": 37.785
+    },
+    {
+     "w": "dos",
+     "inicio": 37.785,
+     "fin": 38.008
+    },
+    {
+     "w": "y,",
+     "inicio": 38.008,
+     "fin": 38.082
+    },
+    {
+     "w": "igual",
+     "inicio": 38.082,
+     "fin": 38.453
+    },
+    {
+     "w": "a",
+     "inicio": 38.453,
+     "fin": 38.527
+    },
+    {
+     "w": "tres",
+     "inicio": 38.527,
+     "fin": 38.824
+    },
+    {
+     "w": "u.",
+     "inicio": 38.824,
+     "fin": 38.899
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 2,
+   "texto": "La derivada de x1 es x2.",
+   "dicho": "La derivada de x1 es x2.",
+   "camara": "deriva lenta",
+   "inicio": 39.199,
+   "fin": 41.468,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 39.199,
+     "fin": 39.361
+    },
+    {
+     "w": "derivada",
+     "inicio": 39.361,
+     "fin": 40.009
+    },
+    {
+     "w": "de",
+     "inicio": 40.009,
+     "fin": 40.171
+    },
+    {
+     "w": "x1",
+     "inicio": 40.171,
+     "fin": 40.739
+    },
+    {
+     "w": "es",
+     "inicio": 40.739,
+     "fin": 40.901
+    },
+    {
+     "w": "x2.",
+     "inicio": 40.901,
+     "fin": 41.468
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 3,
+   "texto": "Y la derivada de x2 es menos dos x1, menos tres x2, más tres u.",
+   "dicho": "Y la derivada de x2 es menos dos x1, menos tres x2, más tres u.",
+   "camara": "deriva lenta",
+   "inicio": 41.768,
+   "fin": 46.56,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 41.768,
+     "fin": 41.846
+    },
+    {
+     "w": "la",
+     "inicio": 41.846,
+     "fin": 42.004
+    },
+    {
+     "w": "derivada",
+     "inicio": 42.004,
+     "fin": 42.632
+    },
+    {
+     "w": "de",
+     "inicio": 42.632,
+     "fin": 42.789
+    },
+    {
+     "w": "x2",
+     "inicio": 42.789,
+     "fin": 43.339
+    },
+    {
+     "w": "es",
+     "inicio": 43.339,
+     "fin": 43.496
+    },
+    {
+     "w": "menos",
+     "inicio": 43.496,
+     "fin": 43.889
+    },
+    {
+     "w": "dos",
+     "inicio": 43.889,
+     "fin": 44.125
+    },
+    {
+     "w": "x1,",
+     "inicio": 44.125,
+     "fin": 44.675
+    },
+    {
+     "w": "menos",
+     "inicio": 44.675,
+     "fin": 45.067
+    },
+    {
+     "w": "tres",
+     "inicio": 45.067,
+     "fin": 45.382
+    },
+    {
+     "w": "x2,",
+     "inicio": 45.382,
+     "fin": 45.932
+    },
+    {
+     "w": "más",
+     "inicio": 45.932,
+     "fin": 46.167
+    },
+    {
+     "w": "tres",
+     "inicio": 46.167,
+     "fin": 46.482
+    },
+    {
+     "w": "u.",
+     "inicio": 46.482,
+     "fin": 46.56
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 4,
+   "texto": "A queda cero, uno en la primera fila, y menos dos, menos tres en la segunda.",
+   "dicho": "A queda cero, uno en la primera fila, y menos dos, menos tres en la segunda.",
+   "camara": "push in",
+   "inicio": 46.86,
+   "fin": 51.054,
+   "palabras": [
+    {
+     "w": "A",
+     "inicio": 46.86,
+     "fin": 46.935
+    },
+    {
+     "w": "queda",
+     "inicio": 46.935,
+     "fin": 47.235
+    },
+    {
+     "w": "cero,",
+     "inicio": 47.235,
+     "fin": 47.534
+    },
+    {
+     "w": "uno",
+     "inicio": 47.534,
+     "fin": 47.759
+    },
+    {
+     "w": "en",
+     "inicio": 47.759,
+     "fin": 47.908
+    },
+    {
+     "w": "la",
+     "inicio": 47.908,
+     "fin": 48.058
+    },
+    {
+     "w": "primera",
+     "inicio": 48.058,
+     "fin": 48.582
+    },
+    {
+     "w": "fila,",
+     "inicio": 48.582,
+     "fin": 48.882
+    },
+    {
+     "w": "y",
+     "inicio": 48.882,
+     "fin": 48.957
+    },
+    {
+     "w": "menos",
+     "inicio": 48.957,
+     "fin": 49.331
+    },
+    {
+     "w": "dos,",
+     "inicio": 49.331,
+     "fin": 49.556
+    },
+    {
+     "w": "menos",
+     "inicio": 49.556,
+     "fin": 49.93
+    },
+    {
+     "w": "tres",
+     "inicio": 49.93,
+     "fin": 50.23
+    },
+    {
+     "w": "en",
+     "inicio": 50.23,
+     "fin": 50.38
+    },
+    {
+     "w": "la",
+     "inicio": 50.38,
+     "fin": 50.529
+    },
+    {
+     "w": "segunda.",
+     "inicio": 50.529,
+     "fin": 51.054
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 5,
+   "texto": "B es cero, tres; y C es uno, cero.",
+   "dicho": "B es cero, tres; y C es uno, cero.",
+   "camara": "deriva lenta",
+   "inicio": 51.354,
+   "fin": 53.541,
+   "palabras": [
+    {
+     "w": "B",
+     "inicio": 51.354,
+     "fin": 51.536
+    },
+    {
+     "w": "es",
+     "inicio": 51.536,
+     "fin": 51.718
+    },
+    {
+     "w": "cero,",
+     "inicio": 51.718,
+     "fin": 52.083
+    },
+    {
+     "w": "tres;",
+     "inicio": 52.083,
+     "fin": 52.447
+    },
+    {
+     "w": "y",
+     "inicio": 52.447,
+     "fin": 52.538
+    },
+    {
+     "w": "C",
+     "inicio": 52.538,
+     "fin": 52.721
+    },
+    {
+     "w": "es",
+     "inicio": 52.721,
+     "fin": 52.903
+    },
+    {
+     "w": "uno,",
+     "inicio": 52.903,
+     "fin": 53.176
+    },
+    {
+     "w": "cero.",
+     "inicio": 53.176,
+     "fin": 53.541
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 6,
+   "texto": "Fíjate: la última fila de A son los coeficientes del polinomio con el signo cambiado. Esa es la forma canónica controlable.",
+   "dicho": "Fíjate: la última fila de A son los coeficientes del polinomio con el signo cambiado. Esa es la forma canónica controlable.",
+   "camara": "push in",
+   "inicio": 53.841,
+   "fin": 60.822,
+   "palabras": [
+    {
+     "w": "Fíjate:",
+     "inicio": 53.841,
+     "fin": 58.201
+    },
+    {
+     "w": "la",
+     "inicio": 58.661,
+     "fin": 58.707
+    },
+    {
+     "w": "última",
+     "inicio": 58.707,
+     "fin": 58.845
+    },
+    {
+     "w": "fila",
+     "inicio": 58.845,
+     "fin": 58.937
+    },
+    {
+     "w": "de",
+     "inicio": 58.937,
+     "fin": 58.983
+    },
+    {
+     "w": "A",
+     "inicio": 58.983,
+     "fin": 59.006
+    },
+    {
+     "w": "son",
+     "inicio": 59.006,
+     "fin": 59.075
+    },
+    {
+     "w": "los",
+     "inicio": 59.075,
+     "fin": 59.144
+    },
+    {
+     "w": "coeficientes",
+     "inicio": 59.144,
+     "fin": 59.42
+    },
+    {
+     "w": "del",
+     "inicio": 59.42,
+     "fin": 59.489
+    },
+    {
+     "w": "polinomio",
+     "inicio": 59.489,
+     "fin": 59.695
+    },
+    {
+     "w": "con",
+     "inicio": 59.695,
+     "fin": 59.764
+    },
+    {
+     "w": "el",
+     "inicio": 59.764,
+     "fin": 59.81
+    },
+    {
+     "w": "signo",
+     "inicio": 59.81,
+     "fin": 59.925
+    },
+    {
+     "w": "cambiado.",
+     "inicio": 59.925,
+     "fin": 60.109
+    },
+    {
+     "w": "Esa",
+     "inicio": 60.109,
+     "fin": 60.178
+    },
+    {
+     "w": "es",
+     "inicio": 60.178,
+     "fin": 60.224
+    },
+    {
+     "w": "la",
+     "inicio": 60.224,
+     "fin": 60.27
+    },
+    {
+     "w": "forma",
+     "inicio": 60.27,
+     "fin": 60.385
+    },
+    {
+     "w": "canónica",
+     "inicio": 60.385,
+     "fin": 60.569
+    },
+    {
+     "w": "controlable.",
+     "inicio": 60.569,
+     "fin": 60.822
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 7,
+   "texto": "Y es exactamente el diagrama de dos integradores en cadena, con las ramas de realimentación.",
+   "dicho": "Y es exactamente el diagrama de dos integradores en cadena, con las ramas de realimentación.",
+   "camara": "pan con desenfoque",
+   "inicio": 61.122,
+   "fin": 66.268,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 61.122,
+     "fin": 61.186
+    },
+    {
+     "w": "es",
+     "inicio": 61.186,
+     "fin": 61.315
+    },
+    {
+     "w": "exactamente",
+     "inicio": 61.315,
+     "fin": 62.085
+    },
+    {
+     "w": "el",
+     "inicio": 62.085,
+     "fin": 62.213
+    },
+    {
+     "w": "diagrama",
+     "inicio": 62.213,
+     "fin": 62.727
+    },
+    {
+     "w": "de",
+     "inicio": 62.727,
+     "fin": 62.855
+    },
+    {
+     "w": "dos",
+     "inicio": 62.855,
+     "fin": 63.048
+    },
+    {
+     "w": "integradores",
+     "inicio": 63.048,
+     "fin": 63.818
+    },
+    {
+     "w": "en",
+     "inicio": 63.818,
+     "fin": 63.947
+    },
+    {
+     "w": "cadena,",
+     "inicio": 63.947,
+     "fin": 64.332
+    },
+    {
+     "w": "con",
+     "inicio": 64.642,
+     "fin": 64.823
+    },
+    {
+     "w": "las",
+     "inicio": 64.823,
+     "fin": 65.003
+    },
+    {
+     "w": "ramas",
+     "inicio": 65.003,
+     "fin": 65.304
+    },
+    {
+     "w": "de",
+     "inicio": 65.304,
+     "fin": 65.425
+    },
+    {
+     "w": "realimentación.",
+     "inicio": 65.425,
+     "fin": 66.268
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 0,
+   "texto": "Ahora de regreso: G es C por ese I menos A, inversa, por B.",
+   "dicho": "Ahora de regreso: G es C por ese I menos A, inversa, por B.",
+   "camara": "viaje largo a la estación 3",
+   "inicio": 66.768,
+   "fin": 70.273,
+   "palabras": [
+    {
+     "w": "Ahora",
+     "inicio": 66.768,
+     "fin": 67.086
+    },
+    {
+     "w": "de",
+     "inicio": 67.086,
+     "fin": 67.246
+    },
+    {
+     "w": "regreso:",
+     "inicio": 67.246,
+     "fin": 67.803
+    },
+    {
+     "w": "G",
+     "inicio": 67.803,
+     "fin": 67.963
+    },
+    {
+     "w": "es",
+     "inicio": 67.963,
+     "fin": 68.122
+    },
+    {
+     "w": "C",
+     "inicio": 68.122,
+     "fin": 68.281
+    },
+    {
+     "w": "por",
+     "inicio": 68.281,
+     "fin": 68.52
+    },
+    {
+     "w": "ese",
+     "inicio": 68.52,
+     "fin": 68.759
+    },
+    {
+     "w": "I",
+     "inicio": 68.759,
+     "fin": 68.839
+    },
+    {
+     "w": "menos",
+     "inicio": 68.839,
+     "fin": 69.237
+    },
+    {
+     "w": "A,",
+     "inicio": 69.237,
+     "fin": 69.317
+    },
+    {
+     "w": "inversa,",
+     "inicio": 69.317,
+     "fin": 69.875
+    },
+    {
+     "w": "por",
+     "inicio": 69.875,
+     "fin": 70.114
+    },
+    {
+     "w": "B.",
+     "inicio": 70.114,
+     "fin": 70.273
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 1,
+   "texto": "La inversa de una matriz de dos por dos se hace así.",
+   "dicho": "La inversa de una matriz de dos por dos se hace así.",
+   "camara": "push in",
+   "inicio": 70.573,
+   "fin": 73.496,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 70.573,
+     "fin": 70.723
+    },
+    {
+     "w": "inversa",
+     "inicio": 70.723,
+     "fin": 71.248
+    },
+    {
+     "w": "de",
+     "inicio": 71.248,
+     "fin": 71.398
+    },
+    {
+     "w": "una",
+     "inicio": 71.398,
+     "fin": 71.622
+    },
+    {
+     "w": "matriz",
+     "inicio": 71.622,
+     "fin": 72.072
+    },
+    {
+     "w": "de",
+     "inicio": 72.072,
+     "fin": 72.222
+    },
+    {
+     "w": "dos",
+     "inicio": 72.222,
+     "fin": 72.447
+    },
+    {
+     "w": "por",
+     "inicio": 72.447,
+     "fin": 72.672
+    },
+    {
+     "w": "dos",
+     "inicio": 72.672,
+     "fin": 72.897
+    },
+    {
+     "w": "se",
+     "inicio": 72.897,
+     "fin": 73.047
+    },
+    {
+     "w": "hace",
+     "inicio": 73.047,
+     "fin": 73.271
+    },
+    {
+     "w": "así.",
+     "inicio": 73.271,
+     "fin": 73.496
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 2,
+   "texto": "Intercambia los de la diagonal, cámbiale el signo a los otros dos y divide entre el determinante.",
+   "dicho": "Intercambia los de la diagonal, cámbiale el signo a los otros dos y divide entre el determinante.",
+   "camara": "deriva lenta",
+   "inicio": 73.796,
+   "fin": 78.953,
+   "palabras": [
+    {
+     "w": "Intercambia",
+     "inicio": 73.796,
+     "fin": 74.406
+    },
+    {
+     "w": "los",
+     "inicio": 74.406,
+     "fin": 74.572
+    },
+    {
+     "w": "de",
+     "inicio": 74.572,
+     "fin": 74.682
+    },
+    {
+     "w": "la",
+     "inicio": 74.682,
+     "fin": 74.793
+    },
+    {
+     "w": "diagonal,",
+     "inicio": 74.793,
+     "fin": 75.236
+    },
+    {
+     "w": "cámbiale",
+     "inicio": 75.536,
+     "fin": 76.052
+    },
+    {
+     "w": "el",
+     "inicio": 76.052,
+     "fin": 76.181
+    },
+    {
+     "w": "signo",
+     "inicio": 76.181,
+     "fin": 76.503
+    },
+    {
+     "w": "a",
+     "inicio": 76.503,
+     "fin": 76.568
+    },
+    {
+     "w": "los",
+     "inicio": 76.568,
+     "fin": 76.761
+    },
+    {
+     "w": "otros",
+     "inicio": 76.761,
+     "fin": 77.083
+    },
+    {
+     "w": "dos",
+     "inicio": 77.083,
+     "fin": 77.277
+    },
+    {
+     "w": "y",
+     "inicio": 77.277,
+     "fin": 77.341
+    },
+    {
+     "w": "divide",
+     "inicio": 77.341,
+     "fin": 77.728
+    },
+    {
+     "w": "entre",
+     "inicio": 77.728,
+     "fin": 78.05
+    },
+    {
+     "w": "el",
+     "inicio": 78.05,
+     "fin": 78.179
+    },
+    {
+     "w": "determinante.",
+     "inicio": 78.179,
+     "fin": 78.953
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 3,
+   "texto": "Ese I menos A es ese, menos uno; dos, ese más tres.",
+   "dicho": "Ese I menos A es ese, menos uno; dos, ese más tres.",
+   "camara": "push in",
+   "inicio": 79.253,
+   "fin": 82.286,
+   "palabras": [
+    {
+     "w": "Ese",
+     "inicio": 79.253,
+     "fin": 79.506
+    },
+    {
+     "w": "I",
+     "inicio": 79.506,
+     "fin": 79.59
+    },
+    {
+     "w": "menos",
+     "inicio": 79.59,
+     "fin": 80.011
+    },
+    {
+     "w": "A",
+     "inicio": 80.011,
+     "fin": 80.095
+    },
+    {
+     "w": "es",
+     "inicio": 80.095,
+     "fin": 80.264
+    },
+    {
+     "w": "ese,",
+     "inicio": 80.264,
+     "fin": 80.517
+    },
+    {
+     "w": "menos",
+     "inicio": 80.517,
+     "fin": 80.938
+    },
+    {
+     "w": "uno;",
+     "inicio": 80.938,
+     "fin": 81.191
+    },
+    {
+     "w": "dos,",
+     "inicio": 81.191,
+     "fin": 81.443
+    },
+    {
+     "w": "ese",
+     "inicio": 81.443,
+     "fin": 81.696
+    },
+    {
+     "w": "más",
+     "inicio": 81.696,
+     "fin": 81.949
+    },
+    {
+     "w": "tres.",
+     "inicio": 81.949,
+     "fin": 82.286
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 4,
+   "texto": "Su determinante es ese al cuadrado más tres ese más dos.",
+   "dicho": "Su determinante es ese al cuadrado más tres ese más dos.",
+   "camara": "deriva lenta",
+   "inicio": 82.586,
+   "fin": 86.174,
+   "palabras": [
+    {
+     "w": "Su",
+     "inicio": 82.586,
+     "fin": 82.745
+    },
+    {
+     "w": "determinante",
+     "inicio": 82.745,
+     "fin": 83.702
+    },
+    {
+     "w": "es",
+     "inicio": 83.702,
+     "fin": 83.862
+    },
+    {
+     "w": "ese",
+     "inicio": 83.862,
+     "fin": 84.101
+    },
+    {
+     "w": "al",
+     "inicio": 84.101,
+     "fin": 84.26
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 84.26,
+     "fin": 84.898
+    },
+    {
+     "w": "más",
+     "inicio": 84.898,
+     "fin": 85.137
+    },
+    {
+     "w": "tres",
+     "inicio": 85.137,
+     "fin": 85.456
+    },
+    {
+     "w": "ese",
+     "inicio": 85.456,
+     "fin": 85.696
+    },
+    {
+     "w": "más",
+     "inicio": 85.696,
+     "fin": 85.935
+    },
+    {
+     "w": "dos.",
+     "inicio": 85.935,
+     "fin": 86.174
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 5,
+   "texto": "Multiplica por B y por C: te queda tres entre ese al cuadrado más tres ese más dos. Recuperaste la función.",
+   "dicho": "Multiplica por B y por C: te queda tres entre ese al cuadrado más tres ese más dos. Recuperaste la función.",
+   "camara": "push in",
+   "inicio": 86.474,
+   "fin": 92.812,
+   "palabras": [
+    {
+     "w": "Multiplica",
+     "inicio": 86.474,
+     "fin": 88.741
+    },
+    {
+     "w": "por",
+     "inicio": 88.741,
+     "fin": 89.421
+    },
+    {
+     "w": "B",
+     "inicio": 89.421,
+     "fin": 89.874
+    },
+    {
+     "w": "y",
+     "inicio": 89.874,
+     "fin": 90.101
+    },
+    {
+     "w": "por",
+     "inicio": 90.101,
+     "fin": 90.781
+    },
+    {
+     "w": "C:",
+     "inicio": 90.781,
+     "fin": 91.234
+    },
+    {
+     "w": "te",
+     "inicio": 91.484,
+     "fin": 91.526
+    },
+    {
+     "w": "queda",
+     "inicio": 91.526,
+     "fin": 91.609
+    },
+    {
+     "w": "tres",
+     "inicio": 91.609,
+     "fin": 91.692
+    },
+    {
+     "w": "entre",
+     "inicio": 91.692,
+     "fin": 91.795
+    },
+    {
+     "w": "ese",
+     "inicio": 91.795,
+     "fin": 91.857
+    },
+    {
+     "w": "al",
+     "inicio": 91.857,
+     "fin": 91.899
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 91.899,
+     "fin": 92.065
+    },
+    {
+     "w": "más",
+     "inicio": 92.065,
+     "fin": 92.127
+    },
+    {
+     "w": "tres",
+     "inicio": 92.127,
+     "fin": 92.21
+    },
+    {
+     "w": "ese",
+     "inicio": 92.21,
+     "fin": 92.272
+    },
+    {
+     "w": "más",
+     "inicio": 92.272,
+     "fin": 92.335
+    },
+    {
+     "w": "dos.",
+     "inicio": 92.335,
+     "fin": 92.397
+    },
+    {
+     "w": "Recuperaste",
+     "inicio": 92.397,
+     "fin": 92.625
+    },
+    {
+     "w": "la",
+     "inicio": 92.625,
+     "fin": 92.667
+    },
+    {
+     "w": "función.",
+     "inicio": 92.667,
+     "fin": 92.812
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 0,
+   "texto": "Y ese determinante es la clave.",
+   "dicho": "Y ese determinante es la clave.",
+   "camara": "viaje largo a la estación 4",
+   "inicio": 93.312,
+   "fin": 95.401,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 93.312,
+     "fin": 93.395
+    },
+    {
+     "w": "ese",
+     "inicio": 93.395,
+     "fin": 93.646
+    },
+    {
+     "w": "determinante",
+     "inicio": 93.646,
+     "fin": 94.649
+    },
+    {
+     "w": "es",
+     "inicio": 94.649,
+     "fin": 94.816
+    },
+    {
+     "w": "la",
+     "inicio": 94.816,
+     "fin": 94.983
+    },
+    {
+     "w": "clave.",
+     "inicio": 94.983,
+     "fin": 95.401
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 1,
+   "texto": "Determinante de ese I menos A igual a cero es la ecuación característica.",
+   "dicho": "Determinante de ese I menos A igual a cero es la ecuación característica.",
+   "camara": "push in",
+   "inicio": 95.701,
+   "fin": 100.107,
+   "palabras": [
+    {
+     "w": "Determinante",
+     "inicio": 95.701,
+     "fin": 96.582
+    },
+    {
+     "w": "de",
+     "inicio": 96.582,
+     "fin": 96.729
+    },
+    {
+     "w": "ese",
+     "inicio": 96.729,
+     "fin": 96.949
+    },
+    {
+     "w": "I",
+     "inicio": 96.949,
+     "fin": 97.023
+    },
+    {
+     "w": "menos",
+     "inicio": 97.023,
+     "fin": 97.39
+    },
+    {
+     "w": "A",
+     "inicio": 97.39,
+     "fin": 97.463
+    },
+    {
+     "w": "igual",
+     "inicio": 97.463,
+     "fin": 97.83
+    },
+    {
+     "w": "a",
+     "inicio": 97.83,
+     "fin": 97.904
+    },
+    {
+     "w": "cero",
+     "inicio": 97.904,
+     "fin": 98.198
+    },
+    {
+     "w": "es",
+     "inicio": 98.198,
+     "fin": 98.344
+    },
+    {
+     "w": "la",
+     "inicio": 98.344,
+     "fin": 98.491
+    },
+    {
+     "w": "ecuación",
+     "inicio": 98.491,
+     "fin": 99.079
+    },
+    {
+     "w": "característica.",
+     "inicio": 99.079,
+     "fin": 100.107
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 2,
+   "texto": "Sus raíces son los valores propios de A, y son los polos del sistema: menos uno y menos dos.",
+   "dicho": "Sus raíces son los valores propios de A, y son los polos del sistema: menos uno y menos dos.",
+   "camara": "deriva lenta",
+   "inicio": 100.407,
+   "fin": 105.775,
+   "palabras": [
+    {
+     "w": "Sus",
+     "inicio": 100.407,
+     "fin": 100.598
+    },
+    {
+     "w": "raíces",
+     "inicio": 100.598,
+     "fin": 100.981
+    },
+    {
+     "w": "son",
+     "inicio": 100.981,
+     "fin": 101.172
+    },
+    {
+     "w": "los",
+     "inicio": 101.172,
+     "fin": 101.363
+    },
+    {
+     "w": "valores",
+     "inicio": 101.363,
+     "fin": 101.809
+    },
+    {
+     "w": "propios",
+     "inicio": 101.809,
+     "fin": 102.256
+    },
+    {
+     "w": "de",
+     "inicio": 102.256,
+     "fin": 102.383
+    },
+    {
+     "w": "A,",
+     "inicio": 102.383,
+     "fin": 102.447
+    },
+    {
+     "w": "y",
+     "inicio": 102.607,
+     "fin": 102.673
+    },
+    {
+     "w": "son",
+     "inicio": 102.673,
+     "fin": 102.87
+    },
+    {
+     "w": "los",
+     "inicio": 102.87,
+     "fin": 103.068
+    },
+    {
+     "w": "polos",
+     "inicio": 103.068,
+     "fin": 103.398
+    },
+    {
+     "w": "del",
+     "inicio": 103.398,
+     "fin": 103.595
+    },
+    {
+     "w": "sistema:",
+     "inicio": 103.595,
+     "fin": 104.057
+    },
+    {
+     "w": "menos",
+     "inicio": 104.317,
+     "fin": 104.746
+    },
+    {
+     "w": "uno",
+     "inicio": 104.746,
+     "fin": 105.003
+    },
+    {
+     "w": "y",
+     "inicio": 105.003,
+     "fin": 105.089
+    },
+    {
+     "w": "menos",
+     "inicio": 105.089,
+     "fin": 105.518
+    },
+    {
+     "w": "dos.",
+     "inicio": 105.518,
+     "fin": 105.775
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 3,
+   "texto": "Cambiar de estados no cambia los polos: son del sistema, no de cómo lo escribes.",
+   "dicho": "Cambiar de estados no cambia los polos: son del sistema, no de cómo lo escribes.",
+   "camara": "pan con desenfoque",
+   "inicio": 106.075,
+   "fin": 110.534,
+   "palabras": [
+    {
+     "w": "Cambiar",
+     "inicio": 106.075,
+     "fin": 106.57
+    },
+    {
+     "w": "de",
+     "inicio": 106.57,
+     "fin": 106.712
+    },
+    {
+     "w": "estados",
+     "inicio": 106.712,
+     "fin": 107.207
+    },
+    {
+     "w": "no",
+     "inicio": 107.207,
+     "fin": 107.349
+    },
+    {
+     "w": "cambia",
+     "inicio": 107.349,
+     "fin": 107.774
+    },
+    {
+     "w": "los",
+     "inicio": 107.774,
+     "fin": 107.986
+    },
+    {
+     "w": "polos:",
+     "inicio": 107.986,
+     "fin": 108.34
+    },
+    {
+     "w": "son",
+     "inicio": 108.34,
+     "fin": 108.552
+    },
+    {
+     "w": "del",
+     "inicio": 108.552,
+     "fin": 108.765
+    },
+    {
+     "w": "sistema,",
+     "inicio": 108.765,
+     "fin": 109.26
+    },
+    {
+     "w": "no",
+     "inicio": 109.26,
+     "fin": 109.402
+    },
+    {
+     "w": "de",
+     "inicio": 109.402,
+     "fin": 109.543
+    },
+    {
+     "w": "cómo",
+     "inicio": 109.543,
+     "fin": 109.826
+    },
+    {
+     "w": "lo",
+     "inicio": 109.826,
+     "fin": 109.968
+    },
+    {
+     "w": "escribes.",
+     "inicio": 109.968,
+     "fin": 110.534
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 0,
+   "texto": "Ejercicio de prueba del examen: tres bloques uno entre ese más p en paralelo, cada uno con su ganancia c, más un camino directo b.",
+   "dicho": "Ejercicio de prueba del examen: tres bloques uno entre ese más p en paralelo, cada uno con su ganancia c, más un camino directo b.",
+   "camara": "viaje largo a la estación 5",
+   "inicio": 111.034,
+   "fin": 118.665,
+   "palabras": [
+    {
+     "w": "Ejercicio",
+     "inicio": 111.034,
+     "fin": 111.571
+    },
+    {
+     "w": "de",
+     "inicio": 111.571,
+     "fin": 111.69
+    },
+    {
+     "w": "prueba",
+     "inicio": 111.69,
+     "fin": 112.048
+    },
+    {
+     "w": "del",
+     "inicio": 112.048,
+     "fin": 112.227
+    },
+    {
+     "w": "examen:",
+     "inicio": 112.227,
+     "fin": 112.644
+    },
+    {
+     "w": "tres",
+     "inicio": 113.004,
+     "fin": 113.261
+    },
+    {
+     "w": "bloques",
+     "inicio": 113.261,
+     "fin": 113.646
+    },
+    {
+     "w": "uno",
+     "inicio": 113.646,
+     "fin": 113.838
+    },
+    {
+     "w": "entre",
+     "inicio": 113.838,
+     "fin": 114.159
+    },
+    {
+     "w": "ese",
+     "inicio": 114.159,
+     "fin": 114.352
+    },
+    {
+     "w": "más",
+     "inicio": 114.352,
+     "fin": 114.544
+    },
+    {
+     "w": "p",
+     "inicio": 114.544,
+     "fin": 114.673
+    },
+    {
+     "w": "en",
+     "inicio": 114.673,
+     "fin": 114.801
+    },
+    {
+     "w": "paralelo,",
+     "inicio": 114.801,
+     "fin": 115.314
+    },
+    {
+     "w": "cada",
+     "inicio": 115.554,
+     "fin": 116.045
+    },
+    {
+     "w": "uno",
+     "inicio": 116.045,
+     "fin": 116.413
+    },
+    {
+     "w": "con",
+     "inicio": 116.413,
+     "fin": 116.782
+    },
+    {
+     "w": "su",
+     "inicio": 116.782,
+     "fin": 117.027
+    },
+    {
+     "w": "ganancia",
+     "inicio": 117.027,
+     "fin": 118.009
+    },
+    {
+     "w": "c,",
+     "inicio": 118.009,
+     "fin": 118.254
+    },
+    {
+     "w": "más",
+     "inicio": 118.384,
+     "fin": 118.426
+    },
+    {
+     "w": "un",
+     "inicio": 118.426,
+     "fin": 118.455
+    },
+    {
+     "w": "camino",
+     "inicio": 118.455,
+     "fin": 118.539
+    },
+    {
+     "w": "directo",
+     "inicio": 118.539,
+     "fin": 118.637
+    },
+    {
+     "w": "b.",
+     "inicio": 118.637,
+     "fin": 118.665
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 1,
+   "texto": "La función es b más c1 entre ese más p1, más c2 entre ese más p2, más c3 entre ese más p3.",
+   "dicho": "La función es b más c1 entre ese más p1, más c2 entre ese más p2, más c3 entre ese más p3.",
+   "camara": "push in",
+   "inicio": 118.965,
+   "fin": 125.874,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 118.965,
+     "fin": 119.105
+    },
+    {
+     "w": "función",
+     "inicio": 119.105,
+     "fin": 119.593
+    },
+    {
+     "w": "es",
+     "inicio": 119.593,
+     "fin": 119.732
+    },
+    {
+     "w": "b",
+     "inicio": 119.732,
+     "fin": 119.872
+    },
+    {
+     "w": "más",
+     "inicio": 119.872,
+     "fin": 120.081
+    },
+    {
+     "w": "c1",
+     "inicio": 120.081,
+     "fin": 120.43
+    },
+    {
+     "w": "entre",
+     "inicio": 120.43,
+     "fin": 120.778
+    },
+    {
+     "w": "ese",
+     "inicio": 120.778,
+     "fin": 120.988
+    },
+    {
+     "w": "más",
+     "inicio": 120.988,
+     "fin": 121.197
+    },
+    {
+     "w": "p1,",
+     "inicio": 121.197,
+     "fin": 121.545
+    },
+    {
+     "w": "más",
+     "inicio": 121.835,
+     "fin": 122.069
+    },
+    {
+     "w": "c2",
+     "inicio": 122.069,
+     "fin": 122.459
+    },
+    {
+     "w": "entre",
+     "inicio": 122.459,
+     "fin": 122.848
+    },
+    {
+     "w": "ese",
+     "inicio": 122.848,
+     "fin": 123.082
+    },
+    {
+     "w": "más",
+     "inicio": 123.082,
+     "fin": 123.316
+    },
+    {
+     "w": "p2,",
+     "inicio": 123.316,
+     "fin": 123.705
+    },
+    {
+     "w": "más",
+     "inicio": 123.905,
+     "fin": 124.133
+    },
+    {
+     "w": "c3",
+     "inicio": 124.133,
+     "fin": 124.587
+    },
+    {
+     "w": "entre",
+     "inicio": 124.587,
+     "fin": 124.965
+    },
+    {
+     "w": "ese",
+     "inicio": 124.965,
+     "fin": 125.192
+    },
+    {
+     "w": "más",
+     "inicio": 125.192,
+     "fin": 125.42
+    },
+    {
+     "w": "p3.",
+     "inicio": 125.42,
+     "fin": 125.874
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 2,
+   "texto": "Si cada salida de bloque es un estado, cada derivada es menos p por su estado, más u.",
+   "dicho": "Si cada salida de bloque es un estado, cada derivada es menos p por su estado, más u.",
+   "camara": "deriva lenta",
+   "inicio": 126.174,
+   "fin": 130.92,
+   "palabras": [
+    {
+     "w": "Si",
+     "inicio": 126.174,
+     "fin": 126.32
+    },
+    {
+     "w": "cada",
+     "inicio": 126.32,
+     "fin": 126.612
+    },
+    {
+     "w": "salida",
+     "inicio": 126.612,
+     "fin": 127.05
+    },
+    {
+     "w": "de",
+     "inicio": 127.05,
+     "fin": 127.196
+    },
+    {
+     "w": "bloque",
+     "inicio": 127.196,
+     "fin": 127.561
+    },
+    {
+     "w": "es",
+     "inicio": 127.561,
+     "fin": 127.707
+    },
+    {
+     "w": "un",
+     "inicio": 127.707,
+     "fin": 127.853
+    },
+    {
+     "w": "estado,",
+     "inicio": 127.853,
+     "fin": 128.291
+    },
+    {
+     "w": "cada",
+     "inicio": 128.291,
+     "fin": 128.583
+    },
+    {
+     "w": "derivada",
+     "inicio": 128.583,
+     "fin": 129.167
+    },
+    {
+     "w": "es",
+     "inicio": 129.167,
+     "fin": 129.314
+    },
+    {
+     "w": "menos",
+     "inicio": 129.314,
+     "fin": 129.679
+    },
+    {
+     "w": "p",
+     "inicio": 129.679,
+     "fin": 129.825
+    },
+    {
+     "w": "por",
+     "inicio": 129.825,
+     "fin": 130.044
+    },
+    {
+     "w": "su",
+     "inicio": 130.044,
+     "fin": 130.19
+    },
+    {
+     "w": "estado,",
+     "inicio": 130.19,
+     "fin": 130.628
+    },
+    {
+     "w": "más",
+     "inicio": 130.628,
+     "fin": 130.847
+    },
+    {
+     "w": "u.",
+     "inicio": 130.847,
+     "fin": 130.92
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 3,
+   "texto": "A queda diagonal con menos p1, menos p2 y menos p3; B son tres unos; C es c1, c2, c3; y b pasa directo.",
+   "dicho": "A queda diagonal con menos p1, menos p2 y menos p3; B son tres unos; C es c1, c2, c3; y b pasa directo.",
+   "camara": "push in",
+   "inicio": 131.22,
+   "fin": 138.713,
+   "palabras": [
+    {
+     "w": "A",
+     "inicio": 131.22,
+     "fin": 131.299
+    },
+    {
+     "w": "queda",
+     "inicio": 131.299,
+     "fin": 131.614
+    },
+    {
+     "w": "diagonal",
+     "inicio": 131.614,
+     "fin": 132.245
+    },
+    {
+     "w": "con",
+     "inicio": 132.245,
+     "fin": 132.482
+    },
+    {
+     "w": "menos",
+     "inicio": 132.482,
+     "fin": 132.876
+    },
+    {
+     "w": "p1,",
+     "inicio": 132.876,
+     "fin": 133.271
+    },
+    {
+     "w": "menos",
+     "inicio": 133.271,
+     "fin": 133.665
+    },
+    {
+     "w": "p2",
+     "inicio": 133.665,
+     "fin": 134.06
+    },
+    {
+     "w": "y",
+     "inicio": 134.06,
+     "fin": 134.138
+    },
+    {
+     "w": "menos",
+     "inicio": 134.138,
+     "fin": 134.533
+    },
+    {
+     "w": "p3;",
+     "inicio": 134.533,
+     "fin": 135.006
+    },
+    {
+     "w": "B",
+     "inicio": 135.006,
+     "fin": 135.164
+    },
+    {
+     "w": "son",
+     "inicio": 135.164,
+     "fin": 135.401
+    },
+    {
+     "w": "tres",
+     "inicio": 135.401,
+     "fin": 135.716
+    },
+    {
+     "w": "unos;",
+     "inicio": 135.716,
+     "fin": 136.032
+    },
+    {
+     "w": "C",
+     "inicio": 136.032,
+     "fin": 136.189
+    },
+    {
+     "w": "es",
+     "inicio": 136.189,
+     "fin": 136.347
+    },
+    {
+     "w": "c1,",
+     "inicio": 136.347,
+     "fin": 136.741
+    },
+    {
+     "w": "c2,",
+     "inicio": 136.741,
+     "fin": 137.136
+    },
+    {
+     "w": "c3;",
+     "inicio": 137.136,
+     "fin": 137.609
+    },
+    {
+     "w": "y",
+     "inicio": 137.609,
+     "fin": 137.688
+    },
+    {
+     "w": "b",
+     "inicio": 137.688,
+     "fin": 137.846
+    },
+    {
+     "w": "pasa",
+     "inicio": 137.846,
+     "fin": 138.161
+    },
+    {
+     "w": "directo.",
+     "inicio": 138.161,
+     "fin": 138.713
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 4,
+   "texto": "La ecuación característica es ese más p1, por ese más p2, por ese más p3, igual a cero.",
+   "dicho": "La ecuación característica es ese más p1, por ese más p2, por ese más p3, igual a cero.",
+   "camara": "deriva lenta",
+   "inicio": 139.013,
+   "fin": 144.769,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 139.013,
+     "fin": 139.165
+    },
+    {
+     "w": "ecuación",
+     "inicio": 139.165,
+     "fin": 139.771
+    },
+    {
+     "w": "característica",
+     "inicio": 139.771,
+     "fin": 140.831
+    },
+    {
+     "w": "es",
+     "inicio": 140.831,
+     "fin": 140.983
+    },
+    {
+     "w": "ese",
+     "inicio": 140.983,
+     "fin": 141.21
+    },
+    {
+     "w": "más",
+     "inicio": 141.21,
+     "fin": 141.437
+    },
+    {
+     "w": "p1,",
+     "inicio": 141.437,
+     "fin": 141.816
+    },
+    {
+     "w": "por",
+     "inicio": 141.816,
+     "fin": 142.043
+    },
+    {
+     "w": "ese",
+     "inicio": 142.043,
+     "fin": 142.27
+    },
+    {
+     "w": "más",
+     "inicio": 142.27,
+     "fin": 142.497
+    },
+    {
+     "w": "p2,",
+     "inicio": 142.497,
+     "fin": 142.876
+    },
+    {
+     "w": "por",
+     "inicio": 142.876,
+     "fin": 143.103
+    },
+    {
+     "w": "ese",
+     "inicio": 143.103,
+     "fin": 143.33
+    },
+    {
+     "w": "más",
+     "inicio": 143.33,
+     "fin": 143.557
+    },
+    {
+     "w": "p3,",
+     "inicio": 143.557,
+     "fin": 144.012
+    },
+    {
+     "w": "igual",
+     "inicio": 144.012,
+     "fin": 144.39
+    },
+    {
+     "w": "a",
+     "inicio": 144.39,
+     "fin": 144.466
+    },
+    {
+     "w": "cero.",
+     "inicio": 144.466,
+     "fin": 144.769
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 0,
+   "texto": "Y en hardware, cada integrador es un amplificador operacional con R a la entrada y C en la realimentación.",
+   "dicho": "Y en hardware, cada integrador es un amplificador operacional con R a la entrada y C en la realimentación.",
+   "camara": "viaje largo a la estación 6",
+   "inicio": 145.269,
+   "fin": 151.265,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 145.269,
+     "fin": 145.578
+    },
+    {
+     "w": "en",
+     "inicio": 145.578,
+     "fin": 146.196
+    },
+    {
+     "w": "hardware,",
+     "inicio": 146.196,
+     "fin": 148.359
+    },
+    {
+     "w": "cada",
+     "inicio": 148.629,
+     "fin": 148.764
+    },
+    {
+     "w": "integrador",
+     "inicio": 148.764,
+     "fin": 149.102
+    },
+    {
+     "w": "es",
+     "inicio": 149.102,
+     "fin": 149.17
+    },
+    {
+     "w": "un",
+     "inicio": 149.17,
+     "fin": 149.237
+    },
+    {
+     "w": "amplificador",
+     "inicio": 149.237,
+     "fin": 149.643
+    },
+    {
+     "w": "operacional",
+     "inicio": 149.643,
+     "fin": 150.014
+    },
+    {
+     "w": "con",
+     "inicio": 150.014,
+     "fin": 150.116
+    },
+    {
+     "w": "R",
+     "inicio": 150.116,
+     "fin": 150.217
+    },
+    {
+     "w": "a",
+     "inicio": 150.217,
+     "fin": 150.251
+    },
+    {
+     "w": "la",
+     "inicio": 150.251,
+     "fin": 150.318
+    },
+    {
+     "w": "entrada",
+     "inicio": 150.318,
+     "fin": 150.555
+    },
+    {
+     "w": "y",
+     "inicio": 150.555,
+     "fin": 150.589
+    },
+    {
+     "w": "C",
+     "inicio": 150.589,
+     "fin": 150.656
+    },
+    {
+     "w": "en",
+     "inicio": 150.656,
+     "fin": 150.724
+    },
+    {
+     "w": "la",
+     "inicio": 150.724,
+     "fin": 150.792
+    },
+    {
+     "w": "realimentación.",
+     "inicio": 150.792,
+     "fin": 151.265
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 1,
+   "texto": "Su función es menos uno entre R C ese: el signo menos se corrige con un inversor de ganancia menos uno.",
+   "dicho": "Su función es menos uno entre R C ese: el signo menos se corrige con un inversor de ganancia menos uno.",
+   "camara": "push in",
+   "inicio": 151.565,
+   "fin": 157.903,
+   "palabras": [
+    {
+     "w": "Su",
+     "inicio": 151.565,
+     "fin": 151.72
+    },
+    {
+     "w": "función",
+     "inicio": 151.72,
+     "fin": 152.265
+    },
+    {
+     "w": "es",
+     "inicio": 152.265,
+     "fin": 152.42
+    },
+    {
+     "w": "menos",
+     "inicio": 152.42,
+     "fin": 152.81
+    },
+    {
+     "w": "uno",
+     "inicio": 152.81,
+     "fin": 153.043
+    },
+    {
+     "w": "entre",
+     "inicio": 153.043,
+     "fin": 153.432
+    },
+    {
+     "w": "R",
+     "inicio": 153.432,
+     "fin": 153.665
+    },
+    {
+     "w": "C",
+     "inicio": 153.665,
+     "fin": 153.821
+    },
+    {
+     "w": "ese:",
+     "inicio": 153.821,
+     "fin": 154.055
+    },
+    {
+     "w": "el",
+     "inicio": 154.435,
+     "fin": 154.571
+    },
+    {
+     "w": "signo",
+     "inicio": 154.571,
+     "fin": 154.911
+    },
+    {
+     "w": "menos",
+     "inicio": 154.911,
+     "fin": 155.251
+    },
+    {
+     "w": "se",
+     "inicio": 155.251,
+     "fin": 155.387
+    },
+    {
+     "w": "corrige",
+     "inicio": 155.387,
+     "fin": 155.795
+    },
+    {
+     "w": "con",
+     "inicio": 155.795,
+     "fin": 155.999
+    },
+    {
+     "w": "un",
+     "inicio": 155.999,
+     "fin": 156.135
+    },
+    {
+     "w": "inversor",
+     "inicio": 156.135,
+     "fin": 156.679
+    },
+    {
+     "w": "de",
+     "inicio": 156.679,
+     "fin": 156.815
+    },
+    {
+     "w": "ganancia",
+     "inicio": 156.815,
+     "fin": 157.359
+    },
+    {
+     "w": "menos",
+     "inicio": 157.359,
+     "fin": 157.699
+    },
+    {
+     "w": "uno.",
+     "inicio": 157.699,
+     "fin": 157.903
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 0,
+   "texto": "Resumen: los estados son las salidas de los integradores, A es el diagrama, y el determinante te da los polos.",
+   "dicho": "Resumen: los estados son las salidas de los integradores, A es el diagrama, y el determinante te da los polos.",
+   "camara": "push in con golpe",
+   "inicio": 158.403,
+   "fin": 164.511,
+   "palabras": [
+    {
+     "w": "Resumen:",
+     "inicio": 158.403,
+     "fin": 158.894
+    },
+    {
+     "w": "los",
+     "inicio": 158.894,
+     "fin": 159.105
+    },
+    {
+     "w": "estados",
+     "inicio": 159.105,
+     "fin": 159.596
+    },
+    {
+     "w": "son",
+     "inicio": 159.596,
+     "fin": 159.807
+    },
+    {
+     "w": "las",
+     "inicio": 159.807,
+     "fin": 160.018
+    },
+    {
+     "w": "salidas",
+     "inicio": 160.018,
+     "fin": 160.509
+    },
+    {
+     "w": "de",
+     "inicio": 160.509,
+     "fin": 160.65
+    },
+    {
+     "w": "los",
+     "inicio": 160.65,
+     "fin": 160.86
+    },
+    {
+     "w": "integradores,",
+     "inicio": 160.86,
+     "fin": 161.703
+    },
+    {
+     "w": "A",
+     "inicio": 161.703,
+     "fin": 161.773
+    },
+    {
+     "w": "es",
+     "inicio": 161.773,
+     "fin": 161.913
+    },
+    {
+     "w": "el",
+     "inicio": 161.913,
+     "fin": 162.054
+    },
+    {
+     "w": "diagrama,",
+     "inicio": 162.054,
+     "fin": 162.616
+    },
+    {
+     "w": "y",
+     "inicio": 162.616,
+     "fin": 162.686
+    },
+    {
+     "w": "el",
+     "inicio": 162.686,
+     "fin": 162.826
+    },
+    {
+     "w": "determinante",
+     "inicio": 162.826,
+     "fin": 163.669
+    },
+    {
+     "w": "te",
+     "inicio": 163.669,
+     "fin": 163.809
+    },
+    {
+     "w": "da",
+     "inicio": 163.809,
+     "fin": 163.95
+    },
+    {
+     "w": "los",
+     "inicio": 163.95,
+     "fin": 164.16
+    },
+    {
+     "w": "polos.",
+     "inicio": 164.16,
+     "fin": 164.511
+    }
+   ]
+  },
+  {
+   "bloque": 8,
+   "frase": 0,
+   "texto": "Practica la inversa de dos por dos con tres matrices distintas hasta que salga sola.",
+   "dicho": "Practica la inversa de dos por dos con tres matrices distintas hasta que salga sola.",
+   "camara": "push out a plano general",
+   "inicio": 165.011,
+   "fin": 170.035,
+   "palabras": [
+    {
+     "w": "Practica",
+     "inicio": 165.011,
+     "fin": 165.611
+    },
+    {
+     "w": "la",
+     "inicio": 165.611,
+     "fin": 165.761
+    },
+    {
+     "w": "inversa",
+     "inicio": 165.761,
+     "fin": 166.286
+    },
+    {
+     "w": "de",
+     "inicio": 166.286,
+     "fin": 166.436
+    },
+    {
+     "w": "dos",
+     "inicio": 166.436,
+     "fin": 166.661
+    },
+    {
+     "w": "por",
+     "inicio": 166.661,
+     "fin": 166.886
+    },
+    {
+     "w": "dos",
+     "inicio": 166.886,
+     "fin": 167.111
+    },
+    {
+     "w": "con",
+     "inicio": 167.111,
+     "fin": 167.336
+    },
+    {
+     "w": "tres",
+     "inicio": 167.336,
+     "fin": 167.636
+    },
+    {
+     "w": "matrices",
+     "inicio": 167.636,
+     "fin": 168.235
+    },
+    {
+     "w": "distintas",
+     "inicio": 168.235,
+     "fin": 168.91
+    },
+    {
+     "w": "hasta",
+     "inicio": 168.91,
+     "fin": 169.21
+    },
+    {
+     "w": "que",
+     "inicio": 169.21,
+     "fin": 169.36
+    },
+    {
+     "w": "salga",
+     "inicio": 169.36,
+     "fin": 169.735
+    },
+    {
+     "w": "sola.",
+     "inicio": 169.735,
+     "fin": 170.035
+    }
+   ]
+  },
+  {
+   "bloque": 8,
+   "frase": 1,
+   "texto": "En el siguiente vídeo: retroalimentación de estados.",
+   "dicho": "En el siguiente vídeo: retroalimentación de estados.",
+   "camara": "push in a la tarjeta",
+   "inicio": 170.335,
+   "fin": 173.199,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 170.335,
+     "fin": 170.467
+    },
+    {
+     "w": "el",
+     "inicio": 170.467,
+     "fin": 170.598
+    },
+    {
+     "w": "siguiente",
+     "inicio": 170.598,
+     "fin": 171.126
+    },
+    {
+     "w": "vídeo:",
+     "inicio": 171.126,
+     "fin": 171.455
+    },
+    {
+     "w": "retroalimentación",
+     "inicio": 171.625,
+     "fin": 172.654
+    },
+    {
+     "w": "de",
+     "inicio": 172.654,
+     "fin": 172.775
+    },
+    {
+     "w": "estados.",
+     "inicio": 172.775,
+     "fin": 173.199
+    }
+   ]
+  }
+ ]
+}

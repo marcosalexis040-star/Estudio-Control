@@ -1,0 +1,2745 @@
+{
+ "video": "09-mason-problema-del-integrador",
+ "voz": "em_alex",
+ "duracion": 156.008,
+ "bloques": [
+  {
+   "nombre": "Gancho",
+   "color": "#ff5a5f"
+  },
+  {
+   "nombre": "La fórmula",
+   "color": "#4da3ff"
+  },
+  {
+   "nombre": "Datos y trayectos",
+   "color": "#ffd166"
+  },
+  {
+   "nombre": "Lazos",
+   "color": "#c77dff"
+  },
+  {
+   "nombre": "Lazos que no se tocan",
+   "color": "#06d6a0"
+  },
+  {
+   "nombre": "Cofactores y resultado",
+   "color": "#ff9f1c"
+  },
+  {
+   "nombre": "Clímax",
+   "color": "compruébalo con k igual a cero · #ff5a5f"
+  },
+  {
+   "nombre": "Cierre",
+   "color": "#06d6a0"
+  }
+ ],
+ "frases": [
+  {
+   "bloque": 0,
+   "frase": 0,
+   "texto": "30 puntos del integrador se ganaban con una sola fórmula: Mason.",
+   "dicho": "30 puntos del integrador se ganaban con una sola fórmula: Méison.",
+   "camara": "push in rápido",
+   "inicio": 0.35,
+   "fin": 4.494,
+   "palabras": [
+    {
+     "w": "30",
+     "inicio": 0.35,
+     "fin": 0.805
+    },
+    {
+     "w": "puntos",
+     "inicio": 0.805,
+     "fin": 1.195
+    },
+    {
+     "w": "del",
+     "inicio": 1.195,
+     "fin": 1.39
+    },
+    {
+     "w": "integrador",
+     "inicio": 1.39,
+     "fin": 2.04
+    },
+    {
+     "w": "se",
+     "inicio": 2.04,
+     "fin": 2.17
+    },
+    {
+     "w": "ganaban",
+     "inicio": 2.17,
+     "fin": 2.625
+    },
+    {
+     "w": "con",
+     "inicio": 2.625,
+     "fin": 2.82
+    },
+    {
+     "w": "una",
+     "inicio": 2.82,
+     "fin": 3.015
+    },
+    {
+     "w": "sola",
+     "inicio": 3.015,
+     "fin": 3.275
+    },
+    {
+     "w": "fórmula:",
+     "inicio": 3.275,
+     "fin": 3.73
+    },
+    {
+     "w": "Mason.",
+     "inicio": 3.99,
+     "fin": 4.494
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 1,
+   "texto": "Y casi todos los errores salen de un solo paso: los lazos que no se tocan.",
+   "dicho": "Y casi todos los errores salen de un solo paso: los lazos que no se tocan.",
+   "camara": "deriva lenta",
+   "inicio": 4.794,
+   "fin": 9.207,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 4.794,
+     "fin": 4.867
+    },
+    {
+     "w": "casi",
+     "inicio": 4.867,
+     "fin": 5.159
+    },
+    {
+     "w": "todos",
+     "inicio": 5.159,
+     "fin": 5.524
+    },
+    {
+     "w": "los",
+     "inicio": 5.524,
+     "fin": 5.743
+    },
+    {
+     "w": "errores",
+     "inicio": 5.743,
+     "fin": 6.182
+    },
+    {
+     "w": "salen",
+     "inicio": 6.182,
+     "fin": 6.547
+    },
+    {
+     "w": "de",
+     "inicio": 6.547,
+     "fin": 6.693
+    },
+    {
+     "w": "un",
+     "inicio": 6.693,
+     "fin": 6.839
+    },
+    {
+     "w": "solo",
+     "inicio": 6.839,
+     "fin": 7.131
+    },
+    {
+     "w": "paso:",
+     "inicio": 7.131,
+     "fin": 7.424
+    },
+    {
+     "w": "los",
+     "inicio": 7.694,
+     "fin": 7.933
+    },
+    {
+     "w": "lazos",
+     "inicio": 7.933,
+     "fin": 8.331
+    },
+    {
+     "w": "que",
+     "inicio": 8.331,
+     "fin": 8.49
+    },
+    {
+     "w": "no",
+     "inicio": 8.49,
+     "fin": 8.65
+    },
+    {
+     "w": "se",
+     "inicio": 8.65,
+     "fin": 8.809
+    },
+    {
+     "w": "tocan.",
+     "inicio": 8.809,
+     "fin": 9.207
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 2,
+   "texto": "Vamos a resolver el problema del examen completo.",
+   "dicho": "Vamos a resolver el problema del examen completo.",
+   "camara": "push out",
+   "inicio": 9.507,
+   "fin": 12.508,
+   "palabras": [
+    {
+     "w": "Vamos",
+     "inicio": 9.507,
+     "fin": 9.865
+    },
+    {
+     "w": "a",
+     "inicio": 9.865,
+     "fin": 9.936
+    },
+    {
+     "w": "resolver",
+     "inicio": 9.936,
+     "fin": 10.508
+    },
+    {
+     "w": "el",
+     "inicio": 10.508,
+     "fin": 10.651
+    },
+    {
+     "w": "problema",
+     "inicio": 10.651,
+     "fin": 11.222
+    },
+    {
+     "w": "del",
+     "inicio": 11.222,
+     "fin": 11.437
+    },
+    {
+     "w": "examen",
+     "inicio": 11.437,
+     "fin": 11.937
+    },
+    {
+     "w": "completo.",
+     "inicio": 11.937,
+     "fin": 12.508
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 0,
+   "texto": "La regla de Mason dice: suma de cada trayecto por su cofactor, entre delta.",
+   "dicho": "La regla de Méison dice: suma de cada trayecto por su cofactor, entre delta.",
+   "camara": "viaje largo a la estación 1",
+   "inicio": 13.008,
+   "fin": 17.567,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 13.008,
+     "fin": 13.163
+    },
+    {
+     "w": "regla",
+     "inicio": 13.163,
+     "fin": 13.55
+    },
+    {
+     "w": "de",
+     "inicio": 13.55,
+     "fin": 13.705
+    },
+    {
+     "w": "Mason",
+     "inicio": 13.705,
+     "fin": 14.169
+    },
+    {
+     "w": "dice:",
+     "inicio": 14.169,
+     "fin": 14.478
+    },
+    {
+     "w": "suma",
+     "inicio": 14.718,
+     "fin": 14.952
+    },
+    {
+     "w": "de",
+     "inicio": 14.952,
+     "fin": 15.069
+    },
+    {
+     "w": "cada",
+     "inicio": 15.069,
+     "fin": 15.302
+    },
+    {
+     "w": "trayecto",
+     "inicio": 15.302,
+     "fin": 15.769
+    },
+    {
+     "w": "por",
+     "inicio": 15.769,
+     "fin": 15.944
+    },
+    {
+     "w": "su",
+     "inicio": 15.944,
+     "fin": 16.061
+    },
+    {
+     "w": "cofactor,",
+     "inicio": 16.061,
+     "fin": 16.528
+    },
+    {
+     "w": "entre",
+     "inicio": 16.668,
+     "fin": 17.117
+    },
+    {
+     "w": "delta.",
+     "inicio": 17.117,
+     "fin": 17.567
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 1,
+   "texto": "Delta es uno, menos la suma de todos los lazos, más los productos de pares de lazos que no se tocan, menos los tríos, y así.",
+   "dicho": "Delta es uno, menos la suma de todos los lazos, más los productos de pares de lazos que no se tocan, menos los tríos, y así.",
+   "camara": "push in",
+   "inicio": 17.867,
+   "fin": 24.986,
+   "palabras": [
+    {
+     "w": "Delta",
+     "inicio": 17.867,
+     "fin": 18.249
+    },
+    {
+     "w": "es",
+     "inicio": 18.249,
+     "fin": 18.402
+    },
+    {
+     "w": "uno,",
+     "inicio": 18.402,
+     "fin": 18.632
+    },
+    {
+     "w": "menos",
+     "inicio": 18.632,
+     "fin": 19.015
+    },
+    {
+     "w": "la",
+     "inicio": 19.015,
+     "fin": 19.168
+    },
+    {
+     "w": "suma",
+     "inicio": 19.168,
+     "fin": 19.474
+    },
+    {
+     "w": "de",
+     "inicio": 19.474,
+     "fin": 19.627
+    },
+    {
+     "w": "todos",
+     "inicio": 19.627,
+     "fin": 20.01
+    },
+    {
+     "w": "los",
+     "inicio": 20.01,
+     "fin": 20.24
+    },
+    {
+     "w": "lazos,",
+     "inicio": 20.24,
+     "fin": 20.623
+    },
+    {
+     "w": "más",
+     "inicio": 20.623,
+     "fin": 20.852
+    },
+    {
+     "w": "los",
+     "inicio": 20.852,
+     "fin": 21.082
+    },
+    {
+     "w": "productos",
+     "inicio": 21.082,
+     "fin": 21.771
+    },
+    {
+     "w": "de",
+     "inicio": 21.771,
+     "fin": 21.924
+    },
+    {
+     "w": "pares",
+     "inicio": 21.924,
+     "fin": 22.307
+    },
+    {
+     "w": "de",
+     "inicio": 22.307,
+     "fin": 22.46
+    },
+    {
+     "w": "lazos",
+     "inicio": 22.46,
+     "fin": 22.843
+    },
+    {
+     "w": "que",
+     "inicio": 22.843,
+     "fin": 22.996
+    },
+    {
+     "w": "no",
+     "inicio": 22.996,
+     "fin": 23.149
+    },
+    {
+     "w": "se",
+     "inicio": 23.149,
+     "fin": 23.302
+    },
+    {
+     "w": "tocan,",
+     "inicio": 23.302,
+     "fin": 23.685
+    },
+    {
+     "w": "menos",
+     "inicio": 23.685,
+     "fin": 24.068
+    },
+    {
+     "w": "los",
+     "inicio": 24.068,
+     "fin": 24.297
+    },
+    {
+     "w": "tríos,",
+     "inicio": 24.297,
+     "fin": 24.68
+    },
+    {
+     "w": "y",
+     "inicio": 24.68,
+     "fin": 24.757
+    },
+    {
+     "w": "así.",
+     "inicio": 24.757,
+     "fin": 24.986
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 2,
+   "texto": "Cada cofactor es delta, quitando los lazos que tocan ese trayecto.",
+   "dicho": "Cada cofactor es delta, quitando los lazos que tocan ese trayecto.",
+   "camara": "deriva lenta",
+   "inicio": 25.286,
+   "fin": 29.243,
+   "palabras": [
+    {
+     "w": "Cada",
+     "inicio": 25.286,
+     "fin": 25.577
+    },
+    {
+     "w": "cofactor",
+     "inicio": 25.577,
+     "fin": 26.158
+    },
+    {
+     "w": "es",
+     "inicio": 26.158,
+     "fin": 26.303
+    },
+    {
+     "w": "delta,",
+     "inicio": 26.303,
+     "fin": 26.666
+    },
+    {
+     "w": "quitando",
+     "inicio": 26.866,
+     "fin": 27.371
+    },
+    {
+     "w": "los",
+     "inicio": 27.371,
+     "fin": 27.587
+    },
+    {
+     "w": "lazos",
+     "inicio": 27.587,
+     "fin": 27.947
+    },
+    {
+     "w": "que",
+     "inicio": 27.947,
+     "fin": 28.091
+    },
+    {
+     "w": "tocan",
+     "inicio": 28.091,
+     "fin": 28.451
+    },
+    {
+     "w": "ese",
+     "inicio": 28.451,
+     "fin": 28.667
+    },
+    {
+     "w": "trayecto.",
+     "inicio": 28.667,
+     "fin": 29.243
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 3,
+   "texto": "Tocarse significa compartir un nodo o un bloque.",
+   "dicho": "Tocarse significa compartir un nodo o un bloque.",
+   "camara": "push in",
+   "inicio": 29.543,
+   "fin": 32.556,
+   "palabras": [
+    {
+     "w": "Tocarse",
+     "inicio": 29.543,
+     "fin": 30.084
+    },
+    {
+     "w": "significa",
+     "inicio": 30.084,
+     "fin": 30.779
+    },
+    {
+     "w": "compartir",
+     "inicio": 30.779,
+     "fin": 31.474
+    },
+    {
+     "w": "un",
+     "inicio": 31.474,
+     "fin": 31.629
+    },
+    {
+     "w": "nodo",
+     "inicio": 31.629,
+     "fin": 31.938
+    },
+    {
+     "w": "o",
+     "inicio": 31.938,
+     "fin": 32.015
+    },
+    {
+     "w": "un",
+     "inicio": 32.015,
+     "fin": 32.169
+    },
+    {
+     "w": "bloque.",
+     "inicio": 32.169,
+     "fin": 32.556
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 0,
+   "texto": "En el examen, G1, G3 y G4 valen uno, G2 es k entre ese, G5 es uno entre ese.",
+   "dicho": "En el examen, G1, G3 y G4 valen uno, G2 es k entre ese, G5 es uno entre ese.",
+   "camara": "viaje largo a la estación 2",
+   "inicio": 33.056,
+   "fin": 38.911,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 33.056,
+     "fin": 33.21
+    },
+    {
+     "w": "el",
+     "inicio": 33.21,
+     "fin": 33.364
+    },
+    {
+     "w": "examen,",
+     "inicio": 33.364,
+     "fin": 33.903
+    },
+    {
+     "w": "G1,",
+     "inicio": 33.903,
+     "fin": 34.288
+    },
+    {
+     "w": "G3",
+     "inicio": 34.288,
+     "fin": 34.751
+    },
+    {
+     "w": "y",
+     "inicio": 34.751,
+     "fin": 34.828
+    },
+    {
+     "w": "G4",
+     "inicio": 34.828,
+     "fin": 35.444
+    },
+    {
+     "w": "valen",
+     "inicio": 35.444,
+     "fin": 35.829
+    },
+    {
+     "w": "uno,",
+     "inicio": 35.829,
+     "fin": 36.06
+    },
+    {
+     "w": "G2",
+     "inicio": 36.06,
+     "fin": 36.446
+    },
+    {
+     "w": "es",
+     "inicio": 36.446,
+     "fin": 36.6
+    },
+    {
+     "w": "k",
+     "inicio": 36.6,
+     "fin": 36.754
+    },
+    {
+     "w": "entre",
+     "inicio": 36.754,
+     "fin": 37.139
+    },
+    {
+     "w": "ese,",
+     "inicio": 37.139,
+     "fin": 37.37
+    },
+    {
+     "w": "G5",
+     "inicio": 37.37,
+     "fin": 37.909
+    },
+    {
+     "w": "es",
+     "inicio": 37.909,
+     "fin": 38.064
+    },
+    {
+     "w": "uno",
+     "inicio": 38.064,
+     "fin": 38.295
+    },
+    {
+     "w": "entre",
+     "inicio": 38.295,
+     "fin": 38.68
+    },
+    {
+     "w": "ese.",
+     "inicio": 38.68,
+     "fin": 38.911
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 1,
+   "texto": "H1 y H3 valen uno, y H2 es uno entre ese más a.",
+   "dicho": "H1 y H3 valen uno, y H2 es uno entre ese más a.",
+   "camara": "deriva lenta",
+   "inicio": 39.211,
+   "fin": 43.343,
+   "palabras": [
+    {
+     "w": "H1",
+     "inicio": 39.211,
+     "fin": 39.756
+    },
+    {
+     "w": "y",
+     "inicio": 39.756,
+     "fin": 39.834
+    },
+    {
+     "w": "H3",
+     "inicio": 39.834,
+     "fin": 40.458
+    },
+    {
+     "w": "valen",
+     "inicio": 40.458,
+     "fin": 40.847
+    },
+    {
+     "w": "uno,",
+     "inicio": 40.847,
+     "fin": 41.081
+    },
+    {
+     "w": "y",
+     "inicio": 41.341,
+     "fin": 41.421
+    },
+    {
+     "w": "H2",
+     "inicio": 41.421,
+     "fin": 41.982
+    },
+    {
+     "w": "es",
+     "inicio": 41.982,
+     "fin": 42.142
+    },
+    {
+     "w": "uno",
+     "inicio": 42.142,
+     "fin": 42.382
+    },
+    {
+     "w": "entre",
+     "inicio": 42.382,
+     "fin": 42.782
+    },
+    {
+     "w": "ese",
+     "inicio": 42.782,
+     "fin": 43.023
+    },
+    {
+     "w": "más",
+     "inicio": 43.023,
+     "fin": 43.263
+    },
+    {
+     "w": "a.",
+     "inicio": 43.263,
+     "fin": 43.343
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 2,
+   "texto": "Trayecto uno: por arriba, G1 G2 G3 G4: k entre ese.",
+   "dicho": "Trayecto uno: por arriba, G1 G2 G3 G4: k entre ese.",
+   "camara": "push in",
+   "inicio": 43.643,
+   "fin": 47.531,
+   "palabras": [
+    {
+     "w": "Trayecto",
+     "inicio": 43.643,
+     "fin": 44.23
+    },
+    {
+     "w": "uno:",
+     "inicio": 44.23,
+     "fin": 44.45
+    },
+    {
+     "w": "por",
+     "inicio": 44.45,
+     "fin": 44.67
+    },
+    {
+     "w": "arriba,",
+     "inicio": 44.67,
+     "fin": 45.037
+    },
+    {
+     "w": "G1",
+     "inicio": 45.037,
+     "fin": 45.404
+    },
+    {
+     "w": "G2",
+     "inicio": 45.404,
+     "fin": 45.77
+    },
+    {
+     "w": "G3",
+     "inicio": 45.77,
+     "fin": 46.211
+    },
+    {
+     "w": "G4:",
+     "inicio": 46.211,
+     "fin": 46.798
+    },
+    {
+     "w": "k",
+     "inicio": 46.798,
+     "fin": 46.944
+    },
+    {
+     "w": "entre",
+     "inicio": 46.944,
+     "fin": 47.311
+    },
+    {
+     "w": "ese.",
+     "inicio": 47.311,
+     "fin": 47.531
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 3,
+   "texto": "Trayecto dos: por abajo, G1 G5 G4: uno entre ese.",
+   "dicho": "Trayecto dos: por abajo, G1 G5 G4: uno entre ese.",
+   "camara": "pan con desenfoque",
+   "inicio": 47.831,
+   "fin": 51.544,
+   "palabras": [
+    {
+     "w": "Trayecto",
+     "inicio": 47.831,
+     "fin": 48.425
+    },
+    {
+     "w": "dos:",
+     "inicio": 48.425,
+     "fin": 48.648
+    },
+    {
+     "w": "por",
+     "inicio": 48.648,
+     "fin": 48.871
+    },
+    {
+     "w": "abajo,",
+     "inicio": 48.871,
+     "fin": 49.242
+    },
+    {
+     "w": "G1",
+     "inicio": 49.242,
+     "fin": 49.613
+    },
+    {
+     "w": "G5",
+     "inicio": 49.613,
+     "fin": 50.133
+    },
+    {
+     "w": "G4:",
+     "inicio": 50.133,
+     "fin": 50.727
+    },
+    {
+     "w": "uno",
+     "inicio": 50.727,
+     "fin": 50.95
+    },
+    {
+     "w": "entre",
+     "inicio": 50.95,
+     "fin": 51.321
+    },
+    {
+     "w": "ese.",
+     "inicio": 51.321,
+     "fin": 51.544
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 0,
+   "texto": "Ahora los lazos, cada uno con su signo menos porque la realimentación es negativa.",
+   "dicho": "Ahora los lazos, cada uno con su signo menos porque la realimentación es negativa.",
+   "camara": "viaje largo a la estación 3",
+   "inicio": 52.044,
+   "fin": 56.975,
+   "palabras": [
+    {
+     "w": "Ahora",
+     "inicio": 52.044,
+     "fin": 52.347
+    },
+    {
+     "w": "los",
+     "inicio": 52.347,
+     "fin": 52.575
+    },
+    {
+     "w": "lazos,",
+     "inicio": 52.575,
+     "fin": 52.954
+    },
+    {
+     "w": "cada",
+     "inicio": 53.184,
+     "fin": 53.47
+    },
+    {
+     "w": "uno",
+     "inicio": 53.47,
+     "fin": 53.684
+    },
+    {
+     "w": "con",
+     "inicio": 53.684,
+     "fin": 53.899
+    },
+    {
+     "w": "su",
+     "inicio": 53.899,
+     "fin": 54.042
+    },
+    {
+     "w": "signo",
+     "inicio": 54.042,
+     "fin": 54.4
+    },
+    {
+     "w": "menos",
+     "inicio": 54.4,
+     "fin": 54.757
+    },
+    {
+     "w": "porque",
+     "inicio": 54.757,
+     "fin": 55.115
+    },
+    {
+     "w": "la",
+     "inicio": 55.115,
+     "fin": 55.258
+    },
+    {
+     "w": "realimentación",
+     "inicio": 55.258,
+     "fin": 56.259
+    },
+    {
+     "w": "es",
+     "inicio": 56.259,
+     "fin": 56.402
+    },
+    {
+     "w": "negativa.",
+     "inicio": 56.402,
+     "fin": 56.975
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 1,
+   "texto": "L1, con H1 alrededor de G2: menos k entre ese.",
+   "dicho": "L1, con H1 alrededor de G2: menos k entre ese.",
+   "camara": "push in",
+   "inicio": 57.275,
+   "fin": 60.843,
+   "palabras": [
+    {
+     "w": "L1,",
+     "inicio": 57.275,
+     "fin": 57.73
+    },
+    {
+     "w": "con",
+     "inicio": 57.73,
+     "fin": 57.958
+    },
+    {
+     "w": "H1",
+     "inicio": 57.958,
+     "fin": 58.49
+    },
+    {
+     "w": "alrededor",
+     "inicio": 58.49,
+     "fin": 59.173
+    },
+    {
+     "w": "de",
+     "inicio": 59.173,
+     "fin": 59.325
+    },
+    {
+     "w": "G2:",
+     "inicio": 59.325,
+     "fin": 59.704
+    },
+    {
+     "w": "menos",
+     "inicio": 59.704,
+     "fin": 60.084
+    },
+    {
+     "w": "k",
+     "inicio": 60.084,
+     "fin": 60.236
+    },
+    {
+     "w": "entre",
+     "inicio": 60.236,
+     "fin": 60.616
+    },
+    {
+     "w": "ese.",
+     "inicio": 60.616,
+     "fin": 60.843
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 2,
+   "texto": "L2, el grande por H2 pasando por G2, G3 y G4: menos k entre ese por ese más a.",
+   "dicho": "L2, el grande por H2 pasando por G2, G3 y G4: menos k entre ese por ese más a.",
+   "camara": "deriva lenta",
+   "inicio": 61.143,
+   "fin": 67.475,
+   "palabras": [
+    {
+     "w": "L2,",
+     "inicio": 61.143,
+     "fin": 61.624
+    },
+    {
+     "w": "el",
+     "inicio": 61.624,
+     "fin": 61.785
+    },
+    {
+     "w": "grande",
+     "inicio": 61.785,
+     "fin": 62.266
+    },
+    {
+     "w": "por",
+     "inicio": 62.266,
+     "fin": 62.506
+    },
+    {
+     "w": "H2",
+     "inicio": 62.506,
+     "fin": 63.067
+    },
+    {
+     "w": "pasando",
+     "inicio": 63.067,
+     "fin": 63.628
+    },
+    {
+     "w": "por",
+     "inicio": 63.628,
+     "fin": 63.868
+    },
+    {
+     "w": "G2,",
+     "inicio": 63.868,
+     "fin": 64.269
+    },
+    {
+     "w": "G3",
+     "inicio": 64.269,
+     "fin": 64.75
+    },
+    {
+     "w": "y",
+     "inicio": 64.75,
+     "fin": 64.83
+    },
+    {
+     "w": "G4:",
+     "inicio": 64.83,
+     "fin": 65.471
+    },
+    {
+     "w": "menos",
+     "inicio": 65.471,
+     "fin": 65.872
+    },
+    {
+     "w": "k",
+     "inicio": 65.872,
+     "fin": 66.032
+    },
+    {
+     "w": "entre",
+     "inicio": 66.032,
+     "fin": 66.433
+    },
+    {
+     "w": "ese",
+     "inicio": 66.433,
+     "fin": 66.674
+    },
+    {
+     "w": "por",
+     "inicio": 66.674,
+     "fin": 66.914
+    },
+    {
+     "w": "ese",
+     "inicio": 66.914,
+     "fin": 67.154
+    },
+    {
+     "w": "más",
+     "inicio": 67.154,
+     "fin": 67.395
+    },
+    {
+     "w": "a.",
+     "inicio": 67.395,
+     "fin": 67.475
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 3,
+   "texto": "L3, por H2 pero bajando por G5: menos uno entre ese por ese más a.",
+   "dicho": "L3, por H2 pero bajando por G5: menos uno entre ese por ese más a.",
+   "camara": "deriva lenta",
+   "inicio": 67.775,
+   "fin": 72.807,
+   "palabras": [
+    {
+     "w": "L3,",
+     "inicio": 67.775,
+     "fin": 68.325
+    },
+    {
+     "w": "por",
+     "inicio": 68.325,
+     "fin": 68.561
+    },
+    {
+     "w": "H2",
+     "inicio": 68.561,
+     "fin": 69.112
+    },
+    {
+     "w": "pero",
+     "inicio": 69.112,
+     "fin": 69.426
+    },
+    {
+     "w": "bajando",
+     "inicio": 69.426,
+     "fin": 69.976
+    },
+    {
+     "w": "por",
+     "inicio": 69.976,
+     "fin": 70.212
+    },
+    {
+     "w": "G5:",
+     "inicio": 70.212,
+     "fin": 70.763
+    },
+    {
+     "w": "menos",
+     "inicio": 70.763,
+     "fin": 71.156
+    },
+    {
+     "w": "uno",
+     "inicio": 71.156,
+     "fin": 71.392
+    },
+    {
+     "w": "entre",
+     "inicio": 71.392,
+     "fin": 71.785
+    },
+    {
+     "w": "ese",
+     "inicio": 71.785,
+     "fin": 72.021
+    },
+    {
+     "w": "por",
+     "inicio": 72.021,
+     "fin": 72.257
+    },
+    {
+     "w": "ese",
+     "inicio": 72.257,
+     "fin": 72.492
+    },
+    {
+     "w": "más",
+     "inicio": 72.492,
+     "fin": 72.728
+    },
+    {
+     "w": "a.",
+     "inicio": 72.728,
+     "fin": 72.807
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 4,
+   "texto": "L4, el pequeño de H3 con G5: menos uno entre ese.",
+   "dicho": "L4, el pequeño de H3 con G5: menos uno entre ese.",
+   "camara": "deriva lenta",
+   "inicio": 73.107,
+   "fin": 77.27,
+   "palabras": [
+    {
+     "w": "L4,",
+     "inicio": 73.107,
+     "fin": 73.814
+    },
+    {
+     "w": "el",
+     "inicio": 73.814,
+     "fin": 73.971
+    },
+    {
+     "w": "pequeño",
+     "inicio": 73.971,
+     "fin": 74.442
+    },
+    {
+     "w": "de",
+     "inicio": 74.442,
+     "fin": 74.599
+    },
+    {
+     "w": "H3",
+     "inicio": 74.599,
+     "fin": 75.228
+    },
+    {
+     "w": "con",
+     "inicio": 75.228,
+     "fin": 75.464
+    },
+    {
+     "w": "G5:",
+     "inicio": 75.464,
+     "fin": 76.014
+    },
+    {
+     "w": "menos",
+     "inicio": 76.014,
+     "fin": 76.406
+    },
+    {
+     "w": "uno",
+     "inicio": 76.406,
+     "fin": 76.642
+    },
+    {
+     "w": "entre",
+     "inicio": 76.642,
+     "fin": 77.035
+    },
+    {
+     "w": "ese.",
+     "inicio": 77.035,
+     "fin": 77.27
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 0,
+   "texto": "¿Qué pares no se tocan?",
+   "dicho": "¿Qué pares no se tocan?",
+   "camara": "viaje largo a la estación 4",
+   "inicio": 77.77,
+   "fin": 79.28,
+   "palabras": [
+    {
+     "w": "¿Qué",
+     "inicio": 77.77,
+     "fin": 77.959
+    },
+    {
+     "w": "pares",
+     "inicio": 77.959,
+     "fin": 78.431
+    },
+    {
+     "w": "no",
+     "inicio": 78.431,
+     "fin": 78.619
+    },
+    {
+     "w": "se",
+     "inicio": 78.619,
+     "fin": 78.808
+    },
+    {
+     "w": "tocan?",
+     "inicio": 78.808,
+     "fin": 79.28
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 1,
+   "texto": "L1 y L4: uno vive arriba y otro abajo, sin nodos en común.",
+   "dicho": "L1 y L4: uno vive arriba y otro abajo, sin nodos en común.",
+   "camara": "push in",
+   "inicio": 79.58,
+   "fin": 83.848,
+   "palabras": [
+    {
+     "w": "L1",
+     "inicio": 79.58,
+     "fin": 79.876
+    },
+    {
+     "w": "y",
+     "inicio": 79.876,
+     "fin": 79.925
+    },
+    {
+     "w": "L4:",
+     "inicio": 79.925,
+     "fin": 80.37
+    },
+    {
+     "w": "uno",
+     "inicio": 80.49,
+     "fin": 80.543
+    },
+    {
+     "w": "vive",
+     "inicio": 80.543,
+     "fin": 80.614
+    },
+    {
+     "w": "arriba",
+     "inicio": 80.614,
+     "fin": 80.703
+    },
+    {
+     "w": "y",
+     "inicio": 80.703,
+     "fin": 80.72
+    },
+    {
+     "w": "otro",
+     "inicio": 80.72,
+     "fin": 80.791
+    },
+    {
+     "w": "abajo,",
+     "inicio": 80.791,
+     "fin": 80.88
+    },
+    {
+     "w": "sin",
+     "inicio": 81.17,
+     "fin": 81.705
+    },
+    {
+     "w": "nodos",
+     "inicio": 81.705,
+     "fin": 82.598
+    },
+    {
+     "w": "en",
+     "inicio": 82.598,
+     "fin": 82.955
+    },
+    {
+     "w": "común.",
+     "inicio": 82.955,
+     "fin": 83.848
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 2,
+   "texto": "L2 y L4: el grande no pasa por el lazo de G5.",
+   "dicho": "L2 y L4: el grande no pasa por el lazo de G5.",
+   "camara": "deriva lenta",
+   "inicio": 84.148,
+   "fin": 88.005,
+   "palabras": [
+    {
+     "w": "L2",
+     "inicio": 84.148,
+     "fin": 84.669
+    },
+    {
+     "w": "y",
+     "inicio": 84.669,
+     "fin": 84.756
+    },
+    {
+     "w": "L4:",
+     "inicio": 84.756,
+     "fin": 85.538
+    },
+    {
+     "w": "el",
+     "inicio": 85.728,
+     "fin": 85.87
+    },
+    {
+     "w": "grande",
+     "inicio": 85.87,
+     "fin": 86.297
+    },
+    {
+     "w": "no",
+     "inicio": 86.297,
+     "fin": 86.439
+    },
+    {
+     "w": "pasa",
+     "inicio": 86.439,
+     "fin": 86.724
+    },
+    {
+     "w": "por",
+     "inicio": 86.724,
+     "fin": 86.938
+    },
+    {
+     "w": "el",
+     "inicio": 86.938,
+     "fin": 87.08
+    },
+    {
+     "w": "lazo",
+     "inicio": 87.08,
+     "fin": 87.365
+    },
+    {
+     "w": "de",
+     "inicio": 87.365,
+     "fin": 87.507
+    },
+    {
+     "w": "G5.",
+     "inicio": 87.507,
+     "fin": 88.005
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 3,
+   "texto": "Los demás comparten algún nodo, así que no entran.",
+   "dicho": "Los demás comparten algún nodo, así que no entran.",
+   "camara": "deriva lenta",
+   "inicio": 88.305,
+   "fin": 91.249,
+   "palabras": [
+    {
+     "w": "Los",
+     "inicio": 88.305,
+     "fin": 88.502
+    },
+    {
+     "w": "demás",
+     "inicio": 88.502,
+     "fin": 88.831
+    },
+    {
+     "w": "comparten",
+     "inicio": 88.831,
+     "fin": 89.423
+    },
+    {
+     "w": "algún",
+     "inicio": 89.423,
+     "fin": 89.752
+    },
+    {
+     "w": "nodo,",
+     "inicio": 89.752,
+     "fin": 90.015
+    },
+    {
+     "w": "así",
+     "inicio": 90.175,
+     "fin": 90.423
+    },
+    {
+     "w": "que",
+     "inicio": 90.423,
+     "fin": 90.588
+    },
+    {
+     "w": "no",
+     "inicio": 90.588,
+     "fin": 90.753
+    },
+    {
+     "w": "entran.",
+     "inicio": 90.753,
+     "fin": 91.249
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 4,
+   "texto": "No hay tríos.",
+   "dicho": "No hay tríos.",
+   "camara": "deriva lenta",
+   "inicio": 91.549,
+   "fin": 92.607,
+   "palabras": [
+    {
+     "w": "No",
+     "inicio": 91.549,
+     "fin": 91.784
+    },
+    {
+     "w": "hay",
+     "inicio": 91.784,
+     "fin": 92.019
+    },
+    {
+     "w": "tríos.",
+     "inicio": 92.019,
+     "fin": 92.607
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 5,
+   "texto": "Delta es uno, menos la suma de los cuatro lazos, más L1 por L4, más L2 por L4.",
+   "dicho": "Delta es uno, menos la suma de los cuatro lazos, más L1 por L4, más L2 por L4.",
+   "camara": "push in",
+   "inicio": 92.907,
+   "fin": 98.864,
+   "palabras": [
+    {
+     "w": "Delta",
+     "inicio": 92.907,
+     "fin": 94.187
+    },
+    {
+     "w": "es",
+     "inicio": 94.187,
+     "fin": 94.699
+    },
+    {
+     "w": "uno,",
+     "inicio": 94.699,
+     "fin": 95.467
+    },
+    {
+     "w": "menos",
+     "inicio": 95.747,
+     "fin": 96.238
+    },
+    {
+     "w": "la",
+     "inicio": 96.238,
+     "fin": 96.434
+    },
+    {
+     "w": "suma",
+     "inicio": 96.434,
+     "fin": 96.827
+    },
+    {
+     "w": "de",
+     "inicio": 96.827,
+     "fin": 97.023
+    },
+    {
+     "w": "los",
+     "inicio": 97.023,
+     "fin": 97.317
+    },
+    {
+     "w": "cuatro",
+     "inicio": 97.317,
+     "fin": 97.906
+    },
+    {
+     "w": "lazos,",
+     "inicio": 97.906,
+     "fin": 98.397
+    },
+    {
+     "w": "más",
+     "inicio": 98.507,
+     "fin": 98.524
+    },
+    {
+     "w": "L1",
+     "inicio": 98.524,
+     "fin": 98.558
+    },
+    {
+     "w": "por",
+     "inicio": 98.558,
+     "fin": 98.575
+    },
+    {
+     "w": "L4,",
+     "inicio": 98.575,
+     "fin": 98.627
+    },
+    {
+     "w": "más",
+     "inicio": 98.737,
+     "fin": 98.755
+    },
+    {
+     "w": "L2",
+     "inicio": 98.755,
+     "fin": 98.791
+    },
+    {
+     "w": "por",
+     "inicio": 98.791,
+     "fin": 98.809
+    },
+    {
+     "w": "L4.",
+     "inicio": 98.809,
+     "fin": 98.864
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 0,
+   "texto": "El trayecto uno no toca a L4, así que su cofactor es uno menos L4: uno más uno entre ese.",
+   "dicho": "El trayecto uno no toca a L4, así que su cofactor es uno menos L4: uno más uno entre ese.",
+   "camara": "viaje largo a la estación 5",
+   "inicio": 99.364,
+   "fin": 105.452,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 99.364,
+     "fin": 99.494
+    },
+    {
+     "w": "trayecto",
+     "inicio": 99.494,
+     "fin": 100.016
+    },
+    {
+     "w": "uno",
+     "inicio": 100.016,
+     "fin": 100.211
+    },
+    {
+     "w": "no",
+     "inicio": 100.211,
+     "fin": 100.341
+    },
+    {
+     "w": "toca",
+     "inicio": 100.341,
+     "fin": 100.602
+    },
+    {
+     "w": "a",
+     "inicio": 100.602,
+     "fin": 100.667
+    },
+    {
+     "w": "L4,",
+     "inicio": 100.667,
+     "fin": 101.254
+    },
+    {
+     "w": "así",
+     "inicio": 101.434,
+     "fin": 101.646
+    },
+    {
+     "w": "que",
+     "inicio": 101.646,
+     "fin": 101.788
+    },
+    {
+     "w": "su",
+     "inicio": 101.788,
+     "fin": 101.93
+    },
+    {
+     "w": "cofactor",
+     "inicio": 101.93,
+     "fin": 102.497
+    },
+    {
+     "w": "es",
+     "inicio": 102.497,
+     "fin": 102.639
+    },
+    {
+     "w": "uno",
+     "inicio": 102.639,
+     "fin": 102.851
+    },
+    {
+     "w": "menos",
+     "inicio": 102.851,
+     "fin": 103.206
+    },
+    {
+     "w": "L4:",
+     "inicio": 103.206,
+     "fin": 103.844
+    },
+    {
+     "w": "uno",
+     "inicio": 104.144,
+     "fin": 104.375
+    },
+    {
+     "w": "más",
+     "inicio": 104.375,
+     "fin": 104.606
+    },
+    {
+     "w": "uno",
+     "inicio": 104.606,
+     "fin": 104.837
+    },
+    {
+     "w": "entre",
+     "inicio": 104.837,
+     "fin": 105.221
+    },
+    {
+     "w": "ese.",
+     "inicio": 105.221,
+     "fin": 105.452
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 1,
+   "texto": "El trayecto dos toca a todos: su cofactor es uno.",
+   "dicho": "El trayecto dos toca a todos: su cofactor es uno.",
+   "camara": "deriva lenta",
+   "inicio": 105.752,
+   "fin": 108.653,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 105.752,
+     "fin": 105.905
+    },
+    {
+     "w": "trayecto",
+     "inicio": 105.905,
+     "fin": 106.516
+    },
+    {
+     "w": "dos",
+     "inicio": 106.516,
+     "fin": 106.745
+    },
+    {
+     "w": "toca",
+     "inicio": 106.745,
+     "fin": 107.05
+    },
+    {
+     "w": "a",
+     "inicio": 107.05,
+     "fin": 107.126
+    },
+    {
+     "w": "todos:",
+     "inicio": 107.126,
+     "fin": 107.508
+    },
+    {
+     "w": "su",
+     "inicio": 107.508,
+     "fin": 107.661
+    },
+    {
+     "w": "cofactor",
+     "inicio": 107.661,
+     "fin": 108.271
+    },
+    {
+     "w": "es",
+     "inicio": 108.271,
+     "fin": 108.424
+    },
+    {
+     "w": "uno.",
+     "inicio": 108.424,
+     "fin": 108.653
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 2,
+   "texto": "Multiplica todo por ese al cuadrado por ese más a para quitar fracciones.",
+   "dicho": "Multiplica todo por ese al cuadrado por ese más a para quitar fracciones.",
+   "camara": "push in",
+   "inicio": 108.953,
+   "fin": 113.087,
+   "palabras": [
+    {
+     "w": "Multiplica",
+     "inicio": 108.953,
+     "fin": 109.654
+    },
+    {
+     "w": "todo",
+     "inicio": 109.654,
+     "fin": 109.934
+    },
+    {
+     "w": "por",
+     "inicio": 109.934,
+     "fin": 110.144
+    },
+    {
+     "w": "ese",
+     "inicio": 110.144,
+     "fin": 110.354
+    },
+    {
+     "w": "al",
+     "inicio": 110.354,
+     "fin": 110.494
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 110.494,
+     "fin": 111.055
+    },
+    {
+     "w": "por",
+     "inicio": 111.055,
+     "fin": 111.265
+    },
+    {
+     "w": "ese",
+     "inicio": 111.265,
+     "fin": 111.476
+    },
+    {
+     "w": "más",
+     "inicio": 111.476,
+     "fin": 111.686
+    },
+    {
+     "w": "a",
+     "inicio": 111.686,
+     "fin": 111.756
+    },
+    {
+     "w": "para",
+     "inicio": 111.756,
+     "fin": 112.036
+    },
+    {
+     "w": "quitar",
+     "inicio": 112.036,
+     "fin": 112.387
+    },
+    {
+     "w": "fracciones.",
+     "inicio": 112.387,
+     "fin": 113.087
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 3,
+   "texto": "El numerador queda k ese más k más ese, por ese más a.",
+   "dicho": "El numerador queda k ese más k más ese, por ese más a.",
+   "camara": "deriva lenta",
+   "inicio": 113.387,
+   "fin": 116.576,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 113.387,
+     "fin": 113.543
+    },
+    {
+     "w": "numerador",
+     "inicio": 113.543,
+     "fin": 114.243
+    },
+    {
+     "w": "queda",
+     "inicio": 114.243,
+     "fin": 114.554
+    },
+    {
+     "w": "k",
+     "inicio": 114.554,
+     "fin": 114.709
+    },
+    {
+     "w": "ese",
+     "inicio": 114.709,
+     "fin": 114.943
+    },
+    {
+     "w": "más",
+     "inicio": 114.943,
+     "fin": 115.176
+    },
+    {
+     "w": "k",
+     "inicio": 115.176,
+     "fin": 115.331
+    },
+    {
+     "w": "más",
+     "inicio": 115.331,
+     "fin": 115.565
+    },
+    {
+     "w": "ese,",
+     "inicio": 115.565,
+     "fin": 115.798
+    },
+    {
+     "w": "por",
+     "inicio": 115.798,
+     "fin": 116.031
+    },
+    {
+     "w": "ese",
+     "inicio": 116.031,
+     "fin": 116.265
+    },
+    {
+     "w": "más",
+     "inicio": 116.265,
+     "fin": 116.498
+    },
+    {
+     "w": "a.",
+     "inicio": 116.498,
+     "fin": 116.576
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 4,
+   "texto": "Y el denominador: ese al cubo, más a más k más uno por ese al cuadrado, más a k más dos k más a más uno por ese, más a más uno por k.",
+   "dicho": "Y el denominador: ese al cubo, más a más k más uno por ese al cuadrado, más a k más dos k más a más uno por ese, más a más uno por k.",
+   "camara": "push in",
+   "inicio": 116.876,
+   "fin": 124.631,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 116.876,
+     "fin": 116.954
+    },
+    {
+     "w": "el",
+     "inicio": 116.954,
+     "fin": 117.111
+    },
+    {
+     "w": "denominador:",
+     "inicio": 117.111,
+     "fin": 117.972
+    },
+    {
+     "w": "ese",
+     "inicio": 117.972,
+     "fin": 118.207
+    },
+    {
+     "w": "al",
+     "inicio": 118.207,
+     "fin": 118.364
+    },
+    {
+     "w": "cubo,",
+     "inicio": 118.364,
+     "fin": 118.677
+    },
+    {
+     "w": "más",
+     "inicio": 118.677,
+     "fin": 118.912
+    },
+    {
+     "w": "a",
+     "inicio": 118.912,
+     "fin": 118.991
+    },
+    {
+     "w": "más",
+     "inicio": 118.991,
+     "fin": 119.226
+    },
+    {
+     "w": "k",
+     "inicio": 119.226,
+     "fin": 119.382
+    },
+    {
+     "w": "más",
+     "inicio": 119.382,
+     "fin": 119.617
+    },
+    {
+     "w": "uno",
+     "inicio": 119.617,
+     "fin": 119.852
+    },
+    {
+     "w": "por",
+     "inicio": 119.852,
+     "fin": 120.087
+    },
+    {
+     "w": "ese",
+     "inicio": 120.087,
+     "fin": 120.322
+    },
+    {
+     "w": "al",
+     "inicio": 120.322,
+     "fin": 120.479
+    },
+    {
+     "w": "cuadrado,",
+     "inicio": 120.479,
+     "fin": 121.106
+    },
+    {
+     "w": "más",
+     "inicio": 121.106,
+     "fin": 121.341
+    },
+    {
+     "w": "a",
+     "inicio": 121.341,
+     "fin": 121.419
+    },
+    {
+     "w": "k",
+     "inicio": 121.419,
+     "fin": 121.576
+    },
+    {
+     "w": "más",
+     "inicio": 121.576,
+     "fin": 121.811
+    },
+    {
+     "w": "dos",
+     "inicio": 121.811,
+     "fin": 122.046
+    },
+    {
+     "w": "k",
+     "inicio": 122.046,
+     "fin": 122.202
+    },
+    {
+     "w": "más",
+     "inicio": 122.202,
+     "fin": 122.437
+    },
+    {
+     "w": "a",
+     "inicio": 122.437,
+     "fin": 122.516
+    },
+    {
+     "w": "más",
+     "inicio": 122.516,
+     "fin": 122.751
+    },
+    {
+     "w": "uno",
+     "inicio": 122.751,
+     "fin": 122.986
+    },
+    {
+     "w": "por",
+     "inicio": 122.986,
+     "fin": 123.221
+    },
+    {
+     "w": "ese,",
+     "inicio": 123.221,
+     "fin": 123.456
+    },
+    {
+     "w": "más",
+     "inicio": 123.456,
+     "fin": 123.691
+    },
+    {
+     "w": "a",
+     "inicio": 123.691,
+     "fin": 123.769
+    },
+    {
+     "w": "más",
+     "inicio": 123.769,
+     "fin": 124.004
+    },
+    {
+     "w": "uno",
+     "inicio": 124.004,
+     "fin": 124.239
+    },
+    {
+     "w": "por",
+     "inicio": 124.239,
+     "fin": 124.474
+    },
+    {
+     "w": "k.",
+     "inicio": 124.474,
+     "fin": 124.631
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 0,
+   "texto": "Ese denominador es el que vas a meter a Routh, así que verifícalo.",
+   "dicho": "Ese denominador es el que vas a meter a Ráuz, así que verifícalo.",
+   "camara": "push in con golpe",
+   "inicio": 125.131,
+   "fin": 128.831,
+   "palabras": [
+    {
+     "w": "Ese",
+     "inicio": 125.131,
+     "fin": 125.351
+    },
+    {
+     "w": "denominador",
+     "inicio": 125.351,
+     "fin": 126.16
+    },
+    {
+     "w": "es",
+     "inicio": 126.16,
+     "fin": 126.307
+    },
+    {
+     "w": "el",
+     "inicio": 126.307,
+     "fin": 126.454
+    },
+    {
+     "w": "que",
+     "inicio": 126.454,
+     "fin": 126.601
+    },
+    {
+     "w": "vas",
+     "inicio": 126.601,
+     "fin": 126.822
+    },
+    {
+     "w": "a",
+     "inicio": 126.822,
+     "fin": 126.896
+    },
+    {
+     "w": "meter",
+     "inicio": 126.896,
+     "fin": 127.263
+    },
+    {
+     "w": "a",
+     "inicio": 127.263,
+     "fin": 127.337
+    },
+    {
+     "w": "Routh,",
+     "inicio": 127.337,
+     "fin": 127.631
+    },
+    {
+     "w": "así",
+     "inicio": 127.751,
+     "fin": 127.967
+    },
+    {
+     "w": "que",
+     "inicio": 127.967,
+     "fin": 128.111
+    },
+    {
+     "w": "verifícalo.",
+     "inicio": 128.111,
+     "fin": 128.831
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 1,
+   "texto": "Truco para comprobar: haz k igual a cero.",
+   "dicho": "Truco para comprobar: haz k igual a cero.",
+   "camara": "deriva lenta",
+   "inicio": 129.131,
+   "fin": 131.519,
+   "palabras": [
+    {
+     "w": "Truco",
+     "inicio": 129.131,
+     "fin": 129.431
+    },
+    {
+     "w": "para",
+     "inicio": 129.431,
+     "fin": 129.671
+    },
+    {
+     "w": "comprobar:",
+     "inicio": 129.671,
+     "fin": 130.211
+    },
+    {
+     "w": "haz",
+     "inicio": 130.321,
+     "fin": 130.492
+    },
+    {
+     "w": "k",
+     "inicio": 130.492,
+     "fin": 130.664
+    },
+    {
+     "w": "igual",
+     "inicio": 130.664,
+     "fin": 131.091
+    },
+    {
+     "w": "a",
+     "inicio": 131.091,
+     "fin": 131.177
+    },
+    {
+     "w": "cero.",
+     "inicio": 131.177,
+     "fin": 131.519
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 2,
+   "texto": "Solo sobrevive la rama de abajo, y reducida a mano da ese más a, entre ese al cuadrado más a más uno por ese, más a más uno.",
+   "dicho": "Solo sobrevive la rama de abajo, y reducida a mano da ese más a, entre ese al cuadrado más a más uno por ese, más a más uno.",
+   "camara": "pan con desenfoque",
+   "inicio": 131.819,
+   "fin": 138.945,
+   "palabras": [
+    {
+     "w": "Solo",
+     "inicio": 131.819,
+     "fin": 132.073
+    },
+    {
+     "w": "sobrevive",
+     "inicio": 132.073,
+     "fin": 132.644
+    },
+    {
+     "w": "la",
+     "inicio": 132.644,
+     "fin": 132.771
+    },
+    {
+     "w": "rama",
+     "inicio": 132.771,
+     "fin": 133.025
+    },
+    {
+     "w": "de",
+     "inicio": 133.025,
+     "fin": 133.152
+    },
+    {
+     "w": "abajo,",
+     "inicio": 133.152,
+     "fin": 133.469
+    },
+    {
+     "w": "y",
+     "inicio": 133.719,
+     "fin": 133.797
+    },
+    {
+     "w": "reducida",
+     "inicio": 133.797,
+     "fin": 134.42
+    },
+    {
+     "w": "a",
+     "inicio": 134.42,
+     "fin": 134.498
+    },
+    {
+     "w": "mano",
+     "inicio": 134.498,
+     "fin": 134.809
+    },
+    {
+     "w": "da",
+     "inicio": 134.809,
+     "fin": 134.965
+    },
+    {
+     "w": "ese",
+     "inicio": 134.965,
+     "fin": 135.198
+    },
+    {
+     "w": "más",
+     "inicio": 135.198,
+     "fin": 135.431
+    },
+    {
+     "w": "a,",
+     "inicio": 135.431,
+     "fin": 135.509
+    },
+    {
+     "w": "entre",
+     "inicio": 135.749,
+     "fin": 136.07
+    },
+    {
+     "w": "ese",
+     "inicio": 136.07,
+     "fin": 136.262
+    },
+    {
+     "w": "al",
+     "inicio": 136.262,
+     "fin": 136.39
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 136.39,
+     "fin": 136.903
+    },
+    {
+     "w": "más",
+     "inicio": 136.903,
+     "fin": 137.096
+    },
+    {
+     "w": "a",
+     "inicio": 137.096,
+     "fin": 137.16
+    },
+    {
+     "w": "más",
+     "inicio": 137.16,
+     "fin": 137.352
+    },
+    {
+     "w": "uno",
+     "inicio": 137.352,
+     "fin": 137.545
+    },
+    {
+     "w": "por",
+     "inicio": 137.545,
+     "fin": 137.737
+    },
+    {
+     "w": "ese,",
+     "inicio": 137.737,
+     "fin": 137.929
+    },
+    {
+     "w": "más",
+     "inicio": 138.149,
+     "fin": 138.388
+    },
+    {
+     "w": "a",
+     "inicio": 138.388,
+     "fin": 138.467
+    },
+    {
+     "w": "más",
+     "inicio": 138.467,
+     "fin": 138.706
+    },
+    {
+     "w": "uno.",
+     "inicio": 138.706,
+     "fin": 138.945
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 3,
+   "texto": "Tu fórmula de Mason con k igual a cero debe dar lo mismo, y da lo mismo.",
+   "dicho": "Tu fórmula de Méison con k igual a cero debe dar lo mismo, y da lo mismo.",
+   "camara": "push in",
+   "inicio": 139.245,
+   "fin": 143.399,
+   "palabras": [
+    {
+     "w": "Tu",
+     "inicio": 139.245,
+     "fin": 139.381
+    },
+    {
+     "w": "fórmula",
+     "inicio": 139.381,
+     "fin": 139.861
+    },
+    {
+     "w": "de",
+     "inicio": 139.861,
+     "fin": 139.998
+    },
+    {
+     "w": "Mason",
+     "inicio": 139.998,
+     "fin": 140.409
+    },
+    {
+     "w": "con",
+     "inicio": 140.409,
+     "fin": 140.614
+    },
+    {
+     "w": "k",
+     "inicio": 140.614,
+     "fin": 140.751
+    },
+    {
+     "w": "igual",
+     "inicio": 140.751,
+     "fin": 141.093
+    },
+    {
+     "w": "a",
+     "inicio": 141.093,
+     "fin": 141.162
+    },
+    {
+     "w": "cero",
+     "inicio": 141.162,
+     "fin": 141.436
+    },
+    {
+     "w": "debe",
+     "inicio": 141.436,
+     "fin": 141.71
+    },
+    {
+     "w": "dar",
+     "inicio": 141.71,
+     "fin": 141.915
+    },
+    {
+     "w": "lo",
+     "inicio": 141.915,
+     "fin": 142.052
+    },
+    {
+     "w": "mismo,",
+     "inicio": 142.052,
+     "fin": 142.395
+    },
+    {
+     "w": "y",
+     "inicio": 142.615,
+     "fin": 142.693
+    },
+    {
+     "w": "da",
+     "inicio": 142.693,
+     "fin": 142.85
+    },
+    {
+     "w": "lo",
+     "inicio": 142.85,
+     "fin": 143.007
+    },
+    {
+     "w": "mismo.",
+     "inicio": 143.007,
+     "fin": 143.399
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 4,
+   "texto": "El error que más puntos quitó: multiplicar lazos que sí se tocan.",
+   "dicho": "El error que más puntos quitó: multiplicar lazos que sí se tocan.",
+   "camara": "push out",
+   "inicio": 143.699,
+   "fin": 147.538,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 143.699,
+     "fin": 143.853
+    },
+    {
+     "w": "error",
+     "inicio": 143.853,
+     "fin": 144.159
+    },
+    {
+     "w": "que",
+     "inicio": 144.159,
+     "fin": 144.313
+    },
+    {
+     "w": "más",
+     "inicio": 144.313,
+     "fin": 144.543
+    },
+    {
+     "w": "puntos",
+     "inicio": 144.543,
+     "fin": 145.003
+    },
+    {
+     "w": "quitó:",
+     "inicio": 145.003,
+     "fin": 145.309
+    },
+    {
+     "w": "multiplicar",
+     "inicio": 145.529,
+     "fin": 146.348
+    },
+    {
+     "w": "lazos",
+     "inicio": 146.348,
+     "fin": 146.72
+    },
+    {
+     "w": "que",
+     "inicio": 146.72,
+     "fin": 146.869
+    },
+    {
+     "w": "sí",
+     "inicio": 146.869,
+     "fin": 147.017
+    },
+    {
+     "w": "se",
+     "inicio": 147.017,
+     "fin": 147.166
+    },
+    {
+     "w": "tocan.",
+     "inicio": 147.166,
+     "fin": 147.538
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 0,
+   "texto": "Marca cada lazo con un color y busca los pares sin nodos en común.",
+   "dicho": "Marca cada lazo con un color y busca los pares sin nodos en común.",
+   "camara": "push out a plano general",
+   "inicio": 148.038,
+   "fin": 151.762,
+   "palabras": [
+    {
+     "w": "Marca",
+     "inicio": 148.038,
+     "fin": 148.396
+    },
+    {
+     "w": "cada",
+     "inicio": 148.396,
+     "fin": 148.683
+    },
+    {
+     "w": "lazo",
+     "inicio": 148.683,
+     "fin": 148.969
+    },
+    {
+     "w": "con",
+     "inicio": 148.969,
+     "fin": 149.184
+    },
+    {
+     "w": "un",
+     "inicio": 149.184,
+     "fin": 149.327
+    },
+    {
+     "w": "color",
+     "inicio": 149.327,
+     "fin": 149.685
+    },
+    {
+     "w": "y",
+     "inicio": 149.685,
+     "fin": 149.757
+    },
+    {
+     "w": "busca",
+     "inicio": 149.757,
+     "fin": 150.115
+    },
+    {
+     "w": "los",
+     "inicio": 150.115,
+     "fin": 150.33
+    },
+    {
+     "w": "pares",
+     "inicio": 150.33,
+     "fin": 150.688
+    },
+    {
+     "w": "sin",
+     "inicio": 150.688,
+     "fin": 150.903
+    },
+    {
+     "w": "nodos",
+     "inicio": 150.903,
+     "fin": 151.261
+    },
+    {
+     "w": "en",
+     "inicio": 151.261,
+     "fin": 151.404
+    },
+    {
+     "w": "común.",
+     "inicio": 151.404,
+     "fin": 151.762
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 1,
+   "texto": "En el siguiente vídeo: la tabla de Routh.",
+   "dicho": "En el siguiente vídeo: la tabla de Ráuz.",
+   "camara": "push in a la tarjeta",
+   "inicio": 152.062,
+   "fin": 154.308,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 152.062,
+     "fin": 152.212
+    },
+    {
+     "w": "el",
+     "inicio": 152.212,
+     "fin": 152.362
+    },
+    {
+     "w": "siguiente",
+     "inicio": 152.362,
+     "fin": 152.96
+    },
+    {
+     "w": "vídeo:",
+     "inicio": 152.96,
+     "fin": 153.335
+    },
+    {
+     "w": "la",
+     "inicio": 153.335,
+     "fin": 153.484
+    },
+    {
+     "w": "tabla",
+     "inicio": 153.484,
+     "fin": 153.859
+    },
+    {
+     "w": "de",
+     "inicio": 153.859,
+     "fin": 154.008
+    },
+    {
+     "w": "Routh.",
+     "inicio": 154.008,
+     "fin": 154.308
+    }
+   ]
+  }
+ ]
+}

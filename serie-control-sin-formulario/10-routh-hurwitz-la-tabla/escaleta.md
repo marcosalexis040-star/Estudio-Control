@@ -54,7 +54,7 @@ Cada elemento sale de su cruz, sin excepción. || Rótulo verde «1 celda = 1 cr
 
 ## Cierre · #06d6a0
 Arma la tabla de ese a la cuarta más tres ese al cubo más ese al cuadrado más ocho ese más ocho sin mirar y busca los dos cambios. || Plano general de las seis estaciones. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: los casos especiales de Routh y el rango de k. || Tarjeta final «Siguiente · 11» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

@@ -8,8 +8,8 @@
 | publico | estudiantes de Ingeniería de Control que presentan el integrador sin formulario |
 | tema | serie, paralelo, lazo G/(1+GH), mover sumadores y nodos, método de ecuaciones por sumador; ExR II (kp, kd, kf); pregunta conceptual del ExR 3b |
 | Frases | 35 |
-| Palabras | 442 |
-| Duración estimada | ~2:50 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
+| Palabras | 446 |
+| Duración estimada | ~2:51 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
 
 Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bien y rojo = mal, Inter en negrita a 46 px o más, iconos de Phosphor. Un solo mundo 2D: cada bloque es una estación unida por un camino que se dibuja mientras viaja la cámara. El perrito es la foto recortada `assets/perrito-recorte.png`; nunca tapa texto.
 
@@ -86,7 +86,7 @@ Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bie
 | # | Frase (voz) | Qué se ve | Cámara | Medio |
 |---:|---|---|---|---|
 | 34 | Reduce el mismo diagrama dos veces, por reglas y por ecuaciones, y compara. | Plano general de las cinco estaciones. | push out a plano general | SVG |
-| 35 | Sígueme para más trucos de control. | Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». | push in a la tarjeta | perrito-avatar.png |
+| 35 | En el siguiente vídeo: Mason con el problema del integrador. | Tarjeta final «Siguiente · 09» con el título del próximo vídeo y el mapa de la serie. | push in a la tarjeta | SVG |
 
 ## Fuentes y comprobación
 

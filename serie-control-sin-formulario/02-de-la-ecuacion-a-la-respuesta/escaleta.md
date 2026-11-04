@@ -56,7 +56,7 @@ Esa frase te ahorra la mitad del examen. || El perrito celebra con bocadillo `st
 
 ## Cierre · #06d6a0
 Practica tapar con tres polos distintos hasta hacerlo de memoria. || Plano general: las cinco estaciones con sus casillas ✓ unidas por el camino. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; el cursor pulsa «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: sistemas de primer orden. || Tarjeta final «Siguiente · 03» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

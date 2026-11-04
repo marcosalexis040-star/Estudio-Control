@@ -31,4 +31,4 @@ Y en hardware, cada integrador es un amplificador operacional con R a la entrada
 Su función es menos uno entre R C ese: el signo menos se corrige con un inversor de ganancia menos uno.
 Resumen: los estados son las salidas de los integradores, A es el diagrama, y el determinante te da los polos.
 Practica la inversa de dos por dos con tres matrices distintas hasta que salga sola.
-Sígueme para más trucos de control.
+En el siguiente vídeo: retroalimentación de estados.

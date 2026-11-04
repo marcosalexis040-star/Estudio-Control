@@ -8,8 +8,8 @@
 | publico | estudiantes de Ingeniería de Control (Tec, Gpo. 502) que presentan el integrador sin formulario |
 | tema | transformada de Laplace, tabla mínima, propiedades, valor final e inicial, polo ↔ señal |
 | Frases | 39 |
-| Palabras | 456 |
-| Duración estimada | ~2:56 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
+| Palabras | 461 |
+| Duración estimada | ~2:58 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
 
 Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bien y rojo = mal, Inter en negrita a 46 px o más, iconos de Phosphor. Un solo mundo 2D: cada bloque es una estación unida por un camino que se dibuja mientras viaja la cámara. El perrito es la foto recortada `assets/perrito-recorte.png`; nunca tapa texto.
 
@@ -95,7 +95,7 @@ Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bie
 | # | Frase (voz) | Qué se ve | Cámara | Medio |
 |---:|---|---|---|---|
 | 38 | Repite el par madre y los cuatro trucos hasta poder escribir la tabla completa en un minuto. | Push out a plano general: las seis estaciones unidas por el camino; reloj de 60 s que corre. | push out a plano general | SVG · Phosphor `timer` |
-| 39 | Sígueme para más trucos de control. | Tarjeta de perfil con perrito-avatar.png y @perritoCAD; el cursor pulsa «Seguir» y cambia a «Siguiendo». | push in a la tarjeta | perrito-avatar.png |
+| 39 | En el siguiente vídeo: de la ecuación diferencial a la respuesta. | Tarjeta final «Siguiente · 02» con el título del próximo vídeo y el mapa de la serie. | push in a la tarjeta | SVG |
 
 ## Fuentes y comprobación
 

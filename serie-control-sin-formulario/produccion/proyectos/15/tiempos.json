@@ -1,0 +1,2254 @@
+{
+ "video": "15-los-10-errores-del-integrador",
+ "voz": "em_alex",
+ "duracion": 135.899,
+ "bloques": [
+  {
+   "nombre": "Gancho",
+   "color": "#ff5a5f"
+  },
+  {
+   "nombre": "Errores 1 a 3",
+   "color": "#4da3ff"
+  },
+  {
+   "nombre": "Errores 4 y 5",
+   "color": "#ffd166"
+  },
+  {
+   "nombre": "Errores 6 a 8",
+   "color": "#c77dff"
+  },
+  {
+   "nombre": "Errores 9 y 10",
+   "color": "#ff9f1c"
+  },
+  {
+   "nombre": "La estrategia de 100 minutos",
+   "color": "#06d6a0"
+  },
+  {
+   "nombre": "Clímax",
+   "color": "la frase que une el curso · #ff5a5f"
+  },
+  {
+   "nombre": "Cierre",
+   "color": "#06d6a0"
+  }
+ ],
+ "frases": [
+  {
+   "bloque": 0,
+   "frase": 0,
+   "texto": "Llevas semanas estudiando y vas a perder puntos por errores que no son de teoría.",
+   "dicho": "Llevas semanas estudiando y vas a perder puntos por errores que no son de teoría.",
+   "camara": "push in rápido",
+   "inicio": 0.35,
+   "fin": 5.013,
+   "palabras": [
+    {
+     "w": "Llevas",
+     "inicio": 0.35,
+     "fin": 0.72
+    },
+    {
+     "w": "semanas",
+     "inicio": 0.72,
+     "fin": 1.238
+    },
+    {
+     "w": "estudiando",
+     "inicio": 1.238,
+     "fin": 1.978
+    },
+    {
+     "w": "y",
+     "inicio": 1.978,
+     "fin": 2.052
+    },
+    {
+     "w": "vas",
+     "inicio": 2.052,
+     "fin": 2.274
+    },
+    {
+     "w": "a",
+     "inicio": 2.274,
+     "fin": 2.348
+    },
+    {
+     "w": "perder",
+     "inicio": 2.348,
+     "fin": 2.793
+    },
+    {
+     "w": "puntos",
+     "inicio": 2.793,
+     "fin": 3.237
+    },
+    {
+     "w": "por",
+     "inicio": 3.237,
+     "fin": 3.459
+    },
+    {
+     "w": "errores",
+     "inicio": 3.459,
+     "fin": 3.903
+    },
+    {
+     "w": "que",
+     "inicio": 3.903,
+     "fin": 4.051
+    },
+    {
+     "w": "no",
+     "inicio": 4.051,
+     "fin": 4.199
+    },
+    {
+     "w": "son",
+     "inicio": 4.199,
+     "fin": 4.421
+    },
+    {
+     "w": "de",
+     "inicio": 4.421,
+     "fin": 4.569
+    },
+    {
+     "w": "teoría.",
+     "inicio": 4.569,
+     "fin": 5.013
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 1,
+   "texto": "En el integrador, una respuesta sin procedimiento vale cero aunque esté bien.",
+   "dicho": "En el integrador, una respuesta sin procedimiento vale cero aunque esté bien.",
+   "camara": "deriva lenta",
+   "inicio": 5.313,
+   "fin": 9.581,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 5.313,
+     "fin": 5.426
+    },
+    {
+     "w": "el",
+     "inicio": 5.426,
+     "fin": 5.539
+    },
+    {
+     "w": "integrador,",
+     "inicio": 5.539,
+     "fin": 6.103
+    },
+    {
+     "w": "una",
+     "inicio": 6.313,
+     "fin": 6.513
+    },
+    {
+     "w": "respuesta",
+     "inicio": 6.513,
+     "fin": 7.113
+    },
+    {
+     "w": "sin",
+     "inicio": 7.113,
+     "fin": 7.313
+    },
+    {
+     "w": "procedimiento",
+     "inicio": 7.313,
+     "fin": 8.18
+    },
+    {
+     "w": "vale",
+     "inicio": 8.18,
+     "fin": 8.447
+    },
+    {
+     "w": "cero",
+     "inicio": 8.447,
+     "fin": 8.714
+    },
+    {
+     "w": "aunque",
+     "inicio": 8.714,
+     "fin": 9.047
+    },
+    {
+     "w": "esté",
+     "inicio": 9.047,
+     "fin": 9.314
+    },
+    {
+     "w": "bien.",
+     "inicio": 9.314,
+     "fin": 9.581
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 2,
+   "texto": "Estos son los diez errores que más puntos quitan, y cómo arreglarlos.",
+   "dicho": "Estos son los diez errores que más puntos quitan, y cómo arreglarlos.",
+   "camara": "push out",
+   "inicio": 9.881,
+   "fin": 13.543,
+   "palabras": [
+    {
+     "w": "Estos",
+     "inicio": 9.881,
+     "fin": 10.217
+    },
+    {
+     "w": "son",
+     "inicio": 10.217,
+     "fin": 10.419
+    },
+    {
+     "w": "los",
+     "inicio": 10.419,
+     "fin": 10.621
+    },
+    {
+     "w": "diez",
+     "inicio": 10.621,
+     "fin": 10.89
+    },
+    {
+     "w": "errores",
+     "inicio": 10.89,
+     "fin": 11.294
+    },
+    {
+     "w": "que",
+     "inicio": 11.294,
+     "fin": 11.428
+    },
+    {
+     "w": "más",
+     "inicio": 11.428,
+     "fin": 11.63
+    },
+    {
+     "w": "puntos",
+     "inicio": 11.63,
+     "fin": 12.034
+    },
+    {
+     "w": "quitan,",
+     "inicio": 12.034,
+     "fin": 12.371
+    },
+    {
+     "w": "y",
+     "inicio": 12.501,
+     "fin": 12.57
+    },
+    {
+     "w": "cómo",
+     "inicio": 12.57,
+     "fin": 12.848
+    },
+    {
+     "w": "arreglarlos.",
+     "inicio": 12.848,
+     "fin": 13.543
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 0,
+   "texto": "Error uno: dar el resultado sin justificar.",
+   "dicho": "Error uno: dar el resultado sin justificar.",
+   "camara": "viaje largo a la estación 1",
+   "inicio": 14.043,
+   "fin": 16.586,
+   "palabras": [
+    {
+     "w": "Error",
+     "inicio": 14.043,
+     "fin": 14.342
+    },
+    {
+     "w": "uno:",
+     "inicio": 14.342,
+     "fin": 14.567
+    },
+    {
+     "w": "dar",
+     "inicio": 14.567,
+     "fin": 14.791
+    },
+    {
+     "w": "el",
+     "inicio": 14.791,
+     "fin": 14.941
+    },
+    {
+     "w": "resultado",
+     "inicio": 14.941,
+     "fin": 15.614
+    },
+    {
+     "w": "sin",
+     "inicio": 15.614,
+     "fin": 15.838
+    },
+    {
+     "w": "justificar.",
+     "inicio": 15.838,
+     "fin": 16.586
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 1,
+   "texto": "Arreglo: escribe siempre qué fórmula usas y por qué aplica.",
+   "dicho": "Arreglo: escribe siempre qué fórmula usas y por qué aplica.",
+   "camara": "push in",
+   "inicio": 16.886,
+   "fin": 20.225,
+   "palabras": [
+    {
+     "w": "Arreglo:",
+     "inicio": 16.886,
+     "fin": 17.332
+    },
+    {
+     "w": "escribe",
+     "inicio": 17.332,
+     "fin": 17.851
+    },
+    {
+     "w": "siempre",
+     "inicio": 17.851,
+     "fin": 18.37
+    },
+    {
+     "w": "qué",
+     "inicio": 18.37,
+     "fin": 18.519
+    },
+    {
+     "w": "fórmula",
+     "inicio": 18.519,
+     "fin": 19.038
+    },
+    {
+     "w": "usas",
+     "inicio": 19.038,
+     "fin": 19.335
+    },
+    {
+     "w": "y",
+     "inicio": 19.335,
+     "fin": 19.409
+    },
+    {
+     "w": "por",
+     "inicio": 19.409,
+     "fin": 19.632
+    },
+    {
+     "w": "qué",
+     "inicio": 19.632,
+     "fin": 19.78
+    },
+    {
+     "w": "aplica.",
+     "inicio": 19.78,
+     "fin": 20.225
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 2,
+   "texto": "Error dos: leer K y tau sin normalizar el denominador.",
+   "dicho": "Error dos: leer K y tau sin normalizar el denominador.",
+   "camara": "deriva lenta",
+   "inicio": 20.525,
+   "fin": 23.689,
+   "palabras": [
+    {
+     "w": "Error",
+     "inicio": 20.525,
+     "fin": 20.819
+    },
+    {
+     "w": "dos:",
+     "inicio": 20.819,
+     "fin": 21.04
+    },
+    {
+     "w": "leer",
+     "inicio": 21.04,
+     "fin": 21.334
+    },
+    {
+     "w": "K",
+     "inicio": 21.334,
+     "fin": 21.482
+    },
+    {
+     "w": "y",
+     "inicio": 21.482,
+     "fin": 21.555
+    },
+    {
+     "w": "tau",
+     "inicio": 21.555,
+     "fin": 21.776
+    },
+    {
+     "w": "sin",
+     "inicio": 21.776,
+     "fin": 21.997
+    },
+    {
+     "w": "normalizar",
+     "inicio": 21.997,
+     "fin": 22.732
+    },
+    {
+     "w": "el",
+     "inicio": 22.732,
+     "fin": 22.879
+    },
+    {
+     "w": "denominador.",
+     "inicio": 22.879,
+     "fin": 23.689
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 3,
+   "texto": "Arreglo: haz que el término constante valga uno antes de comparar.",
+   "dicho": "Arreglo: haz que el término constante valga uno antes de comparar.",
+   "camara": "deriva lenta",
+   "inicio": 23.989,
+   "fin": 27.553,
+   "palabras": [
+    {
+     "w": "Arreglo:",
+     "inicio": 23.989,
+     "fin": 24.408
+    },
+    {
+     "w": "haz",
+     "inicio": 24.408,
+     "fin": 24.548
+    },
+    {
+     "w": "que",
+     "inicio": 24.548,
+     "fin": 24.687
+    },
+    {
+     "w": "el",
+     "inicio": 24.687,
+     "fin": 24.827
+    },
+    {
+     "w": "término",
+     "inicio": 24.827,
+     "fin": 25.316
+    },
+    {
+     "w": "constante",
+     "inicio": 25.316,
+     "fin": 25.945
+    },
+    {
+     "w": "valga",
+     "inicio": 25.945,
+     "fin": 26.295
+    },
+    {
+     "w": "uno",
+     "inicio": 26.295,
+     "fin": 26.504
+    },
+    {
+     "w": "antes",
+     "inicio": 26.504,
+     "fin": 26.854
+    },
+    {
+     "w": "de",
+     "inicio": 26.854,
+     "fin": 26.993
+    },
+    {
+     "w": "comparar.",
+     "inicio": 26.993,
+     "fin": 27.553
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 4,
+   "texto": "Error tres: calcular el tiempo pico con omega ene.",
+   "dicho": "Error tres: calcular el tiempo pico con omega ene.",
+   "camara": "pan con desenfoque",
+   "inicio": 27.853,
+   "fin": 30.738,
+   "palabras": [
+    {
+     "w": "Error",
+     "inicio": 27.853,
+     "fin": 28.148
+    },
+    {
+     "w": "tres:",
+     "inicio": 28.148,
+     "fin": 28.444
+    },
+    {
+     "w": "calcular",
+     "inicio": 28.444,
+     "fin": 29.036
+    },
+    {
+     "w": "el",
+     "inicio": 29.036,
+     "fin": 29.184
+    },
+    {
+     "w": "tiempo",
+     "inicio": 29.184,
+     "fin": 29.628
+    },
+    {
+     "w": "pico",
+     "inicio": 29.628,
+     "fin": 29.924
+    },
+    {
+     "w": "con",
+     "inicio": 29.924,
+     "fin": 30.146
+    },
+    {
+     "w": "omega",
+     "inicio": 30.146,
+     "fin": 30.516
+    },
+    {
+     "w": "ene.",
+     "inicio": 30.516,
+     "fin": 30.738
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 5,
+   "texto": "Arreglo: el tiempo pico usa la parte imaginaria, omega de.",
+   "dicho": "Arreglo: el tiempo pico usa la parte imaginaria, omega de.",
+   "camara": "push in",
+   "inicio": 31.038,
+   "fin": 34.544,
+   "palabras": [
+    {
+     "w": "Arreglo:",
+     "inicio": 31.038,
+     "fin": 31.505
+    },
+    {
+     "w": "el",
+     "inicio": 31.505,
+     "fin": 31.661
+    },
+    {
+     "w": "tiempo",
+     "inicio": 31.661,
+     "fin": 32.129
+    },
+    {
+     "w": "pico",
+     "inicio": 32.129,
+     "fin": 32.44
+    },
+    {
+     "w": "usa",
+     "inicio": 32.44,
+     "fin": 32.674
+    },
+    {
+     "w": "la",
+     "inicio": 32.674,
+     "fin": 32.83
+    },
+    {
+     "w": "parte",
+     "inicio": 32.83,
+     "fin": 33.219
+    },
+    {
+     "w": "imaginaria,",
+     "inicio": 33.219,
+     "fin": 33.999
+    },
+    {
+     "w": "omega",
+     "inicio": 33.999,
+     "fin": 34.388
+    },
+    {
+     "w": "de.",
+     "inicio": 34.388,
+     "fin": 34.544
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 0,
+   "texto": "Error cuatro: medir beta desde el eje imaginario.",
+   "dicho": "Error cuatro: medir beta desde el eje imaginario.",
+   "camara": "viaje largo a la estación 2",
+   "inicio": 35.044,
+   "fin": 37.906,
+   "palabras": [
+    {
+     "w": "Error",
+     "inicio": 35.044,
+     "fin": 35.338
+    },
+    {
+     "w": "cuatro:",
+     "inicio": 35.338,
+     "fin": 35.778
+    },
+    {
+     "w": "medir",
+     "inicio": 35.778,
+     "fin": 36.145
+    },
+    {
+     "w": "beta",
+     "inicio": 36.145,
+     "fin": 36.438
+    },
+    {
+     "w": "desde",
+     "inicio": 36.438,
+     "fin": 36.805
+    },
+    {
+     "w": "el",
+     "inicio": 36.805,
+     "fin": 36.952
+    },
+    {
+     "w": "eje",
+     "inicio": 36.952,
+     "fin": 37.172
+    },
+    {
+     "w": "imaginario.",
+     "inicio": 37.172,
+     "fin": 37.906
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 1,
+   "texto": "Arreglo: beta se mide desde el eje real negativo y su coseno es zeta.",
+   "dicho": "Arreglo: beta se mide desde el eje real negativo y su coseno es zeta.",
+   "camara": "push in",
+   "inicio": 38.206,
+   "fin": 42.338,
+   "palabras": [
+    {
+     "w": "Arreglo:",
+     "inicio": 38.206,
+     "fin": 40.986
+    },
+    {
+     "w": "beta",
+     "inicio": 41.166,
+     "fin": 41.266
+    },
+    {
+     "w": "se",
+     "inicio": 41.266,
+     "fin": 41.316
+    },
+    {
+     "w": "mide",
+     "inicio": 41.316,
+     "fin": 41.416
+    },
+    {
+     "w": "desde",
+     "inicio": 41.416,
+     "fin": 41.54
+    },
+    {
+     "w": "el",
+     "inicio": 41.54,
+     "fin": 41.59
+    },
+    {
+     "w": "eje",
+     "inicio": 41.59,
+     "fin": 41.665
+    },
+    {
+     "w": "real",
+     "inicio": 41.665,
+     "fin": 41.765
+    },
+    {
+     "w": "negativo",
+     "inicio": 41.765,
+     "fin": 41.964
+    },
+    {
+     "w": "y",
+     "inicio": 41.964,
+     "fin": 41.989
+    },
+    {
+     "w": "su",
+     "inicio": 41.989,
+     "fin": 42.039
+    },
+    {
+     "w": "coseno",
+     "inicio": 42.039,
+     "fin": 42.189
+    },
+    {
+     "w": "es",
+     "inicio": 42.189,
+     "fin": 42.239
+    },
+    {
+     "w": "zeta.",
+     "inicio": 42.239,
+     "fin": 42.338
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 2,
+   "texto": "Error cinco: decir más rápido sin decir con qué tiempo.",
+   "dicho": "Error cinco: decir más rápido sin decir con qué tiempo.",
+   "camara": "deriva lenta",
+   "inicio": 42.638,
+   "fin": 45.921,
+   "palabras": [
+    {
+     "w": "Error",
+     "inicio": 42.638,
+     "fin": 42.967
+    },
+    {
+     "w": "cinco:",
+     "inicio": 42.967,
+     "fin": 43.378
+    },
+    {
+     "w": "decir",
+     "inicio": 43.508,
+     "fin": 43.874
+    },
+    {
+     "w": "más",
+     "inicio": 43.874,
+     "fin": 44.093
+    },
+    {
+     "w": "rápido",
+     "inicio": 44.093,
+     "fin": 44.532
+    },
+    {
+     "w": "sin",
+     "inicio": 44.532,
+     "fin": 44.751
+    },
+    {
+     "w": "decir",
+     "inicio": 44.751,
+     "fin": 45.117
+    },
+    {
+     "w": "con",
+     "inicio": 45.117,
+     "fin": 45.336
+    },
+    {
+     "w": "qué",
+     "inicio": 45.336,
+     "fin": 45.482
+    },
+    {
+     "w": "tiempo.",
+     "inicio": 45.482,
+     "fin": 45.921
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 3,
+   "texto": "Arreglo: nombra el reloj; normalmente, el de establecimiento, cuatro entre sigma.",
+   "dicho": "Arreglo: nombra el reloj; normalmente, el de establecimiento, cuatro entre sigma.",
+   "camara": "deriva lenta",
+   "inicio": 46.221,
+   "fin": 50.703,
+   "palabras": [
+    {
+     "w": "Arreglo:",
+     "inicio": 46.221,
+     "fin": 46.634
+    },
+    {
+     "w": "nombra",
+     "inicio": 46.634,
+     "fin": 47.048
+    },
+    {
+     "w": "el",
+     "inicio": 47.048,
+     "fin": 47.186
+    },
+    {
+     "w": "reloj;",
+     "inicio": 47.186,
+     "fin": 47.531
+    },
+    {
+     "w": "normalmente,",
+     "inicio": 47.531,
+     "fin": 48.289
+    },
+    {
+     "w": "el",
+     "inicio": 48.289,
+     "fin": 48.427
+    },
+    {
+     "w": "de",
+     "inicio": 48.427,
+     "fin": 48.565
+    },
+    {
+     "w": "establecimiento,",
+     "inicio": 48.565,
+     "fin": 49.599
+    },
+    {
+     "w": "cuatro",
+     "inicio": 49.599,
+     "fin": 50.013
+    },
+    {
+     "w": "entre",
+     "inicio": 50.013,
+     "fin": 50.358
+    },
+    {
+     "w": "sigma.",
+     "inicio": 50.358,
+     "fin": 50.703
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 0,
+   "texto": "Error seis: en Mason, multiplicar lazos que comparten un nodo.",
+   "dicho": "Error seis: en Méison, multiplicar lazos que comparten un nodo.",
+   "camara": "viaje largo a la estación 3",
+   "inicio": 51.203,
+   "fin": 55.003,
+   "palabras": [
+    {
+     "w": "Error",
+     "inicio": 51.203,
+     "fin": 51.513
+    },
+    {
+     "w": "seis:",
+     "inicio": 51.513,
+     "fin": 51.823
+    },
+    {
+     "w": "en",
+     "inicio": 51.823,
+     "fin": 51.978
+    },
+    {
+     "w": "Mason,",
+     "inicio": 51.978,
+     "fin": 52.444
+    },
+    {
+     "w": "multiplicar",
+     "inicio": 52.444,
+     "fin": 53.297
+    },
+    {
+     "w": "lazos",
+     "inicio": 53.297,
+     "fin": 53.684
+    },
+    {
+     "w": "que",
+     "inicio": 53.684,
+     "fin": 53.84
+    },
+    {
+     "w": "comparten",
+     "inicio": 53.84,
+     "fin": 54.538
+    },
+    {
+     "w": "un",
+     "inicio": 54.538,
+     "fin": 54.693
+    },
+    {
+     "w": "nodo.",
+     "inicio": 54.693,
+     "fin": 55.003
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 1,
+   "texto": "Arreglo: márcalos de colores y solo multiplica los que no tienen nada en común.",
+   "dicho": "Arreglo: márcalos de colores y solo multiplica los que no tienen nada en común.",
+   "camara": "push in",
+   "inicio": 55.303,
+   "fin": 59.674,
+   "palabras": [
+    {
+     "w": "Arreglo:",
+     "inicio": 55.303,
+     "fin": 57.343
+    },
+    {
+     "w": "márcalos",
+     "inicio": 57.453,
+     "fin": 57.77
+    },
+    {
+     "w": "de",
+     "inicio": 57.77,
+     "fin": 57.85
+    },
+    {
+     "w": "colores",
+     "inicio": 57.85,
+     "fin": 58.127
+    },
+    {
+     "w": "y",
+     "inicio": 58.127,
+     "fin": 58.167
+    },
+    {
+     "w": "solo",
+     "inicio": 58.167,
+     "fin": 58.325
+    },
+    {
+     "w": "multiplica",
+     "inicio": 58.325,
+     "fin": 58.722
+    },
+    {
+     "w": "los",
+     "inicio": 58.722,
+     "fin": 58.841
+    },
+    {
+     "w": "que",
+     "inicio": 58.841,
+     "fin": 58.92
+    },
+    {
+     "w": "no",
+     "inicio": 58.92,
+     "fin": 59.0
+    },
+    {
+     "w": "tienen",
+     "inicio": 59.0,
+     "fin": 59.237
+    },
+    {
+     "w": "nada",
+     "inicio": 59.237,
+     "fin": 59.396
+    },
+    {
+     "w": "en",
+     "inicio": 59.396,
+     "fin": 59.475
+    },
+    {
+     "w": "común.",
+     "inicio": 59.475,
+     "fin": 59.674
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 2,
+   "texto": "Error siete: en Routh, copiar un número en lugar de hacer la cruz.",
+   "dicho": "Error siete: en Ráuz, copiar un número en lugar de hacer la cruz.",
+   "camara": "deriva lenta",
+   "inicio": 59.974,
+   "fin": 63.517,
+   "palabras": [
+    {
+     "w": "Error",
+     "inicio": 59.974,
+     "fin": 60.269
+    },
+    {
+     "w": "siete:",
+     "inicio": 60.269,
+     "fin": 60.638
+    },
+    {
+     "w": "en",
+     "inicio": 60.638,
+     "fin": 60.786
+    },
+    {
+     "w": "Routh,",
+     "inicio": 60.786,
+     "fin": 61.081
+    },
+    {
+     "w": "copiar",
+     "inicio": 61.081,
+     "fin": 61.524
+    },
+    {
+     "w": "un",
+     "inicio": 61.524,
+     "fin": 61.671
+    },
+    {
+     "w": "número",
+     "inicio": 61.671,
+     "fin": 62.114
+    },
+    {
+     "w": "en",
+     "inicio": 62.114,
+     "fin": 62.262
+    },
+    {
+     "w": "lugar",
+     "inicio": 62.262,
+     "fin": 62.631
+    },
+    {
+     "w": "de",
+     "inicio": 62.631,
+     "fin": 62.779
+    },
+    {
+     "w": "hacer",
+     "inicio": 62.779,
+     "fin": 63.074
+    },
+    {
+     "w": "la",
+     "inicio": 63.074,
+     "fin": 63.222
+    },
+    {
+     "w": "cruz.",
+     "inicio": 63.222,
+     "fin": 63.517
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 3,
+   "texto": "Arreglo: cada elemento sale de su cruz, y donde no hay número va un cero.",
+   "dicho": "Arreglo: cada elemento sale de su cruz, y donde no hay número va un cero.",
+   "camara": "deriva lenta",
+   "inicio": 63.817,
+   "fin": 67.817,
+   "palabras": [
+    {
+     "w": "Arreglo:",
+     "inicio": 63.817,
+     "fin": 64.261
+    },
+    {
+     "w": "cada",
+     "inicio": 64.261,
+     "fin": 64.558
+    },
+    {
+     "w": "elemento",
+     "inicio": 64.558,
+     "fin": 65.15
+    },
+    {
+     "w": "sale",
+     "inicio": 65.15,
+     "fin": 65.447
+    },
+    {
+     "w": "de",
+     "inicio": 65.447,
+     "fin": 65.595
+    },
+    {
+     "w": "su",
+     "inicio": 65.595,
+     "fin": 65.743
+    },
+    {
+     "w": "cruz,",
+     "inicio": 65.743,
+     "fin": 66.039
+    },
+    {
+     "w": "y",
+     "inicio": 66.039,
+     "fin": 66.113
+    },
+    {
+     "w": "donde",
+     "inicio": 66.113,
+     "fin": 66.484
+    },
+    {
+     "w": "no",
+     "inicio": 66.484,
+     "fin": 66.632
+    },
+    {
+     "w": "hay",
+     "inicio": 66.632,
+     "fin": 66.78
+    },
+    {
+     "w": "número",
+     "inicio": 66.78,
+     "fin": 67.225
+    },
+    {
+     "w": "va",
+     "inicio": 67.225,
+     "fin": 67.373
+    },
+    {
+     "w": "un",
+     "inicio": 67.373,
+     "fin": 67.521
+    },
+    {
+     "w": "cero.",
+     "inicio": 67.521,
+     "fin": 67.817
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 4,
+   "texto": "Error ocho: contar negativos en vez de cambios de signo.",
+   "dicho": "Error ocho: contar negativos en vez de cambios de signo.",
+   "camara": "pan con desenfoque",
+   "inicio": 68.117,
+   "fin": 71.43,
+   "palabras": [
+    {
+     "w": "Error",
+     "inicio": 68.117,
+     "fin": 68.472
+    },
+    {
+     "w": "ocho:",
+     "inicio": 68.472,
+     "fin": 68.827
+    },
+    {
+     "w": "contar",
+     "inicio": 68.977,
+     "fin": 69.386
+    },
+    {
+     "w": "negativos",
+     "inicio": 69.386,
+     "fin": 69.999
+    },
+    {
+     "w": "en",
+     "inicio": 69.999,
+     "fin": 70.135
+    },
+    {
+     "w": "vez",
+     "inicio": 70.135,
+     "fin": 70.34
+    },
+    {
+     "w": "de",
+     "inicio": 70.34,
+     "fin": 70.476
+    },
+    {
+     "w": "cambios",
+     "inicio": 70.476,
+     "fin": 70.953
+    },
+    {
+     "w": "de",
+     "inicio": 70.953,
+     "fin": 71.089
+    },
+    {
+     "w": "signo.",
+     "inicio": 71.089,
+     "fin": 71.43
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 5,
+   "texto": "Arreglo: recorre la primera columna de arriba abajo y cuenta cada cambio.",
+   "dicho": "Arreglo: recorre la primera columna de arriba abajo y cuenta cada cambio.",
+   "camara": "push in",
+   "inicio": 71.73,
+   "fin": 75.729,
+   "palabras": [
+    {
+     "w": "Arreglo:",
+     "inicio": 71.73,
+     "fin": 72.151
+    },
+    {
+     "w": "recorre",
+     "inicio": 72.151,
+     "fin": 72.572
+    },
+    {
+     "w": "la",
+     "inicio": 72.572,
+     "fin": 72.712
+    },
+    {
+     "w": "primera",
+     "inicio": 72.712,
+     "fin": 73.203
+    },
+    {
+     "w": "columna",
+     "inicio": 73.203,
+     "fin": 73.694
+    },
+    {
+     "w": "de",
+     "inicio": 73.694,
+     "fin": 73.834
+    },
+    {
+     "w": "arriba",
+     "inicio": 73.834,
+     "fin": 74.185
+    },
+    {
+     "w": "abajo",
+     "inicio": 74.185,
+     "fin": 74.536
+    },
+    {
+     "w": "y",
+     "inicio": 74.536,
+     "fin": 74.606
+    },
+    {
+     "w": "cuenta",
+     "inicio": 74.606,
+     "fin": 75.027
+    },
+    {
+     "w": "cada",
+     "inicio": 75.027,
+     "fin": 75.308
+    },
+    {
+     "w": "cambio.",
+     "inicio": 75.308,
+     "fin": 75.729
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 0,
+   "texto": "Error nueve: usar el valor final en un sistema inestable.",
+   "dicho": "Error nueve: usar el valor final en un sistema inestable.",
+   "camara": "viaje largo a la estación 4",
+   "inicio": 76.229,
+   "fin": 79.635,
+   "palabras": [
+    {
+     "w": "Error",
+     "inicio": 76.229,
+     "fin": 76.522
+    },
+    {
+     "w": "nueve:",
+     "inicio": 76.522,
+     "fin": 76.889
+    },
+    {
+     "w": "usar",
+     "inicio": 77.029,
+     "fin": 77.318
+    },
+    {
+     "w": "el",
+     "inicio": 77.318,
+     "fin": 77.463
+    },
+    {
+     "w": "valor",
+     "inicio": 77.463,
+     "fin": 77.825
+    },
+    {
+     "w": "final",
+     "inicio": 77.825,
+     "fin": 78.187
+    },
+    {
+     "w": "en",
+     "inicio": 78.187,
+     "fin": 78.332
+    },
+    {
+     "w": "un",
+     "inicio": 78.332,
+     "fin": 78.477
+    },
+    {
+     "w": "sistema",
+     "inicio": 78.477,
+     "fin": 78.983
+    },
+    {
+     "w": "inestable.",
+     "inicio": 78.983,
+     "fin": 79.635
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 1,
+   "texto": "Arreglo: Routh primero, error después.",
+   "dicho": "Arreglo: Ráuz primero, error después.",
+   "camara": "push in",
+   "inicio": 79.935,
+   "fin": 82.129,
+   "palabras": [
+    {
+     "w": "Arreglo:",
+     "inicio": 79.935,
+     "fin": 80.405
+    },
+    {
+     "w": "Routh",
+     "inicio": 80.405,
+     "fin": 80.719
+    },
+    {
+     "w": "primero,",
+     "inicio": 80.719,
+     "fin": 81.267
+    },
+    {
+     "w": "error",
+     "inicio": 81.267,
+     "fin": 81.581
+    },
+    {
+     "w": "después.",
+     "inicio": 81.581,
+     "fin": 82.129
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 2,
+   "texto": "Error diez: olvidar la ganancia de referencia en retroalimentación de estados.",
+   "dicho": "Error diez: olvidar la ganancia de referencia en retroalimentación de estados.",
+   "camara": "deriva lenta",
+   "inicio": 82.429,
+   "fin": 86.813,
+   "palabras": [
+    {
+     "w": "Error",
+     "inicio": 82.429,
+     "fin": 82.774
+    },
+    {
+     "w": "diez:",
+     "inicio": 82.774,
+     "fin": 83.119
+    },
+    {
+     "w": "olvidar",
+     "inicio": 83.289,
+     "fin": 83.722
+    },
+    {
+     "w": "la",
+     "inicio": 83.722,
+     "fin": 83.846
+    },
+    {
+     "w": "ganancia",
+     "inicio": 83.846,
+     "fin": 84.34
+    },
+    {
+     "w": "de",
+     "inicio": 84.34,
+     "fin": 84.464
+    },
+    {
+     "w": "referencia",
+     "inicio": 84.464,
+     "fin": 85.082
+    },
+    {
+     "w": "en",
+     "inicio": 85.082,
+     "fin": 85.206
+    },
+    {
+     "w": "retroalimentación",
+     "inicio": 85.206,
+     "fin": 86.257
+    },
+    {
+     "w": "de",
+     "inicio": 86.257,
+     "fin": 86.38
+    },
+    {
+     "w": "estados.",
+     "inicio": 86.38,
+     "fin": 86.813
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 3,
+   "texto": "Arreglo: después de colocar polos, revisa la ganancia en cero y ajústala a uno.",
+   "dicho": "Arreglo: después de colocar polos, revisa la ganancia en cero y ajústala a uno.",
+   "camara": "deriva lenta",
+   "inicio": 87.113,
+   "fin": 91.607,
+   "palabras": [
+    {
+     "w": "Arreglo:",
+     "inicio": 87.113,
+     "fin": 88.483
+    },
+    {
+     "w": "después",
+     "inicio": 88.603,
+     "fin": 88.72
+    },
+    {
+     "w": "de",
+     "inicio": 88.72,
+     "fin": 88.753
+    },
+    {
+     "w": "colocar",
+     "inicio": 88.753,
+     "fin": 88.87
+    },
+    {
+     "w": "polos,",
+     "inicio": 88.87,
+     "fin": 88.953
+    },
+    {
+     "w": "revisa",
+     "inicio": 89.203,
+     "fin": 89.615
+    },
+    {
+     "w": "la",
+     "inicio": 89.615,
+     "fin": 89.753
+    },
+    {
+     "w": "ganancia",
+     "inicio": 89.753,
+     "fin": 90.302
+    },
+    {
+     "w": "en",
+     "inicio": 90.302,
+     "fin": 90.439
+    },
+    {
+     "w": "cero",
+     "inicio": 90.439,
+     "fin": 90.714
+    },
+    {
+     "w": "y",
+     "inicio": 90.714,
+     "fin": 90.783
+    },
+    {
+     "w": "ajústala",
+     "inicio": 90.783,
+     "fin": 91.332
+    },
+    {
+     "w": "a",
+     "inicio": 91.332,
+     "fin": 91.401
+    },
+    {
+     "w": "uno.",
+     "inicio": 91.401,
+     "fin": 91.607
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 0,
+   "texto": "Y la estrategia para los 100 minutos.",
+   "dicho": "Y la estrategia para los 100 minutos.",
+   "camara": "viaje largo a la estación 5",
+   "inicio": 92.107,
+   "fin": 94.154,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 92.107,
+     "fin": 92.173
+    },
+    {
+     "w": "la",
+     "inicio": 92.173,
+     "fin": 92.305
+    },
+    {
+     "w": "estrategia",
+     "inicio": 92.305,
+     "fin": 92.965
+    },
+    {
+     "w": "para",
+     "inicio": 92.965,
+     "fin": 93.229
+    },
+    {
+     "w": "los",
+     "inicio": 93.229,
+     "fin": 93.427
+    },
+    {
+     "w": "100",
+     "inicio": 93.427,
+     "fin": 93.691
+    },
+    {
+     "w": "minutos.",
+     "inicio": 93.691,
+     "fin": 94.154
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 1,
+   "texto": "Los primeros cinco minutos, lee todo y empieza por el problema que más puntos da por minuto.",
+   "dicho": "Los primeros cinco minutos, lee todo y empieza por el problema que más puntos da por minuto.",
+   "camara": "push in",
+   "inicio": 94.454,
+   "fin": 99.785,
+   "palabras": [
+    {
+     "w": "Los",
+     "inicio": 94.454,
+     "fin": 94.652
+    },
+    {
+     "w": "primeros",
+     "inicio": 94.652,
+     "fin": 95.18
+    },
+    {
+     "w": "cinco",
+     "inicio": 95.18,
+     "fin": 95.511
+    },
+    {
+     "w": "minutos,",
+     "inicio": 95.511,
+     "fin": 95.974
+    },
+    {
+     "w": "lee",
+     "inicio": 96.224,
+     "fin": 96.437
+    },
+    {
+     "w": "todo",
+     "inicio": 96.437,
+     "fin": 96.722
+    },
+    {
+     "w": "y",
+     "inicio": 96.722,
+     "fin": 96.793
+    },
+    {
+     "w": "empieza",
+     "inicio": 96.793,
+     "fin": 97.292
+    },
+    {
+     "w": "por",
+     "inicio": 97.292,
+     "fin": 97.506
+    },
+    {
+     "w": "el",
+     "inicio": 97.506,
+     "fin": 97.648
+    },
+    {
+     "w": "problema",
+     "inicio": 97.648,
+     "fin": 98.218
+    },
+    {
+     "w": "que",
+     "inicio": 98.218,
+     "fin": 98.36
+    },
+    {
+     "w": "más",
+     "inicio": 98.36,
+     "fin": 98.574
+    },
+    {
+     "w": "puntos",
+     "inicio": 98.574,
+     "fin": 99.001
+    },
+    {
+     "w": "da",
+     "inicio": 99.001,
+     "fin": 99.144
+    },
+    {
+     "w": "por",
+     "inicio": 99.144,
+     "fin": 99.357
+    },
+    {
+     "w": "minuto.",
+     "inicio": 99.357,
+     "fin": 99.785
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 2,
+   "texto": "Deduce las fórmulas en la hoja cuando las necesites: eso también cuenta como procedimiento.",
+   "dicho": "Deduce las fórmulas en la hoja cuando las necesites: eso también cuenta como procedimiento.",
+   "camara": "deriva lenta",
+   "inicio": 100.085,
+   "fin": 105.34,
+   "palabras": [
+    {
+     "w": "Deduce",
+     "inicio": 100.085,
+     "fin": 100.48
+    },
+    {
+     "w": "las",
+     "inicio": 100.48,
+     "fin": 100.678
+    },
+    {
+     "w": "fórmulas",
+     "inicio": 100.678,
+     "fin": 101.206
+    },
+    {
+     "w": "en",
+     "inicio": 101.206,
+     "fin": 101.338
+    },
+    {
+     "w": "la",
+     "inicio": 101.338,
+     "fin": 101.47
+    },
+    {
+     "w": "hoja",
+     "inicio": 101.47,
+     "fin": 101.667
+    },
+    {
+     "w": "cuando",
+     "inicio": 101.667,
+     "fin": 102.063
+    },
+    {
+     "w": "las",
+     "inicio": 102.063,
+     "fin": 102.261
+    },
+    {
+     "w": "necesites:",
+     "inicio": 102.261,
+     "fin": 102.855
+    },
+    {
+     "w": "eso",
+     "inicio": 103.155,
+     "fin": 103.353
+    },
+    {
+     "w": "también",
+     "inicio": 103.353,
+     "fin": 103.817
+    },
+    {
+     "w": "cuenta",
+     "inicio": 103.817,
+     "fin": 104.214
+    },
+    {
+     "w": "como",
+     "inicio": 104.214,
+     "fin": 104.479
+    },
+    {
+     "w": "procedimiento.",
+     "inicio": 104.479,
+     "fin": 105.34
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 3,
+   "texto": "Comprueba cada resultado con un caso fácil, como k igual a cero o el valor final.",
+   "dicho": "Comprueba cada resultado con un caso fácil, como k igual a cero o el valor final.",
+   "camara": "deriva lenta",
+   "inicio": 105.64,
+   "fin": 110.599,
+   "palabras": [
+    {
+     "w": "Comprueba",
+     "inicio": 105.64,
+     "fin": 106.262
+    },
+    {
+     "w": "cada",
+     "inicio": 106.262,
+     "fin": 106.539
+    },
+    {
+     "w": "resultado",
+     "inicio": 106.539,
+     "fin": 107.162
+    },
+    {
+     "w": "con",
+     "inicio": 107.162,
+     "fin": 107.369
+    },
+    {
+     "w": "un",
+     "inicio": 107.369,
+     "fin": 107.507
+    },
+    {
+     "w": "caso",
+     "inicio": 107.507,
+     "fin": 107.784
+    },
+    {
+     "w": "fácil,",
+     "inicio": 107.784,
+     "fin": 108.13
+    },
+    {
+     "w": "como",
+     "inicio": 108.37,
+     "fin": 108.677
+    },
+    {
+     "w": "k",
+     "inicio": 108.677,
+     "fin": 108.831
+    },
+    {
+     "w": "igual",
+     "inicio": 108.831,
+     "fin": 109.216
+    },
+    {
+     "w": "a",
+     "inicio": 109.216,
+     "fin": 109.292
+    },
+    {
+     "w": "cero",
+     "inicio": 109.292,
+     "fin": 109.6
+    },
+    {
+     "w": "o",
+     "inicio": 109.6,
+     "fin": 109.677
+    },
+    {
+     "w": "el",
+     "inicio": 109.677,
+     "fin": 109.831
+    },
+    {
+     "w": "valor",
+     "inicio": 109.831,
+     "fin": 110.215
+    },
+    {
+     "w": "final.",
+     "inicio": 110.215,
+     "fin": 110.599
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 4,
+   "texto": "Y deja diez minutos al final para revisar signos.",
+   "dicho": "Y deja diez minutos al final para revisar signos.",
+   "camara": "push in",
+   "inicio": 110.899,
+   "fin": 113.958,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 110.899,
+     "fin": 110.976
+    },
+    {
+     "w": "deja",
+     "inicio": 110.976,
+     "fin": 111.282
+    },
+    {
+     "w": "diez",
+     "inicio": 111.282,
+     "fin": 111.588
+    },
+    {
+     "w": "minutos",
+     "inicio": 111.588,
+     "fin": 112.123
+    },
+    {
+     "w": "al",
+     "inicio": 112.123,
+     "fin": 112.276
+    },
+    {
+     "w": "final",
+     "inicio": 112.276,
+     "fin": 112.658
+    },
+    {
+     "w": "para",
+     "inicio": 112.658,
+     "fin": 112.964
+    },
+    {
+     "w": "revisar",
+     "inicio": 112.964,
+     "fin": 113.499
+    },
+    {
+     "w": "signos.",
+     "inicio": 113.499,
+     "fin": 113.958
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 0,
+   "texto": "Recuerda la frase que une todo el curso.",
+   "dicho": "Recuerda la frase que une todo el curso.",
+   "camara": "push in con golpe",
+   "inicio": 114.458,
+   "fin": 116.914,
+   "palabras": [
+    {
+     "w": "Recuerda",
+     "inicio": 114.458,
+     "fin": 115.092
+    },
+    {
+     "w": "la",
+     "inicio": 115.092,
+     "fin": 115.25
+    },
+    {
+     "w": "frase",
+     "inicio": 115.25,
+     "fin": 115.646
+    },
+    {
+     "w": "que",
+     "inicio": 115.646,
+     "fin": 115.805
+    },
+    {
+     "w": "une",
+     "inicio": 115.805,
+     "fin": 116.042
+    },
+    {
+     "w": "todo",
+     "inicio": 116.042,
+     "fin": 116.359
+    },
+    {
+     "w": "el",
+     "inicio": 116.359,
+     "fin": 116.518
+    },
+    {
+     "w": "curso.",
+     "inicio": 116.518,
+     "fin": 116.914
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 1,
+   "texto": "Los polos lo deciden todo: si es estable, qué tan rápido, cuánto se pasa y cuánto oscila.",
+   "dicho": "Los polos lo deciden todo: si es estable, qué tan rápido, cuánto se pasa y cuánto oscila.",
+   "camara": "deriva lenta",
+   "inicio": 117.214,
+   "fin": 122.232,
+   "palabras": [
+    {
+     "w": "Los",
+     "inicio": 117.214,
+     "fin": 117.435
+    },
+    {
+     "w": "polos",
+     "inicio": 117.435,
+     "fin": 117.804
+    },
+    {
+     "w": "lo",
+     "inicio": 117.804,
+     "fin": 117.952
+    },
+    {
+     "w": "deciden",
+     "inicio": 117.952,
+     "fin": 118.468
+    },
+    {
+     "w": "todo:",
+     "inicio": 118.468,
+     "fin": 118.763
+    },
+    {
+     "w": "si",
+     "inicio": 118.763,
+     "fin": 118.911
+    },
+    {
+     "w": "es",
+     "inicio": 118.911,
+     "fin": 119.059
+    },
+    {
+     "w": "estable,",
+     "inicio": 119.059,
+     "fin": 119.575
+    },
+    {
+     "w": "qué",
+     "inicio": 119.575,
+     "fin": 119.723
+    },
+    {
+     "w": "tan",
+     "inicio": 119.723,
+     "fin": 119.944
+    },
+    {
+     "w": "rápido,",
+     "inicio": 119.944,
+     "fin": 120.387
+    },
+    {
+     "w": "cuánto",
+     "inicio": 120.387,
+     "fin": 120.83
+    },
+    {
+     "w": "se",
+     "inicio": 120.83,
+     "fin": 120.977
+    },
+    {
+     "w": "pasa",
+     "inicio": 120.977,
+     "fin": 121.273
+    },
+    {
+     "w": "y",
+     "inicio": 121.273,
+     "fin": 121.346
+    },
+    {
+     "w": "cuánto",
+     "inicio": 121.346,
+     "fin": 121.789
+    },
+    {
+     "w": "oscila.",
+     "inicio": 121.789,
+     "fin": 122.232
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 2,
+   "texto": "Laplace los encuentra, los diagramas los esconden, Routh los cuenta y la retroalimentación los mueve.",
+   "dicho": "Laplás los encuentra, los diagramas los esconden, Ráuz los cuenta y la retroalimentación los mueve.",
+   "camara": "push out",
+   "inicio": 122.532,
+   "fin": 128.413,
+   "palabras": [
+    {
+     "w": "Laplace",
+     "inicio": 122.532,
+     "fin": 122.922
+    },
+    {
+     "w": "los",
+     "inicio": 122.922,
+     "fin": 123.117
+    },
+    {
+     "w": "encuentra,",
+     "inicio": 123.117,
+     "fin": 123.702
+    },
+    {
+     "w": "los",
+     "inicio": 123.912,
+     "fin": 124.108
+    },
+    {
+     "w": "diagramas",
+     "inicio": 124.108,
+     "fin": 124.695
+    },
+    {
+     "w": "los",
+     "inicio": 124.695,
+     "fin": 124.89
+    },
+    {
+     "w": "esconden,",
+     "inicio": 124.89,
+     "fin": 125.412
+    },
+    {
+     "w": "Routh",
+     "inicio": 125.652,
+     "fin": 125.921
+    },
+    {
+     "w": "los",
+     "inicio": 125.921,
+     "fin": 126.123
+    },
+    {
+     "w": "cuenta",
+     "inicio": 126.123,
+     "fin": 126.527
+    },
+    {
+     "w": "y",
+     "inicio": 126.527,
+     "fin": 126.595
+    },
+    {
+     "w": "la",
+     "inicio": 126.595,
+     "fin": 126.729
+    },
+    {
+     "w": "retroalimentación",
+     "inicio": 126.729,
+     "fin": 127.874
+    },
+    {
+     "w": "los",
+     "inicio": 127.874,
+     "fin": 128.076
+    },
+    {
+     "w": "mueve.",
+     "inicio": 128.076,
+     "fin": 128.413
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 0,
+   "texto": "Repasa la serie completa una vez antes del examen.",
+   "dicho": "Repasa la serie completa una vez antes del examen.",
+   "camara": "push out a plano general",
+   "inicio": 128.913,
+   "fin": 132.037,
+   "palabras": [
+    {
+     "w": "Repasa",
+     "inicio": 128.913,
+     "fin": 129.359
+    },
+    {
+     "w": "la",
+     "inicio": 129.359,
+     "fin": 129.508
+    },
+    {
+     "w": "serie",
+     "inicio": 129.508,
+     "fin": 129.88
+    },
+    {
+     "w": "completa",
+     "inicio": 129.88,
+     "fin": 130.475
+    },
+    {
+     "w": "una",
+     "inicio": 130.475,
+     "fin": 130.698
+    },
+    {
+     "w": "vez",
+     "inicio": 130.698,
+     "fin": 130.921
+    },
+    {
+     "w": "antes",
+     "inicio": 130.921,
+     "fin": 131.293
+    },
+    {
+     "w": "del",
+     "inicio": 131.293,
+     "fin": 131.517
+    },
+    {
+     "w": "examen.",
+     "inicio": 131.517,
+     "fin": 132.037
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 1,
+   "texto": "Mucho éxito en tu integrador.",
+   "dicho": "Mucho éxito en tu integrador.",
+   "camara": "push in a la tarjeta",
+   "inicio": 132.337,
+   "fin": 134.199,
+   "palabras": [
+    {
+     "w": "Mucho",
+     "inicio": 132.337,
+     "fin": 132.71
+    },
+    {
+     "w": "éxito",
+     "inicio": 132.71,
+     "fin": 133.157
+    },
+    {
+     "w": "en",
+     "inicio": 133.157,
+     "fin": 133.306
+    },
+    {
+     "w": "tu",
+     "inicio": 133.306,
+     "fin": 133.455
+    },
+    {
+     "w": "integrador.",
+     "inicio": 133.455,
+     "fin": 134.199
+    }
+   ]
+  }
+ ]
+}

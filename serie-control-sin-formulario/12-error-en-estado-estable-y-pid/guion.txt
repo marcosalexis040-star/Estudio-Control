@@ -31,4 +31,4 @@ Resultado: kp de 9, Ti de 1.4 y Td de 0.35 segundos.
 Resumen que vale oro.
 El tipo decide si hay error; la ganancia decide cuánto; y Routh decide si todo eso tiene sentido.
 Haz la tabla de tipos cero, uno y dos contra escalón y rampa hasta que la escribas de memoria.
-Sígueme para más trucos de control.
+En el siguiente vídeo: variables de estado.

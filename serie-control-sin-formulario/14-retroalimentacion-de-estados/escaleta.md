@@ -53,7 +53,7 @@ La salida del sumador es u, que entra a la planta, y los dos estados regresan po
 
 ## Cierre · #06d6a0
 Repite el examen cuatro con polos dobles en menos tres, y comprueba que k1 sale nueve y k2 sale seis. || Plano general de las cinco estaciones; tarjeta reto: (s + 3)² = s² + 6s + 9. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: los diez errores que quitan puntos en el integrador. || Tarjeta final «Siguiente · 15» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

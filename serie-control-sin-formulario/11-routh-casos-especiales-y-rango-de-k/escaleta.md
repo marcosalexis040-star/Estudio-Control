@@ -55,7 +55,7 @@ No existe una k que cumpla: siempre revisa la estabilidad antes de calcular el e
 
 ## Cierre · #06d6a0
 Practica el rango de k con el polinomio del integrador hasta que te salga sin mirar. || Plano general de las cinco estaciones. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: error en estado estable y PID. || Tarjeta final «Siguiente · 12» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

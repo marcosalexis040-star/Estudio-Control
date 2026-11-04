@@ -32,4 +32,4 @@ Ponle nombre a la salida de cada sumador y escribe una ecuación por sumador.
 Es álgebra pura, y funciona aunque ninguna regla de movimiento te salga.
 Y si hay muchos lazos cruzados, usa Mason.
 Reduce el mismo diagrama dos veces, por reglas y por ecuaciones, y compara.
-Sígueme para más trucos de control.
+En el siguiente vídeo: Mason con el problema del integrador.

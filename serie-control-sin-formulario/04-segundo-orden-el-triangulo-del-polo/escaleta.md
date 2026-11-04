@@ -53,7 +53,7 @@ Subamortiguado, con sobreimpulso, y sin simular nada. || Tarjeta verde «subamor
 
 ## Cierre · #06d6a0
 Dibuja tres polos al azar y saca su triángulo hasta que te salga solo. || Plano general de las cinco estaciones; tres × nuevas aparecen con su triángulo. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: cómo deducir tiempo pico, sobreimpulso y establecimiento. || Tarjeta final «Siguiente · 05» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

@@ -33,4 +33,4 @@ Y la trampa del libro, ejemplo 42.
 Para error de 0.1 al escalón pedían k igual a nueve, pero Routh exige k menor que ocho.
 No existe una k que cumpla: siempre revisa la estabilidad antes de calcular el error.
 Practica el rango de k con el polinomio del integrador hasta que te salga sin mirar.
-Sígueme para más trucos de control.
+En el siguiente vídeo: error en estado estable y PID.

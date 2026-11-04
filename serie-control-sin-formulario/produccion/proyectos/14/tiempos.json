@@ -1,0 +1,2995 @@
+{
+ "video": "14-retroalimentacion-de-estados",
+ "voz": "em_alex",
+ "duracion": 171.836,
+ "bloques": [
+  {
+   "nombre": "Gancho",
+   "color": "#ff5a5f"
+  },
+  {
+   "nombre": "La ley de control",
+   "color": "#4da3ff"
+  },
+  {
+   "nombre": "Examen rápido 4",
+   "color": "#ffd166"
+  },
+  {
+   "nombre": "Colocar polos no basta",
+   "color": "#c77dff"
+  },
+  {
+   "nombre": "Examen rápido 5",
+   "color": "#06d6a0"
+  },
+  {
+   "nombre": "Clímax",
+   "color": "la ganancia de referencia · #ff5a5f"
+  },
+  {
+   "nombre": "El diagrama que piden",
+   "color": "#ff9f1c"
+  },
+  {
+   "nombre": "Cierre",
+   "color": "#06d6a0"
+  }
+ ],
+ "frases": [
+  {
+   "bloque": 0,
+   "frase": 0,
+   "texto": "Encuentra K para que los polos de lazo cerrado queden en menos dos más menos dos jota.",
+   "dicho": "Encuentra K para que los polos de lazo cerrado queden en menos dos más menos dos jota.",
+   "camara": "push in rápido",
+   "inicio": 0.35,
+   "fin": 5.209,
+   "palabras": [
+    {
+     "w": "Encuentra",
+     "inicio": 0.35,
+     "fin": 1.003
+    },
+    {
+     "w": "K",
+     "inicio": 1.003,
+     "fin": 1.148
+    },
+    {
+     "w": "para",
+     "inicio": 1.148,
+     "fin": 1.438
+    },
+    {
+     "w": "que",
+     "inicio": 1.438,
+     "fin": 1.583
+    },
+    {
+     "w": "los",
+     "inicio": 1.583,
+     "fin": 1.801
+    },
+    {
+     "w": "polos",
+     "inicio": 1.801,
+     "fin": 2.163
+    },
+    {
+     "w": "de",
+     "inicio": 2.163,
+     "fin": 2.308
+    },
+    {
+     "w": "lazo",
+     "inicio": 2.308,
+     "fin": 2.598
+    },
+    {
+     "w": "cerrado",
+     "inicio": 2.598,
+     "fin": 3.033
+    },
+    {
+     "w": "queden",
+     "inicio": 3.033,
+     "fin": 3.396
+    },
+    {
+     "w": "en",
+     "inicio": 3.396,
+     "fin": 3.541
+    },
+    {
+     "w": "menos",
+     "inicio": 3.541,
+     "fin": 3.904
+    },
+    {
+     "w": "dos",
+     "inicio": 3.904,
+     "fin": 4.121
+    },
+    {
+     "w": "más",
+     "inicio": 4.121,
+     "fin": 4.339
+    },
+    {
+     "w": "menos",
+     "inicio": 4.339,
+     "fin": 4.702
+    },
+    {
+     "w": "dos",
+     "inicio": 4.702,
+     "fin": 4.919
+    },
+    {
+     "w": "jota.",
+     "inicio": 4.919,
+     "fin": 5.209
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 1,
+   "texto": "Suena a teoría moderna, pero es el mismo truco de siempre: comparar polinomios.",
+   "dicho": "Suena a teoría moderna, pero es el mismo truco de siempre: comparar polinomios.",
+   "camara": "deriva lenta",
+   "inicio": 5.509,
+   "fin": 9.922,
+   "palabras": [
+    {
+     "w": "Suena",
+     "inicio": 5.509,
+     "fin": 5.843
+    },
+    {
+     "w": "a",
+     "inicio": 5.843,
+     "fin": 5.91
+    },
+    {
+     "w": "teoría",
+     "inicio": 5.91,
+     "fin": 6.311
+    },
+    {
+     "w": "moderna,",
+     "inicio": 6.311,
+     "fin": 6.779
+    },
+    {
+     "w": "pero",
+     "inicio": 6.959,
+     "fin": 7.201
+    },
+    {
+     "w": "es",
+     "inicio": 7.201,
+     "fin": 7.321
+    },
+    {
+     "w": "el",
+     "inicio": 7.321,
+     "fin": 7.442
+    },
+    {
+     "w": "mismo",
+     "inicio": 7.442,
+     "fin": 7.744
+    },
+    {
+     "w": "truco",
+     "inicio": 7.744,
+     "fin": 8.046
+    },
+    {
+     "w": "de",
+     "inicio": 8.046,
+     "fin": 8.167
+    },
+    {
+     "w": "siempre:",
+     "inicio": 8.167,
+     "fin": 8.589
+    },
+    {
+     "w": "comparar",
+     "inicio": 8.769,
+     "fin": 9.282
+    },
+    {
+     "w": "polinomios.",
+     "inicio": 9.282,
+     "fin": 9.922
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 2,
+   "texto": "Lo resolvemos con los dos exámenes rápidos.",
+   "dicho": "Lo resolvemos con los dos exámenes rápidos.",
+   "camara": "push out",
+   "inicio": 10.222,
+   "fin": 12.881,
+   "palabras": [
+    {
+     "w": "Lo",
+     "inicio": 10.222,
+     "fin": 10.366
+    },
+    {
+     "w": "resolvemos",
+     "inicio": 10.366,
+     "fin": 11.084
+    },
+    {
+     "w": "con",
+     "inicio": 11.084,
+     "fin": 11.3
+    },
+    {
+     "w": "los",
+     "inicio": 11.3,
+     "fin": 11.516
+    },
+    {
+     "w": "dos",
+     "inicio": 11.516,
+     "fin": 11.731
+    },
+    {
+     "w": "exámenes",
+     "inicio": 11.731,
+     "fin": 12.378
+    },
+    {
+     "w": "rápidos.",
+     "inicio": 12.378,
+     "fin": 12.881
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 0,
+   "texto": "En retroalimentación de estados, la entrada se calcula con todos los estados.",
+   "dicho": "En retroalimentación de estados, la entrada se calcula con todos los estados.",
+   "camara": "viaje largo a la estación 1",
+   "inicio": 13.381,
+   "fin": 17.74,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 13.381,
+     "fin": 13.493
+    },
+    {
+     "w": "retroalimentación",
+     "inicio": 13.493,
+     "fin": 14.447
+    },
+    {
+     "w": "de",
+     "inicio": 14.447,
+     "fin": 14.559
+    },
+    {
+     "w": "estados,",
+     "inicio": 14.559,
+     "fin": 14.951
+    },
+    {
+     "w": "la",
+     "inicio": 15.201,
+     "fin": 15.342
+    },
+    {
+     "w": "entrada",
+     "inicio": 15.342,
+     "fin": 15.836
+    },
+    {
+     "w": "se",
+     "inicio": 15.836,
+     "fin": 15.977
+    },
+    {
+     "w": "calcula",
+     "inicio": 15.977,
+     "fin": 16.471
+    },
+    {
+     "w": "con",
+     "inicio": 16.471,
+     "fin": 16.682
+    },
+    {
+     "w": "todos",
+     "inicio": 16.682,
+     "fin": 17.035
+    },
+    {
+     "w": "los",
+     "inicio": 17.035,
+     "fin": 17.247
+    },
+    {
+     "w": "estados.",
+     "inicio": 17.247,
+     "fin": 17.74
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 1,
+   "texto": "U es menos K por x, más una referencia escalada.",
+   "dicho": "U es menos K por x, más una referencia escalada.",
+   "camara": "push in",
+   "inicio": 18.04,
+   "fin": 21.084,
+   "palabras": [
+    {
+     "w": "U",
+     "inicio": 18.04,
+     "fin": 18.115
+    },
+    {
+     "w": "es",
+     "inicio": 18.115,
+     "fin": 18.263
+    },
+    {
+     "w": "menos",
+     "inicio": 18.263,
+     "fin": 18.634
+    },
+    {
+     "w": "K",
+     "inicio": 18.634,
+     "fin": 18.783
+    },
+    {
+     "w": "por",
+     "inicio": 18.783,
+     "fin": 19.005
+    },
+    {
+     "w": "x,",
+     "inicio": 19.005,
+     "fin": 19.302
+    },
+    {
+     "w": "más",
+     "inicio": 19.302,
+     "fin": 19.525
+    },
+    {
+     "w": "una",
+     "inicio": 19.525,
+     "fin": 19.747
+    },
+    {
+     "w": "referencia",
+     "inicio": 19.747,
+     "fin": 20.49
+    },
+    {
+     "w": "escalada.",
+     "inicio": 20.49,
+     "fin": 21.084
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 2,
+   "texto": "K es un renglón de ganancias: k1 por x1, más k2 por x2.",
+   "dicho": "K es un renglón de ganancias: k1 por x1, más k2 por x2.",
+   "camara": "deriva lenta",
+   "inicio": 21.384,
+   "fin": 25.619,
+   "palabras": [
+    {
+     "w": "K",
+     "inicio": 21.384,
+     "fin": 21.532
+    },
+    {
+     "w": "es",
+     "inicio": 21.532,
+     "fin": 21.681
+    },
+    {
+     "w": "un",
+     "inicio": 21.681,
+     "fin": 21.829
+    },
+    {
+     "w": "renglón",
+     "inicio": 21.829,
+     "fin": 22.349
+    },
+    {
+     "w": "de",
+     "inicio": 22.349,
+     "fin": 22.498
+    },
+    {
+     "w": "ganancias:",
+     "inicio": 22.498,
+     "fin": 23.167
+    },
+    {
+     "w": "k1",
+     "inicio": 23.167,
+     "fin": 23.538
+    },
+    {
+     "w": "por",
+     "inicio": 23.538,
+     "fin": 23.761
+    },
+    {
+     "w": "x1,",
+     "inicio": 23.761,
+     "fin": 24.281
+    },
+    {
+     "w": "más",
+     "inicio": 24.281,
+     "fin": 24.504
+    },
+    {
+     "w": "k2",
+     "inicio": 24.504,
+     "fin": 24.876
+    },
+    {
+     "w": "por",
+     "inicio": 24.876,
+     "fin": 25.099
+    },
+    {
+     "w": "x2.",
+     "inicio": 25.099,
+     "fin": 25.619
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 3,
+   "texto": "Al sustituir, la nueva matriz del sistema es A menos B por K.",
+   "dicho": "Al sustituir, la nueva matriz del sistema es A menos B por K.",
+   "camara": "deriva lenta",
+   "inicio": 25.919,
+   "fin": 29.608,
+   "palabras": [
+    {
+     "w": "Al",
+     "inicio": 25.919,
+     "fin": 26.326
+    },
+    {
+     "w": "sustituir,",
+     "inicio": 26.326,
+     "fin": 28.159
+    },
+    {
+     "w": "la",
+     "inicio": 28.339,
+     "fin": 28.406
+    },
+    {
+     "w": "nueva",
+     "inicio": 28.406,
+     "fin": 28.573
+    },
+    {
+     "w": "matriz",
+     "inicio": 28.573,
+     "fin": 28.773
+    },
+    {
+     "w": "del",
+     "inicio": 28.773,
+     "fin": 28.873
+    },
+    {
+     "w": "sistema",
+     "inicio": 28.873,
+     "fin": 29.107
+    },
+    {
+     "w": "es",
+     "inicio": 29.107,
+     "fin": 29.174
+    },
+    {
+     "w": "A",
+     "inicio": 29.174,
+     "fin": 29.207
+    },
+    {
+     "w": "menos",
+     "inicio": 29.207,
+     "fin": 29.374
+    },
+    {
+     "w": "B",
+     "inicio": 29.374,
+     "fin": 29.441
+    },
+    {
+     "w": "por",
+     "inicio": 29.441,
+     "fin": 29.541
+    },
+    {
+     "w": "K.",
+     "inicio": 29.541,
+     "fin": 29.608
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 4,
+   "texto": "Y los polos de lazo cerrado salen del determinante de ese I menos A más B K.",
+   "dicho": "Y los polos de lazo cerrado salen del determinante de ese I menos A más B K.",
+   "camara": "push in",
+   "inicio": 29.908,
+   "fin": 34.365,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 29.908,
+     "fin": 29.982
+    },
+    {
+     "w": "los",
+     "inicio": 29.982,
+     "fin": 30.205
+    },
+    {
+     "w": "polos",
+     "inicio": 30.205,
+     "fin": 30.576
+    },
+    {
+     "w": "de",
+     "inicio": 30.576,
+     "fin": 30.725
+    },
+    {
+     "w": "lazo",
+     "inicio": 30.725,
+     "fin": 31.022
+    },
+    {
+     "w": "cerrado",
+     "inicio": 31.022,
+     "fin": 31.468
+    },
+    {
+     "w": "salen",
+     "inicio": 31.468,
+     "fin": 31.839
+    },
+    {
+     "w": "del",
+     "inicio": 31.839,
+     "fin": 32.062
+    },
+    {
+     "w": "determinante",
+     "inicio": 32.062,
+     "fin": 32.953
+    },
+    {
+     "w": "de",
+     "inicio": 32.953,
+     "fin": 33.102
+    },
+    {
+     "w": "ese",
+     "inicio": 33.102,
+     "fin": 33.325
+    },
+    {
+     "w": "I",
+     "inicio": 33.325,
+     "fin": 33.399
+    },
+    {
+     "w": "menos",
+     "inicio": 33.399,
+     "fin": 33.771
+    },
+    {
+     "w": "A",
+     "inicio": 33.771,
+     "fin": 33.845
+    },
+    {
+     "w": "más",
+     "inicio": 33.845,
+     "fin": 34.068
+    },
+    {
+     "w": "B",
+     "inicio": 34.068,
+     "fin": 34.216
+    },
+    {
+     "w": "K.",
+     "inicio": 34.216,
+     "fin": 34.365
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 0,
+   "texto": "Examen rápido cuatro: A es cero, uno; cero, cero. Es un doble integrador.",
+   "dicho": "Examen rápido cuatro: A es cero, uno; cero, cero. Es un doble integrador.",
+   "camara": "viaje largo a la estación 2",
+   "inicio": 34.865,
+   "fin": 39.153,
+   "palabras": [
+    {
+     "w": "Examen",
+     "inicio": 34.865,
+     "fin": 35.401
+    },
+    {
+     "w": "rápido",
+     "inicio": 35.401,
+     "fin": 35.86
+    },
+    {
+     "w": "cuatro:",
+     "inicio": 35.86,
+     "fin": 36.32
+    },
+    {
+     "w": "A",
+     "inicio": 36.32,
+     "fin": 36.396
+    },
+    {
+     "w": "es",
+     "inicio": 36.396,
+     "fin": 36.55
+    },
+    {
+     "w": "cero,",
+     "inicio": 36.55,
+     "fin": 36.856
+    },
+    {
+     "w": "uno;",
+     "inicio": 36.856,
+     "fin": 37.086
+    },
+    {
+     "w": "cero,",
+     "inicio": 37.086,
+     "fin": 37.392
+    },
+    {
+     "w": "cero.",
+     "inicio": 37.392,
+     "fin": 37.698
+    },
+    {
+     "w": "Es",
+     "inicio": 37.698,
+     "fin": 37.851
+    },
+    {
+     "w": "un",
+     "inicio": 37.851,
+     "fin": 38.005
+    },
+    {
+     "w": "doble",
+     "inicio": 38.005,
+     "fin": 38.387
+    },
+    {
+     "w": "integrador.",
+     "inicio": 38.387,
+     "fin": 39.153
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 1,
+   "texto": "B es cero, uno, así que B por K solo llena la última fila con k1 y k2.",
+   "dicho": "B es cero, uno, así que B por K solo llena la última fila con k1 y k2.",
+   "camara": "push in",
+   "inicio": 39.453,
+   "fin": 44.197,
+   "palabras": [
+    {
+     "w": "B",
+     "inicio": 39.453,
+     "fin": 39.666
+    },
+    {
+     "w": "es",
+     "inicio": 39.666,
+     "fin": 39.878
+    },
+    {
+     "w": "cero,",
+     "inicio": 39.878,
+     "fin": 40.303
+    },
+    {
+     "w": "uno,",
+     "inicio": 40.573,
+     "fin": 42.563
+    },
+    {
+     "w": "así",
+     "inicio": 42.673,
+     "fin": 42.773
+    },
+    {
+     "w": "que",
+     "inicio": 42.773,
+     "fin": 42.839
+    },
+    {
+     "w": "B",
+     "inicio": 42.839,
+     "fin": 42.905
+    },
+    {
+     "w": "por",
+     "inicio": 42.905,
+     "fin": 43.004
+    },
+    {
+     "w": "K",
+     "inicio": 43.004,
+     "fin": 43.071
+    },
+    {
+     "w": "solo",
+     "inicio": 43.071,
+     "fin": 43.203
+    },
+    {
+     "w": "llena",
+     "inicio": 43.203,
+     "fin": 43.336
+    },
+    {
+     "w": "la",
+     "inicio": 43.336,
+     "fin": 43.402
+    },
+    {
+     "w": "última",
+     "inicio": 43.402,
+     "fin": 43.601
+    },
+    {
+     "w": "fila",
+     "inicio": 43.601,
+     "fin": 43.733
+    },
+    {
+     "w": "con",
+     "inicio": 43.733,
+     "fin": 43.832
+    },
+    {
+     "w": "k1",
+     "inicio": 43.832,
+     "fin": 43.998
+    },
+    {
+     "w": "y",
+     "inicio": 43.998,
+     "fin": 44.031
+    },
+    {
+     "w": "k2.",
+     "inicio": 44.031,
+     "fin": 44.197
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 2,
+   "texto": "A menos B K queda cero, uno; menos k1, menos k2.",
+   "dicho": "A menos B K queda cero, uno; menos k1, menos k2.",
+   "camara": "deriva lenta",
+   "inicio": 44.497,
+   "fin": 47.817,
+   "palabras": [
+    {
+     "w": "A",
+     "inicio": 44.497,
+     "fin": 44.578
+    },
+    {
+     "w": "menos",
+     "inicio": 44.578,
+     "fin": 44.983
+    },
+    {
+     "w": "B",
+     "inicio": 44.983,
+     "fin": 45.145
+    },
+    {
+     "w": "K",
+     "inicio": 45.145,
+     "fin": 45.307
+    },
+    {
+     "w": "queda",
+     "inicio": 45.307,
+     "fin": 45.63
+    },
+    {
+     "w": "cero,",
+     "inicio": 45.63,
+     "fin": 45.954
+    },
+    {
+     "w": "uno;",
+     "inicio": 45.954,
+     "fin": 46.197
+    },
+    {
+     "w": "menos",
+     "inicio": 46.197,
+     "fin": 46.602
+    },
+    {
+     "w": "k1,",
+     "inicio": 46.602,
+     "fin": 47.007
+    },
+    {
+     "w": "menos",
+     "inicio": 47.007,
+     "fin": 47.412
+    },
+    {
+     "w": "k2.",
+     "inicio": 47.412,
+     "fin": 47.817
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 3,
+   "texto": "Otra vez la forma canónica: el polinomio es ese al cuadrado más k2 ese más k1.",
+   "dicho": "Otra vez la forma canónica: el polinomio es ese al cuadrado más k2 ese más k1.",
+   "camara": "deriva lenta",
+   "inicio": 48.117,
+   "fin": 53.13,
+   "palabras": [
+    {
+     "w": "Otra",
+     "inicio": 48.117,
+     "fin": 48.388
+    },
+    {
+     "w": "vez",
+     "inicio": 48.388,
+     "fin": 48.591
+    },
+    {
+     "w": "la",
+     "inicio": 48.591,
+     "fin": 48.726
+    },
+    {
+     "w": "forma",
+     "inicio": 48.726,
+     "fin": 49.065
+    },
+    {
+     "w": "canónica:",
+     "inicio": 49.065,
+     "fin": 49.607
+    },
+    {
+     "w": "el",
+     "inicio": 49.927,
+     "fin": 50.069
+    },
+    {
+     "w": "polinomio",
+     "inicio": 50.069,
+     "fin": 50.71
+    },
+    {
+     "w": "es",
+     "inicio": 50.71,
+     "fin": 50.852
+    },
+    {
+     "w": "ese",
+     "inicio": 50.852,
+     "fin": 51.066
+    },
+    {
+     "w": "al",
+     "inicio": 51.066,
+     "fin": 51.208
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 51.208,
+     "fin": 51.777
+    },
+    {
+     "w": "más",
+     "inicio": 51.777,
+     "fin": 51.991
+    },
+    {
+     "w": "k2",
+     "inicio": 51.991,
+     "fin": 52.347
+    },
+    {
+     "w": "ese",
+     "inicio": 52.347,
+     "fin": 52.56
+    },
+    {
+     "w": "más",
+     "inicio": 52.56,
+     "fin": 52.774
+    },
+    {
+     "w": "k1.",
+     "inicio": 52.774,
+     "fin": 53.13
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 4,
+   "texto": "El deseado, con polos en menos dos más menos dos jota, es ese más dos al cuadrado más cuatro: ese al cuadrado más cuatro ese más ocho.",
+   "dicho": "El deseado, con polos en menos dos más menos dos jota, es ese más dos al cuadrado más cuatro: ese al cuadrado más cuatro ese más ocho.",
+   "camara": "push in",
+   "inicio": 53.43,
+   "fin": 61.386,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 53.43,
+     "fin": 54.097
+    },
+    {
+     "w": "deseado,",
+     "inicio": 54.097,
+     "fin": 56.43
+    },
+    {
+     "w": "con",
+     "inicio": 56.75,
+     "fin": 56.905
+    },
+    {
+     "w": "polos",
+     "inicio": 56.905,
+     "fin": 57.162
+    },
+    {
+     "w": "en",
+     "inicio": 57.162,
+     "fin": 57.265
+    },
+    {
+     "w": "menos",
+     "inicio": 57.265,
+     "fin": 57.523
+    },
+    {
+     "w": "dos",
+     "inicio": 57.523,
+     "fin": 57.677
+    },
+    {
+     "w": "más",
+     "inicio": 57.677,
+     "fin": 57.832
+    },
+    {
+     "w": "menos",
+     "inicio": 57.832,
+     "fin": 58.089
+    },
+    {
+     "w": "dos",
+     "inicio": 58.089,
+     "fin": 58.244
+    },
+    {
+     "w": "jota,",
+     "inicio": 58.244,
+     "fin": 58.45
+    },
+    {
+     "w": "es",
+     "inicio": 58.56,
+     "fin": 58.581
+    },
+    {
+     "w": "ese",
+     "inicio": 58.581,
+     "fin": 58.612
+    },
+    {
+     "w": "más",
+     "inicio": 58.612,
+     "fin": 58.643
+    },
+    {
+     "w": "dos",
+     "inicio": 58.643,
+     "fin": 58.674
+    },
+    {
+     "w": "al",
+     "inicio": 58.674,
+     "fin": 58.694
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 58.694,
+     "fin": 58.777
+    },
+    {
+     "w": "más",
+     "inicio": 58.777,
+     "fin": 58.808
+    },
+    {
+     "w": "cuatro:",
+     "inicio": 58.808,
+     "fin": 58.87
+    },
+    {
+     "w": "ese",
+     "inicio": 59.2,
+     "fin": 59.405
+    },
+    {
+     "w": "al",
+     "inicio": 59.405,
+     "fin": 59.541
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 59.541,
+     "fin": 60.088
+    },
+    {
+     "w": "más",
+     "inicio": 60.088,
+     "fin": 60.293
+    },
+    {
+     "w": "cuatro",
+     "inicio": 60.293,
+     "fin": 60.703
+    },
+    {
+     "w": "ese",
+     "inicio": 60.703,
+     "fin": 60.908
+    },
+    {
+     "w": "más",
+     "inicio": 60.908,
+     "fin": 61.112
+    },
+    {
+     "w": "ocho.",
+     "inicio": 61.112,
+     "fin": 61.386
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 5,
+   "texto": "Igualando: k1 es ocho y k2 es cuatro.",
+   "dicho": "Igualando: k1 es ocho y k2 es cuatro.",
+   "camara": "deriva lenta",
+   "inicio": 61.686,
+   "fin": 64.399,
+   "palabras": [
+    {
+     "w": "Igualando:",
+     "inicio": 61.686,
+     "fin": 62.404
+    },
+    {
+     "w": "k1",
+     "inicio": 62.404,
+     "fin": 62.803
+    },
+    {
+     "w": "es",
+     "inicio": 62.803,
+     "fin": 62.962
+    },
+    {
+     "w": "ocho",
+     "inicio": 62.962,
+     "fin": 63.282
+    },
+    {
+     "w": "y",
+     "inicio": 63.282,
+     "fin": 63.361
+    },
+    {
+     "w": "k2",
+     "inicio": 63.361,
+     "fin": 63.76
+    },
+    {
+     "w": "es",
+     "inicio": 63.76,
+     "fin": 63.92
+    },
+    {
+     "w": "cuatro.",
+     "inicio": 63.92,
+     "fin": 64.399
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 0,
+   "texto": "Con la salida en x1 y la referencia sin escalar, el lazo cerrado es uno entre ese al cuadrado más cuatro ese más ocho.",
+   "dicho": "Con la salida en x1 y la referencia sin escalar, el lazo cerrado es uno entre ese al cuadrado más cuatro ese más ocho.",
+   "camara": "viaje largo a la estación 3",
+   "inicio": 64.899,
+   "fin": 72.117,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 64.899,
+     "fin": 65.107
+    },
+    {
+     "w": "la",
+     "inicio": 65.107,
+     "fin": 65.245
+    },
+    {
+     "w": "salida",
+     "inicio": 65.245,
+     "fin": 65.661
+    },
+    {
+     "w": "en",
+     "inicio": 65.661,
+     "fin": 65.8
+    },
+    {
+     "w": "x1",
+     "inicio": 65.8,
+     "fin": 66.285
+    },
+    {
+     "w": "y",
+     "inicio": 66.285,
+     "fin": 66.354
+    },
+    {
+     "w": "la",
+     "inicio": 66.354,
+     "fin": 66.493
+    },
+    {
+     "w": "referencia",
+     "inicio": 66.493,
+     "fin": 67.186
+    },
+    {
+     "w": "sin",
+     "inicio": 67.186,
+     "fin": 67.394
+    },
+    {
+     "w": "escalar,",
+     "inicio": 67.394,
+     "fin": 67.879
+    },
+    {
+     "w": "el",
+     "inicio": 68.289,
+     "fin": 68.431
+    },
+    {
+     "w": "lazo",
+     "inicio": 68.431,
+     "fin": 68.714
+    },
+    {
+     "w": "cerrado",
+     "inicio": 68.714,
+     "fin": 69.14
+    },
+    {
+     "w": "es",
+     "inicio": 69.14,
+     "fin": 69.281
+    },
+    {
+     "w": "uno",
+     "inicio": 69.281,
+     "fin": 69.494
+    },
+    {
+     "w": "entre",
+     "inicio": 69.494,
+     "fin": 69.848
+    },
+    {
+     "w": "ese",
+     "inicio": 69.848,
+     "fin": 70.061
+    },
+    {
+     "w": "al",
+     "inicio": 70.061,
+     "fin": 70.203
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 70.203,
+     "fin": 70.77
+    },
+    {
+     "w": "más",
+     "inicio": 70.77,
+     "fin": 70.982
+    },
+    {
+     "w": "cuatro",
+     "inicio": 70.982,
+     "fin": 71.408
+    },
+    {
+     "w": "ese",
+     "inicio": 71.408,
+     "fin": 71.62
+    },
+    {
+     "w": "más",
+     "inicio": 71.62,
+     "fin": 71.833
+    },
+    {
+     "w": "ocho.",
+     "inicio": 71.833,
+     "fin": 72.117
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 1,
+   "texto": "Su ganancia en cero es un octavo: la salida llega a 0.125, y el error al escalón es siete octavos.",
+   "dicho": "Su ganancia en cero es un octavo: la salida llega a cero punto ciento veinticinco, y el error al escalón es siete octavos.",
+   "camara": "push in",
+   "inicio": 72.417,
+   "fin": 79.527,
+   "palabras": [
+    {
+     "w": "Su",
+     "inicio": 72.417,
+     "fin": 72.554
+    },
+    {
+     "w": "ganancia",
+     "inicio": 72.554,
+     "fin": 73.105
+    },
+    {
+     "w": "en",
+     "inicio": 73.105,
+     "fin": 73.243
+    },
+    {
+     "w": "cero",
+     "inicio": 73.243,
+     "fin": 73.518
+    },
+    {
+     "w": "es",
+     "inicio": 73.518,
+     "fin": 73.656
+    },
+    {
+     "w": "un",
+     "inicio": 73.656,
+     "fin": 73.794
+    },
+    {
+     "w": "octavo:",
+     "inicio": 73.794,
+     "fin": 74.207
+    },
+    {
+     "w": "la",
+     "inicio": 74.597,
+     "fin": 74.726
+    },
+    {
+     "w": "salida",
+     "inicio": 74.726,
+     "fin": 75.116
+    },
+    {
+     "w": "llega",
+     "inicio": 75.116,
+     "fin": 75.375
+    },
+    {
+     "w": "a",
+     "inicio": 75.375,
+     "fin": 75.44
+    },
+    {
+     "w": "0.125,",
+     "inicio": 75.44,
+     "fin": 77.127
+    },
+    {
+     "w": "y",
+     "inicio": 77.397,
+     "fin": 77.468
+    },
+    {
+     "w": "el",
+     "inicio": 77.468,
+     "fin": 77.61
+    },
+    {
+     "w": "error",
+     "inicio": 77.61,
+     "fin": 77.894
+    },
+    {
+     "w": "al",
+     "inicio": 77.894,
+     "fin": 78.036
+    },
+    {
+     "w": "escalón",
+     "inicio": 78.036,
+     "fin": 78.533
+    },
+    {
+     "w": "es",
+     "inicio": 78.533,
+     "fin": 78.675
+    },
+    {
+     "w": "siete",
+     "inicio": 78.675,
+     "fin": 79.03
+    },
+    {
+     "w": "octavos.",
+     "inicio": 79.03,
+     "fin": 79.527
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 2,
+   "texto": "Colocar polos no garantiza que llegue a donde quieres.",
+   "dicho": "Colocar polos no garantiza que llegue a donde quieres.",
+   "camara": "deriva lenta",
+   "inicio": 79.827,
+   "fin": 82.815,
+   "palabras": [
+    {
+     "w": "Colocar",
+     "inicio": 79.827,
+     "fin": 80.337
+    },
+    {
+     "w": "polos",
+     "inicio": 80.337,
+     "fin": 80.701
+    },
+    {
+     "w": "no",
+     "inicio": 80.701,
+     "fin": 80.847
+    },
+    {
+     "w": "garantiza",
+     "inicio": 80.847,
+     "fin": 81.503
+    },
+    {
+     "w": "que",
+     "inicio": 81.503,
+     "fin": 81.649
+    },
+    {
+     "w": "llegue",
+     "inicio": 81.649,
+     "fin": 81.94
+    },
+    {
+     "w": "a",
+     "inicio": 81.94,
+     "fin": 82.013
+    },
+    {
+     "w": "donde",
+     "inicio": 82.013,
+     "fin": 82.378
+    },
+    {
+     "w": "quieres.",
+     "inicio": 82.378,
+     "fin": 82.815
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 0,
+   "texto": "Examen rápido cinco: A es cero, uno; cero, menos b.",
+   "dicho": "Examen rápido cinco: A es cero, uno; cero, menos b.",
+   "camara": "viaje largo a la estación 4",
+   "inicio": 83.315,
+   "fin": 86.421,
+   "palabras": [
+    {
+     "w": "Examen",
+     "inicio": 83.315,
+     "fin": 83.872
+    },
+    {
+     "w": "rápido",
+     "inicio": 83.872,
+     "fin": 84.35
+    },
+    {
+     "w": "cinco:",
+     "inicio": 84.35,
+     "fin": 84.748
+    },
+    {
+     "w": "A",
+     "inicio": 84.748,
+     "fin": 84.828
+    },
+    {
+     "w": "es",
+     "inicio": 84.828,
+     "fin": 84.987
+    },
+    {
+     "w": "cero,",
+     "inicio": 84.987,
+     "fin": 85.306
+    },
+    {
+     "w": "uno;",
+     "inicio": 85.306,
+     "fin": 85.545
+    },
+    {
+     "w": "cero,",
+     "inicio": 85.545,
+     "fin": 85.863
+    },
+    {
+     "w": "menos",
+     "inicio": 85.863,
+     "fin": 86.261
+    },
+    {
+     "w": "b.",
+     "inicio": 86.261,
+     "fin": 86.421
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 1,
+   "texto": "Primero la función: C por ese I menos A inversa por B da uno entre ese por ese más b.",
+   "dicho": "Primero la función: C por ese I menos A inversa por B da uno entre ese por ese más b.",
+   "camara": "push in",
+   "inicio": 86.721,
+   "fin": 91.969,
+   "palabras": [
+    {
+     "w": "Primero",
+     "inicio": 86.721,
+     "fin": 87.202
+    },
+    {
+     "w": "la",
+     "inicio": 87.202,
+     "fin": 87.339
+    },
+    {
+     "w": "función:",
+     "inicio": 87.339,
+     "fin": 87.821
+    },
+    {
+     "w": "C",
+     "inicio": 88.121,
+     "fin": 88.272
+    },
+    {
+     "w": "por",
+     "inicio": 88.272,
+     "fin": 88.498
+    },
+    {
+     "w": "ese",
+     "inicio": 88.498,
+     "fin": 88.724
+    },
+    {
+     "w": "I",
+     "inicio": 88.724,
+     "fin": 88.8
+    },
+    {
+     "w": "menos",
+     "inicio": 88.8,
+     "fin": 89.177
+    },
+    {
+     "w": "A",
+     "inicio": 89.177,
+     "fin": 89.252
+    },
+    {
+     "w": "inversa",
+     "inicio": 89.252,
+     "fin": 89.781
+    },
+    {
+     "w": "por",
+     "inicio": 89.781,
+     "fin": 90.007
+    },
+    {
+     "w": "B",
+     "inicio": 90.007,
+     "fin": 90.158
+    },
+    {
+     "w": "da",
+     "inicio": 90.158,
+     "fin": 90.309
+    },
+    {
+     "w": "uno",
+     "inicio": 90.309,
+     "fin": 90.535
+    },
+    {
+     "w": "entre",
+     "inicio": 90.535,
+     "fin": 90.912
+    },
+    {
+     "w": "ese",
+     "inicio": 90.912,
+     "fin": 91.139
+    },
+    {
+     "w": "por",
+     "inicio": 91.139,
+     "fin": 91.365
+    },
+    {
+     "w": "ese",
+     "inicio": 91.365,
+     "fin": 91.591
+    },
+    {
+     "w": "más",
+     "inicio": 91.591,
+     "fin": 91.818
+    },
+    {
+     "w": "b.",
+     "inicio": 91.818,
+     "fin": 91.969
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 2,
+   "texto": "Ahora u es menos k1 x1, menos k2 x2, más k3 por la referencia.",
+   "dicho": "Ahora u es menos k1 x1, menos k2 x2, más k3 por la referencia.",
+   "camara": "deriva lenta",
+   "inicio": 92.269,
+   "fin": 97.308,
+   "palabras": [
+    {
+     "w": "Ahora",
+     "inicio": 92.269,
+     "fin": 92.579
+    },
+    {
+     "w": "u",
+     "inicio": 92.579,
+     "fin": 92.656
+    },
+    {
+     "w": "es",
+     "inicio": 92.656,
+     "fin": 92.811
+    },
+    {
+     "w": "menos",
+     "inicio": 92.811,
+     "fin": 93.199
+    },
+    {
+     "w": "k1",
+     "inicio": 93.199,
+     "fin": 93.587
+    },
+    {
+     "w": "x1,",
+     "inicio": 93.587,
+     "fin": 94.129
+    },
+    {
+     "w": "menos",
+     "inicio": 94.129,
+     "fin": 94.517
+    },
+    {
+     "w": "k2",
+     "inicio": 94.517,
+     "fin": 94.905
+    },
+    {
+     "w": "x2,",
+     "inicio": 94.905,
+     "fin": 95.447
+    },
+    {
+     "w": "más",
+     "inicio": 95.447,
+     "fin": 95.68
+    },
+    {
+     "w": "k3",
+     "inicio": 95.68,
+     "fin": 96.145
+    },
+    {
+     "w": "por",
+     "inicio": 96.145,
+     "fin": 96.378
+    },
+    {
+     "w": "la",
+     "inicio": 96.378,
+     "fin": 96.533
+    },
+    {
+     "w": "referencia.",
+     "inicio": 96.533,
+     "fin": 97.308
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 3,
+   "texto": "A menos B K da el polinomio ese al cuadrado más b más k2 por ese, más k1.",
+   "dicho": "A menos B K da el polinomio ese al cuadrado más b más k2 por ese, más k1.",
+   "camara": "deriva lenta",
+   "inicio": 97.608,
+   "fin": 102.171,
+   "palabras": [
+    {
+     "w": "A",
+     "inicio": 97.608,
+     "fin": 97.674
+    },
+    {
+     "w": "menos",
+     "inicio": 97.674,
+     "fin": 98.004
+    },
+    {
+     "w": "B",
+     "inicio": 98.004,
+     "fin": 98.136
+    },
+    {
+     "w": "K",
+     "inicio": 98.136,
+     "fin": 98.268
+    },
+    {
+     "w": "da",
+     "inicio": 98.268,
+     "fin": 98.4
+    },
+    {
+     "w": "el",
+     "inicio": 98.4,
+     "fin": 98.532
+    },
+    {
+     "w": "polinomio",
+     "inicio": 98.532,
+     "fin": 99.126
+    },
+    {
+     "w": "ese",
+     "inicio": 99.126,
+     "fin": 99.324
+    },
+    {
+     "w": "al",
+     "inicio": 99.324,
+     "fin": 99.456
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 99.456,
+     "fin": 99.984
+    },
+    {
+     "w": "más",
+     "inicio": 99.984,
+     "fin": 100.182
+    },
+    {
+     "w": "b",
+     "inicio": 100.182,
+     "fin": 100.314
+    },
+    {
+     "w": "más",
+     "inicio": 100.314,
+     "fin": 100.512
+    },
+    {
+     "w": "k2",
+     "inicio": 100.512,
+     "fin": 100.842
+    },
+    {
+     "w": "por",
+     "inicio": 100.842,
+     "fin": 101.04
+    },
+    {
+     "w": "ese,",
+     "inicio": 101.04,
+     "fin": 101.238
+    },
+    {
+     "w": "más",
+     "inicio": 101.478,
+     "fin": 101.738
+    },
+    {
+     "w": "k1.",
+     "inicio": 101.738,
+     "fin": 102.171
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 4,
+   "texto": "Piden los dos polos en menos dos b: el deseado es ese más dos b, al cuadrado.",
+   "dicho": "Piden los dos polos en menos dos b: el deseado es ese más dos b, al cuadrado.",
+   "camara": "push in",
+   "inicio": 102.471,
+   "fin": 107.009,
+   "palabras": [
+    {
+     "w": "Piden",
+     "inicio": 102.471,
+     "fin": 102.85
+    },
+    {
+     "w": "los",
+     "inicio": 102.85,
+     "fin": 103.076
+    },
+    {
+     "w": "dos",
+     "inicio": 103.076,
+     "fin": 103.303
+    },
+    {
+     "w": "polos",
+     "inicio": 103.303,
+     "fin": 103.681
+    },
+    {
+     "w": "en",
+     "inicio": 103.681,
+     "fin": 103.833
+    },
+    {
+     "w": "menos",
+     "inicio": 103.833,
+     "fin": 104.211
+    },
+    {
+     "w": "dos",
+     "inicio": 104.211,
+     "fin": 104.438
+    },
+    {
+     "w": "b:",
+     "inicio": 104.438,
+     "fin": 104.589
+    },
+    {
+     "w": "el",
+     "inicio": 104.589,
+     "fin": 104.74
+    },
+    {
+     "w": "deseado",
+     "inicio": 104.74,
+     "fin": 105.27
+    },
+    {
+     "w": "es",
+     "inicio": 105.27,
+     "fin": 105.421
+    },
+    {
+     "w": "ese",
+     "inicio": 105.421,
+     "fin": 105.648
+    },
+    {
+     "w": "más",
+     "inicio": 105.648,
+     "fin": 105.874
+    },
+    {
+     "w": "dos",
+     "inicio": 105.874,
+     "fin": 106.101
+    },
+    {
+     "w": "b,",
+     "inicio": 106.101,
+     "fin": 106.253
+    },
+    {
+     "w": "al",
+     "inicio": 106.253,
+     "fin": 106.404
+    },
+    {
+     "w": "cuadrado.",
+     "inicio": 106.404,
+     "fin": 107.009
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 5,
+   "texto": "Ese al cuadrado más cuatro b ese más cuatro b al cuadrado.",
+   "dicho": "Ese al cuadrado más cuatro b ese más cuatro b al cuadrado.",
+   "camara": "deriva lenta",
+   "inicio": 107.309,
+   "fin": 110.608,
+   "palabras": [
+    {
+     "w": "Ese",
+     "inicio": 107.309,
+     "fin": 107.515
+    },
+    {
+     "w": "al",
+     "inicio": 107.515,
+     "fin": 107.652
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 107.652,
+     "fin": 108.202
+    },
+    {
+     "w": "más",
+     "inicio": 108.202,
+     "fin": 108.408
+    },
+    {
+     "w": "cuatro",
+     "inicio": 108.408,
+     "fin": 108.821
+    },
+    {
+     "w": "b",
+     "inicio": 108.821,
+     "fin": 108.958
+    },
+    {
+     "w": "ese",
+     "inicio": 108.958,
+     "fin": 109.164
+    },
+    {
+     "w": "más",
+     "inicio": 109.164,
+     "fin": 109.371
+    },
+    {
+     "w": "cuatro",
+     "inicio": 109.371,
+     "fin": 109.783
+    },
+    {
+     "w": "b",
+     "inicio": 109.783,
+     "fin": 109.921
+    },
+    {
+     "w": "al",
+     "inicio": 109.921,
+     "fin": 110.058
+    },
+    {
+     "w": "cuadrado.",
+     "inicio": 110.058,
+     "fin": 110.608
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 6,
+   "texto": "Igualando: k1 es cuatro b al cuadrado y k2 es tres b.",
+   "dicho": "Igualando: k1 es cuatro b al cuadrado y k2 es tres b.",
+   "camara": "push in",
+   "inicio": 110.908,
+   "fin": 114.348,
+   "palabras": [
+    {
+     "w": "Igualando:",
+     "inicio": 110.908,
+     "fin": 111.488
+    },
+    {
+     "w": "k1",
+     "inicio": 111.648,
+     "fin": 111.994
+    },
+    {
+     "w": "es",
+     "inicio": 111.994,
+     "fin": 112.132
+    },
+    {
+     "w": "cuatro",
+     "inicio": 112.132,
+     "fin": 112.548
+    },
+    {
+     "w": "b",
+     "inicio": 112.548,
+     "fin": 112.686
+    },
+    {
+     "w": "al",
+     "inicio": 112.686,
+     "fin": 112.825
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 112.825,
+     "fin": 113.378
+    },
+    {
+     "w": "y",
+     "inicio": 113.378,
+     "fin": 113.448
+    },
+    {
+     "w": "k2",
+     "inicio": 113.448,
+     "fin": 113.794
+    },
+    {
+     "w": "es",
+     "inicio": 113.794,
+     "fin": 113.932
+    },
+    {
+     "w": "tres",
+     "inicio": 113.932,
+     "fin": 114.209
+    },
+    {
+     "w": "b.",
+     "inicio": 114.209,
+     "fin": 114.348
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 7,
+   "texto": "El lazo cerrado es k3 entre ese más dos b, al cuadrado.",
+   "dicho": "El lazo cerrado es k3 entre ese más dos b, al cuadrado.",
+   "camara": "deriva lenta",
+   "inicio": 114.648,
+   "fin": 118.146,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 114.648,
+     "fin": 114.8
+    },
+    {
+     "w": "lazo",
+     "inicio": 114.8,
+     "fin": 115.104
+    },
+    {
+     "w": "cerrado",
+     "inicio": 115.104,
+     "fin": 115.56
+    },
+    {
+     "w": "es",
+     "inicio": 115.56,
+     "fin": 115.712
+    },
+    {
+     "w": "k3",
+     "inicio": 115.712,
+     "fin": 116.169
+    },
+    {
+     "w": "entre",
+     "inicio": 116.169,
+     "fin": 116.549
+    },
+    {
+     "w": "ese",
+     "inicio": 116.549,
+     "fin": 116.777
+    },
+    {
+     "w": "más",
+     "inicio": 116.777,
+     "fin": 117.005
+    },
+    {
+     "w": "dos",
+     "inicio": 117.005,
+     "fin": 117.233
+    },
+    {
+     "w": "b,",
+     "inicio": 117.233,
+     "fin": 117.385
+    },
+    {
+     "w": "al",
+     "inicio": 117.385,
+     "fin": 117.538
+    },
+    {
+     "w": "cuadrado.",
+     "inicio": 117.538,
+     "fin": 118.146
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 0,
+   "texto": "Y aquí está el punto del examen.",
+   "dicho": "Y aquí está el punto del examen.",
+   "camara": "push in con golpe",
+   "inicio": 118.646,
+   "fin": 120.587,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 118.646,
+     "fin": 118.724
+    },
+    {
+     "w": "aquí",
+     "inicio": 118.724,
+     "fin": 118.956
+    },
+    {
+     "w": "está",
+     "inicio": 118.956,
+     "fin": 119.267
+    },
+    {
+     "w": "el",
+     "inicio": 119.267,
+     "fin": 119.422
+    },
+    {
+     "w": "punto",
+     "inicio": 119.422,
+     "fin": 119.81
+    },
+    {
+     "w": "del",
+     "inicio": 119.81,
+     "fin": 120.043
+    },
+    {
+     "w": "examen.",
+     "inicio": 120.043,
+     "fin": 120.587
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 1,
+   "texto": "Para error cero al escalón, la ganancia en cero debe ser uno.",
+   "dicho": "Para error cero al escalón, la ganancia en cero debe ser uno.",
+   "camara": "deriva lenta",
+   "inicio": 120.887,
+   "fin": 124.374,
+   "palabras": [
+    {
+     "w": "Para",
+     "inicio": 120.887,
+     "fin": 121.159
+    },
+    {
+     "w": "error",
+     "inicio": 121.159,
+     "fin": 121.431
+    },
+    {
+     "w": "cero",
+     "inicio": 121.431,
+     "fin": 121.704
+    },
+    {
+     "w": "al",
+     "inicio": 121.704,
+     "fin": 121.84
+    },
+    {
+     "w": "escalón,",
+     "inicio": 121.84,
+     "fin": 122.317
+    },
+    {
+     "w": "la",
+     "inicio": 122.507,
+     "fin": 122.65
+    },
+    {
+     "w": "ganancia",
+     "inicio": 122.65,
+     "fin": 123.225
+    },
+    {
+     "w": "en",
+     "inicio": 123.225,
+     "fin": 123.368
+    },
+    {
+     "w": "cero",
+     "inicio": 123.368,
+     "fin": 123.655
+    },
+    {
+     "w": "debe",
+     "inicio": 123.655,
+     "fin": 123.943
+    },
+    {
+     "w": "ser",
+     "inicio": 123.943,
+     "fin": 124.158
+    },
+    {
+     "w": "uno.",
+     "inicio": 124.158,
+     "fin": 124.374
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 2,
+   "texto": "K3 entre cuatro b al cuadrado igual a uno: k3 es cuatro b al cuadrado, igual a k1.",
+   "dicho": "K3 entre cuatro b al cuadrado igual a uno: k3 es cuatro b al cuadrado, igual a k1.",
+   "camara": "push in",
+   "inicio": 124.674,
+   "fin": 130.366,
+   "palabras": [
+    {
+     "w": "K3",
+     "inicio": 124.674,
+     "fin": 125.097
+    },
+    {
+     "w": "entre",
+     "inicio": 125.097,
+     "fin": 125.449
+    },
+    {
+     "w": "cuatro",
+     "inicio": 125.449,
+     "fin": 125.872
+    },
+    {
+     "w": "b",
+     "inicio": 125.872,
+     "fin": 126.014
+    },
+    {
+     "w": "al",
+     "inicio": 126.014,
+     "fin": 126.155
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 126.155,
+     "fin": 126.719
+    },
+    {
+     "w": "igual",
+     "inicio": 126.719,
+     "fin": 127.071
+    },
+    {
+     "w": "a",
+     "inicio": 127.071,
+     "fin": 127.142
+    },
+    {
+     "w": "uno:",
+     "inicio": 127.142,
+     "fin": 127.354
+    },
+    {
+     "w": "k3",
+     "inicio": 127.714,
+     "fin": 128.094
+    },
+    {
+     "w": "es",
+     "inicio": 128.094,
+     "fin": 128.221
+    },
+    {
+     "w": "cuatro",
+     "inicio": 128.221,
+     "fin": 128.602
+    },
+    {
+     "w": "b",
+     "inicio": 128.602,
+     "fin": 128.729
+    },
+    {
+     "w": "al",
+     "inicio": 128.729,
+     "fin": 128.856
+    },
+    {
+     "w": "cuadrado,",
+     "inicio": 128.856,
+     "fin": 129.364
+    },
+    {
+     "w": "igual",
+     "inicio": 129.474,
+     "fin": 129.879
+    },
+    {
+     "w": "a",
+     "inicio": 129.879,
+     "fin": 129.961
+    },
+    {
+     "w": "k1.",
+     "inicio": 129.961,
+     "fin": 130.366
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 3,
+   "texto": "Así que en el examen rápido cuatro, con la referencia multiplicada por ocho, el error sería cero.",
+   "dicho": "Así que en el examen rápido cuatro, con la referencia multiplicada por ocho, el error sería cero.",
+   "camara": "viaje largo de regreso a la estación 3",
+   "inicio": 130.666,
+   "fin": 136.172,
+   "palabras": [
+    {
+     "w": "Así",
+     "inicio": 130.666,
+     "fin": 130.864
+    },
+    {
+     "w": "que",
+     "inicio": 130.864,
+     "fin": 130.995
+    },
+    {
+     "w": "en",
+     "inicio": 130.995,
+     "fin": 131.126
+    },
+    {
+     "w": "el",
+     "inicio": 131.126,
+     "fin": 131.258
+    },
+    {
+     "w": "examen",
+     "inicio": 131.258,
+     "fin": 131.718
+    },
+    {
+     "w": "rápido",
+     "inicio": 131.718,
+     "fin": 132.112
+    },
+    {
+     "w": "cuatro,",
+     "inicio": 132.112,
+     "fin": 132.506
+    },
+    {
+     "w": "con",
+     "inicio": 132.676,
+     "fin": 132.856
+    },
+    {
+     "w": "la",
+     "inicio": 132.856,
+     "fin": 132.975
+    },
+    {
+     "w": "referencia",
+     "inicio": 132.975,
+     "fin": 133.572
+    },
+    {
+     "w": "multiplicada",
+     "inicio": 133.572,
+     "fin": 134.289
+    },
+    {
+     "w": "por",
+     "inicio": 134.289,
+     "fin": 134.468
+    },
+    {
+     "w": "ocho,",
+     "inicio": 134.468,
+     "fin": 134.706
+    },
+    {
+     "w": "el",
+     "inicio": 134.966,
+     "fin": 135.127
+    },
+    {
+     "w": "error",
+     "inicio": 135.127,
+     "fin": 135.449
+    },
+    {
+     "w": "sería",
+     "inicio": 135.449,
+     "fin": 135.851
+    },
+    {
+     "w": "cero.",
+     "inicio": 135.851,
+     "fin": 136.172
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 4,
+   "texto": "Con esta estructura, salida en x1 y entrada en la última fila, la ganancia de referencia es el término independiente del polinomio deseado.",
+   "dicho": "Con esta estructura, salida en x1 y entrada en la última fila, la ganancia de referencia es el término independiente del polinomio deseado.",
+   "camara": "push out",
+   "inicio": 136.472,
+   "fin": 144.736,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 136.472,
+     "fin": 136.647
+    },
+    {
+     "w": "esta",
+     "inicio": 136.647,
+     "fin": 136.88
+    },
+    {
+     "w": "estructura,",
+     "inicio": 136.88,
+     "fin": 137.462
+    },
+    {
+     "w": "salida",
+     "inicio": 137.602,
+     "fin": 138.035
+    },
+    {
+     "w": "en",
+     "inicio": 138.035,
+     "fin": 138.179
+    },
+    {
+     "w": "x1",
+     "inicio": 138.179,
+     "fin": 138.685
+    },
+    {
+     "w": "y",
+     "inicio": 138.685,
+     "fin": 138.757
+    },
+    {
+     "w": "entrada",
+     "inicio": 138.757,
+     "fin": 139.262
+    },
+    {
+     "w": "en",
+     "inicio": 139.262,
+     "fin": 139.406
+    },
+    {
+     "w": "la",
+     "inicio": 139.406,
+     "fin": 139.551
+    },
+    {
+     "w": "última",
+     "inicio": 139.551,
+     "fin": 139.984
+    },
+    {
+     "w": "fila,",
+     "inicio": 139.984,
+     "fin": 140.272
+    },
+    {
+     "w": "la",
+     "inicio": 140.682,
+     "fin": 140.807
+    },
+    {
+     "w": "ganancia",
+     "inicio": 140.807,
+     "fin": 141.306
+    },
+    {
+     "w": "de",
+     "inicio": 141.306,
+     "fin": 141.431
+    },
+    {
+     "w": "referencia",
+     "inicio": 141.431,
+     "fin": 142.054
+    },
+    {
+     "w": "es",
+     "inicio": 142.054,
+     "fin": 142.179
+    },
+    {
+     "w": "el",
+     "inicio": 142.179,
+     "fin": 142.304
+    },
+    {
+     "w": "término",
+     "inicio": 142.304,
+     "fin": 142.74
+    },
+    {
+     "w": "independiente",
+     "inicio": 142.74,
+     "fin": 143.551
+    },
+    {
+     "w": "del",
+     "inicio": 143.551,
+     "fin": 143.738
+    },
+    {
+     "w": "polinomio",
+     "inicio": 143.738,
+     "fin": 144.299
+    },
+    {
+     "w": "deseado.",
+     "inicio": 144.299,
+     "fin": 144.736
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 0,
+   "texto": "Si te piden el diagrama: la referencia pasa por k3, entra a un sumador, y le restas k1 por x1 y k2 por x2.",
+   "dicho": "Si te piden el diagrama: la referencia pasa por k3, entra a un sumador, y le restas k1 por x1 y k2 por x2.",
+   "camara": "viaje largo a la estación 5",
+   "inicio": 145.236,
+   "fin": 153.079,
+   "palabras": [
+    {
+     "w": "Si",
+     "inicio": 145.236,
+     "fin": 145.394
+    },
+    {
+     "w": "te",
+     "inicio": 145.394,
+     "fin": 145.553
+    },
+    {
+     "w": "piden",
+     "inicio": 145.553,
+     "fin": 145.949
+    },
+    {
+     "w": "el",
+     "inicio": 145.949,
+     "fin": 146.107
+    },
+    {
+     "w": "diagrama:",
+     "inicio": 146.107,
+     "fin": 146.741
+    },
+    {
+     "w": "la",
+     "inicio": 146.741,
+     "fin": 146.899
+    },
+    {
+     "w": "referencia",
+     "inicio": 146.899,
+     "fin": 147.692
+    },
+    {
+     "w": "pasa",
+     "inicio": 147.692,
+     "fin": 148.008
+    },
+    {
+     "w": "por",
+     "inicio": 148.008,
+     "fin": 148.246
+    },
+    {
+     "w": "k3,",
+     "inicio": 148.246,
+     "fin": 148.721
+    },
+    {
+     "w": "entra",
+     "inicio": 148.721,
+     "fin": 149.118
+    },
+    {
+     "w": "a",
+     "inicio": 149.118,
+     "fin": 149.197
+    },
+    {
+     "w": "un",
+     "inicio": 149.197,
+     "fin": 149.355
+    },
+    {
+     "w": "sumador,",
+     "inicio": 149.355,
+     "fin": 149.91
+    },
+    {
+     "w": "y",
+     "inicio": 149.91,
+     "fin": 149.989
+    },
+    {
+     "w": "le",
+     "inicio": 149.989,
+     "fin": 150.147
+    },
+    {
+     "w": "restas",
+     "inicio": 150.147,
+     "fin": 150.623
+    },
+    {
+     "w": "k1",
+     "inicio": 150.623,
+     "fin": 151.019
+    },
+    {
+     "w": "por",
+     "inicio": 151.019,
+     "fin": 151.257
+    },
+    {
+     "w": "x1",
+     "inicio": 151.257,
+     "fin": 151.811
+    },
+    {
+     "w": "y",
+     "inicio": 151.811,
+     "fin": 151.89
+    },
+    {
+     "w": "k2",
+     "inicio": 151.89,
+     "fin": 152.286
+    },
+    {
+     "w": "por",
+     "inicio": 152.286,
+     "fin": 152.524
+    },
+    {
+     "w": "x2.",
+     "inicio": 152.524,
+     "fin": 153.079
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 1,
+   "texto": "La salida del sumador es u, que entra a la planta, y los dos estados regresan por sus ganancias.",
+   "dicho": "La salida del sumador es u, que entra a la planta, y los dos estados regresan por sus ganancias.",
+   "camara": "pan con desenfoque",
+   "inicio": 153.379,
+   "fin": 158.813,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 153.379,
+     "fin": 153.526
+    },
+    {
+     "w": "salida",
+     "inicio": 153.526,
+     "fin": 153.966
+    },
+    {
+     "w": "del",
+     "inicio": 153.966,
+     "fin": 154.186
+    },
+    {
+     "w": "sumador",
+     "inicio": 154.186,
+     "fin": 154.7
+    },
+    {
+     "w": "es",
+     "inicio": 154.7,
+     "fin": 154.847
+    },
+    {
+     "w": "u,",
+     "inicio": 154.847,
+     "fin": 154.921
+    },
+    {
+     "w": "que",
+     "inicio": 154.921,
+     "fin": 155.068
+    },
+    {
+     "w": "entra",
+     "inicio": 155.068,
+     "fin": 155.435
+    },
+    {
+     "w": "a",
+     "inicio": 155.435,
+     "fin": 155.508
+    },
+    {
+     "w": "la",
+     "inicio": 155.508,
+     "fin": 155.655
+    },
+    {
+     "w": "planta,",
+     "inicio": 155.655,
+     "fin": 156.096
+    },
+    {
+     "w": "y",
+     "inicio": 156.096,
+     "fin": 156.169
+    },
+    {
+     "w": "los",
+     "inicio": 156.169,
+     "fin": 156.389
+    },
+    {
+     "w": "dos",
+     "inicio": 156.389,
+     "fin": 156.61
+    },
+    {
+     "w": "estados",
+     "inicio": 156.61,
+     "fin": 157.124
+    },
+    {
+     "w": "regresan",
+     "inicio": 157.124,
+     "fin": 157.711
+    },
+    {
+     "w": "por",
+     "inicio": 157.711,
+     "fin": 157.931
+    },
+    {
+     "w": "sus",
+     "inicio": 157.931,
+     "fin": 158.152
+    },
+    {
+     "w": "ganancias.",
+     "inicio": 158.152,
+     "fin": 158.813
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 0,
+   "texto": "Repite el examen cuatro con polos dobles en menos tres, y comprueba que k1 sale nueve y k2 sale seis.",
+   "dicho": "Repite el examen cuatro con polos dobles en menos tres, y comprueba que k1 sale nueve y k2 sale seis.",
+   "camara": "push out a plano general",
+   "inicio": 159.313,
+   "fin": 165.648,
+   "palabras": [
+    {
+     "w": "Repite",
+     "inicio": 159.313,
+     "fin": 159.701
+    },
+    {
+     "w": "el",
+     "inicio": 159.701,
+     "fin": 159.831
+    },
+    {
+     "w": "examen",
+     "inicio": 159.831,
+     "fin": 160.284
+    },
+    {
+     "w": "cuatro",
+     "inicio": 160.284,
+     "fin": 160.673
+    },
+    {
+     "w": "con",
+     "inicio": 160.673,
+     "fin": 160.867
+    },
+    {
+     "w": "polos",
+     "inicio": 160.867,
+     "fin": 161.191
+    },
+    {
+     "w": "dobles",
+     "inicio": 161.191,
+     "fin": 161.58
+    },
+    {
+     "w": "en",
+     "inicio": 161.58,
+     "fin": 161.71
+    },
+    {
+     "w": "menos",
+     "inicio": 161.71,
+     "fin": 162.034
+    },
+    {
+     "w": "tres,",
+     "inicio": 162.034,
+     "fin": 162.293
+    },
+    {
+     "w": "y",
+     "inicio": 162.613,
+     "fin": 162.689
+    },
+    {
+     "w": "comprueba",
+     "inicio": 162.689,
+     "fin": 163.372
+    },
+    {
+     "w": "que",
+     "inicio": 163.372,
+     "fin": 163.523
+    },
+    {
+     "w": "k1",
+     "inicio": 163.523,
+     "fin": 163.903
+    },
+    {
+     "w": "sale",
+     "inicio": 163.903,
+     "fin": 164.206
+    },
+    {
+     "w": "nueve",
+     "inicio": 164.206,
+     "fin": 164.586
+    },
+    {
+     "w": "y",
+     "inicio": 164.586,
+     "fin": 164.662
+    },
+    {
+     "w": "k2",
+     "inicio": 164.662,
+     "fin": 165.041
+    },
+    {
+     "w": "sale",
+     "inicio": 165.041,
+     "fin": 165.345
+    },
+    {
+     "w": "seis.",
+     "inicio": 165.345,
+     "fin": 165.648
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 1,
+   "texto": "En el siguiente vídeo: los diez errores que quitan puntos en el integrador.",
+   "dicho": "En el siguiente vídeo: los diez errores que quitan puntos en el integrador.",
+   "camara": "push in a la tarjeta",
+   "inicio": 165.948,
+   "fin": 170.136,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 165.948,
+     "fin": 166.074
+    },
+    {
+     "w": "el",
+     "inicio": 166.074,
+     "fin": 166.2
+    },
+    {
+     "w": "siguiente",
+     "inicio": 166.2,
+     "fin": 166.703
+    },
+    {
+     "w": "vídeo:",
+     "inicio": 166.703,
+     "fin": 167.018
+    },
+    {
+     "w": "los",
+     "inicio": 167.258,
+     "fin": 167.474
+    },
+    {
+     "w": "diez",
+     "inicio": 167.474,
+     "fin": 167.762
+    },
+    {
+     "w": "errores",
+     "inicio": 167.762,
+     "fin": 168.193
+    },
+    {
+     "w": "que",
+     "inicio": 168.193,
+     "fin": 168.337
+    },
+    {
+     "w": "quitan",
+     "inicio": 168.337,
+     "fin": 168.697
+    },
+    {
+     "w": "puntos",
+     "inicio": 168.697,
+     "fin": 169.129
+    },
+    {
+     "w": "en",
+     "inicio": 169.129,
+     "fin": 169.273
+    },
+    {
+     "w": "el",
+     "inicio": 169.273,
+     "fin": 169.417
+    },
+    {
+     "w": "integrador.",
+     "inicio": 169.417,
+     "fin": 170.136
+    }
+   ]
+  }
+ ]
+}

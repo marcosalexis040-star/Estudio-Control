@@ -8,8 +8,8 @@
 | publico | estudiantes de Ingeniería de Control que presentan el integrador sin formulario |
 | tema | forma estándar, ζ y ωn, polos −σ ± jωd, los cuatro casos de ζ, triángulo del polo, β y cos β = ζ |
 | Frases | 34 |
-| Palabras | 412 |
-| Duración estimada | ~2:39 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
+| Palabras | 417 |
+| Duración estimada | ~2:41 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
 
 Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bien y rojo = mal, Inter en negrita a 46 px o más, iconos de Phosphor. Un solo mundo 2D: cada bloque es una estación unida por un camino que se dibuja mientras viaja la cámara. El perrito es la foto recortada `assets/perrito-recorte.png`; nunca tapa texto.
 
@@ -85,7 +85,7 @@ Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bie
 | # | Frase (voz) | Qué se ve | Cámara | Medio |
 |---:|---|---|---|---|
 | 33 | Dibuja tres polos al azar y saca su triángulo hasta que te salga solo. | Plano general de las cinco estaciones; tres × nuevas aparecen con su triángulo. | push out a plano general | SVG |
-| 34 | Sígueme para más trucos de control. | Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». | push in a la tarjeta | perrito-avatar.png |
+| 34 | En el siguiente vídeo: cómo deducir tiempo pico, sobreimpulso y establecimiento. | Tarjeta final «Siguiente · 05» con el título del próximo vídeo y el mapa de la serie. | push in a la tarjeta | SVG |
 
 ## Fuentes y comprobación
 

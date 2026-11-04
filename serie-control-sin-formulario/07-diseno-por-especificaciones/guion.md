@@ -8,8 +8,8 @@
 | publico | estudiantes de Ingeniería de Control que presentan el integrador sin formulario |
 | tema | comparar el polinomio que tienes con el que quieres; Integrador 1 (2025) problema 1; ExR 2 (kp, kd, kf); región permitida (Ej. 27); límite de un control proporcional |
 | Frases | 34 |
-| Palabras | 475 |
-| Duración estimada | ~3:01 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
+| Palabras | 476 |
+| Duración estimada | ~3:02 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
 
 Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bien y rojo = mal, Inter en negrita a 46 px o más, iconos de Phosphor. Un solo mundo 2D: cada bloque es una estación unida por un camino que se dibuja mientras viaja la cámara. El perrito es la foto recortada `assets/perrito-recorte.png`; nunca tapa texto.
 
@@ -80,7 +80,7 @@ Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bie
 | # | Frase (voz) | Qué se ve | Cámara | Medio |
 |---:|---|---|---|---|
 | 33 | Antes de despejar, revisa qué coeficientes puede mover cada parámetro. | Plano general de las cuatro estaciones con las tarjetas TENGO/QUIERO. | push out a plano general | SVG |
-| 34 | Sígueme para más trucos de control. | Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». | push in a la tarjeta | perrito-avatar.png |
+| 34 | En el siguiente vídeo: álgebra de bloques. | Tarjeta final «Siguiente · 08» con el título del próximo vídeo y el mapa de la serie. | push in a la tarjeta | SVG |
 
 ## Fuentes y comprobación
 

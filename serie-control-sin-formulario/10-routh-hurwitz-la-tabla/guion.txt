@@ -30,4 +30,4 @@ El error que más se repite: copiar un número en lugar de hacer la cruz.
 En clase, alguien puso dos donde iba diez, y toda la tabla dejó de ser del polinomio.
 Cada elemento sale de su cruz, sin excepción.
 Arma la tabla de ese a la cuarta más tres ese al cubo más ese al cuadrado más ocho ese más ocho sin mirar y busca los dos cambios.
-Sígueme para más trucos de control.
+En el siguiente vídeo: los casos especiales de Routh y el rango de k.

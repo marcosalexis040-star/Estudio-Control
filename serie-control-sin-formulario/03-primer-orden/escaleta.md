@@ -57,7 +57,7 @@ Mientras más a la izquierda está el polo, más rápido responde. || La × se v
 
 ## Cierre · #06d6a0
 Dibuja una curva de primer orden y marca 63 % y 98 % sin mirar. || Plano general de las seis estaciones unidas por el camino. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: segundo orden y el triángulo del polo. || Tarjeta final «Siguiente · 04» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

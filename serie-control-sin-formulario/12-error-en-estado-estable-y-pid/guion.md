@@ -8,8 +8,8 @@
 | publico | estudiantes de Ingeniería de Control que presentan el integrador sin formulario |
 | tema | e_ss por valor final, tipo, Kp y Kv, Integrador 1 (2025) problema 2, efecto de P, I y D, segunda regla de Ziegler-Nichols con Routh (Ej. 47) |
 | Frases | 34 |
-| Palabras | 550 |
-| Duración estimada | ~3:28 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
+| Palabras | 551 |
+| Duración estimada | ~3:29 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
 
 Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bien y rojo = mal, Inter en negrita a 46 px o más, iconos de Phosphor. Un solo mundo 2D: cada bloque es una estación unida por un camino que se dibuja mientras viaja la cámara. El perrito es la foto recortada `assets/perrito-recorte.png`; nunca tapa texto.
 
@@ -85,7 +85,7 @@ Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bie
 | # | Frase (voz) | Qué se ve | Cámara | Medio |
 |---:|---|---|---|---|
 | 33 | Haz la tabla de tipos cero, uno y dos contra escalón y rampa hasta que la escribas de memoria. | Plano general de las cinco estaciones; la tabla 2 × 3 en el centro. | push out a plano general | SVG |
-| 34 | Sígueme para más trucos de control. | Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». | push in a la tarjeta | perrito-avatar.png |
+| 34 | En el siguiente vídeo: variables de estado. | Tarjeta final «Siguiente · 13» con el título del próximo vídeo y el mapa de la serie. | push in a la tarjeta | SVG |
 
 ## Fuentes y comprobación
 

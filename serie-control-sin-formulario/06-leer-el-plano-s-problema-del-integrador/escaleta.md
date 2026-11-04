@@ -55,7 +55,7 @@ Y beta se mide desde el eje real negativo. || Tarjeta 3 a verde: arco desde el e
 
 ## Cierre · #06d6a0
 Dibuja tus cinco polos y responde las cinco preguntas en voz alta. || Plano general de las seis estaciones con las cinco casillas ✓. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: cómo encontrar a, b o k para lo que te piden. || Tarjeta final «Siguiente · 07» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

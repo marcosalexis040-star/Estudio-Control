@@ -31,4 +31,4 @@ Con esta estructura, salida en x1 y entrada en la última fila, la ganancia de r
 Si te piden el diagrama: la referencia pasa por k3, entra a un sumador, y le restas k1 por x1 y k2 por x2.
 La salida del sumador es u, que entra a la planta, y los dos estados regresan por sus ganancias.
 Repite el examen cuatro con polos dobles en menos tres, y comprueba que k1 sale nueve y k2 sale seis.
-Sígueme para más trucos de control.
+En el siguiente vídeo: los diez errores que quitan puntos en el integrador.

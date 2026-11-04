@@ -53,7 +53,7 @@ El tipo decide si hay error; la ganancia decide cuánto; y Routh decide si todo 
 
 ## Cierre · #06d6a0
 Haz la tabla de tipos cero, uno y dos contra escalón y rampa hasta que la escribas de memoria. || Plano general de las cinco estaciones; la tabla 2 × 3 en el centro. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: variables de estado. || Tarjeta final «Siguiente · 13» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

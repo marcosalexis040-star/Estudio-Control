@@ -1,0 +1,10 @@
+{
+  "name": "produccion-control-sin-formulario",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@phosphor-icons/core": "^2.1.1",
+    "hyperframes": "^0.9.9",
+    "katex": "^0.16.22"
+  }
+}

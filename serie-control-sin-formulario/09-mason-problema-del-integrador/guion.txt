@@ -31,4 +31,4 @@ Solo sobrevive la rama de abajo, y reducida a mano da ese más a, entre ese al c
 Tu fórmula de Mason con k igual a cero debe dar lo mismo, y da lo mismo.
 El error que más puntos quitó: multiplicar lazos que sí se tocan.
 Marca cada lazo con un color y busca los pares sin nodos en común.
-Sígueme para más trucos de control.
+En el siguiente vídeo: la tabla de Routh.

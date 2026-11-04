@@ -8,7 +8,7 @@
 | publico | estudiantes de Ingeniería de Control que presentan el integrador sin formulario |
 | tema | ẋ = Ax + Bu, y = Cx; forma canónica controlable; diagrama de integradores; G(s) = C(sI − A)⁻¹B con la inversa 2 × 2; det(sI − A) = polos; ejercicio de prueba en paralelo (forma diagonal); integrador con amplificador operacional |
 | Frases | 34 |
-| Palabras | 540 |
+| Palabras | 541 |
 | Duración estimada | ~3:25 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
 
 Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bien y rojo = mal, Inter en negrita a 46 px o más, iconos de Phosphor. Un solo mundo 2D: cada bloque es una estación unida por un camino que se dibuja mientras viaja la cámara. El perrito es la foto recortada `assets/perrito-recorte.png`; nunca tapa texto.
@@ -90,7 +90,7 @@ Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bie
 | # | Frase (voz) | Qué se ve | Cámara | Medio |
 |---:|---|---|---|---|
 | 33 | Practica la inversa de dos por dos con tres matrices distintas hasta que salga sola. | Plano general de las seis estaciones. | push out a plano general | SVG |
-| 34 | Sígueme para más trucos de control. | Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». | push in a la tarjeta | perrito-avatar.png |
+| 34 | En el siguiente vídeo: retroalimentación de estados. | Tarjeta final «Siguiente · 14» con el título del próximo vídeo y el mapa de la serie. | push in a la tarjeta | SVG |
 
 ## Fuentes y comprobación
 

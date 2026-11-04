@@ -53,7 +53,7 @@ El error que más puntos quitó: multiplicar lazos que sí se tocan. || Tarjeta 
 
 ## Cierre · #06d6a0
 Marca cada lazo con un color y busca los pares sin nodos en común. || Plano general de las cinco estaciones con los cuatro lazos coloreados. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: la tabla de Routh. || Tarjeta final «Siguiente · 10» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

@@ -54,7 +54,7 @@ Lo calculas directo del polo, sin pasar por zeta. || Tarjeta verde «polo → M�
 
 ## Cierre · #06d6a0
 Escribe la respuesta al escalón y saca las cuatro fórmulas tú solo, sin mirar. || Plano general: las cinco estaciones, cada tarjeta unida a la ecuación central. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: el problema de los cinco polos del integrador. || Tarjeta final «Siguiente · 06» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

@@ -30,4 +30,4 @@ Recuerda la frase que une todo el curso.
 Los polos lo deciden todo: si es estable, qué tan rápido, cuánto se pasa y cuánto oscila.
 Laplace los encuentra, los diagramas los esconden, Routh los cuenta y la retroalimentación los mueve.
 Repasa la serie completa una vez antes del examen.
-Sígueme para más trucos de control.
+Mucho éxito en tu integrador.

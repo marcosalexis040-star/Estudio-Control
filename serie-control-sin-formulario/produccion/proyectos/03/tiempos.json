@@ -1,0 +1,2681 @@
+{
+ "video": "03-primer-orden",
+ "voz": "em_alex",
+ "duracion": 148.779,
+ "bloques": [
+  {
+   "nombre": "Gancho",
+   "color": "#ff5a5f"
+  },
+  {
+   "nombre": "Forma estándar",
+   "color": "#4da3ff"
+  },
+  {
+   "nombre": "Normalizar",
+   "color": "#ffd166"
+  },
+  {
+   "nombre": "Respuesta al escalón",
+   "color": "#06d6a0"
+  },
+  {
+   "nombre": "Leer una gráfica",
+   "color": "#c77dff"
+  },
+  {
+   "nombre": "Circuito RC",
+   "color": "#ff9f1c"
+  },
+  {
+   "nombre": "Rampa e impulso",
+   "color": "#4da3ff"
+  },
+  {
+   "nombre": "Clímax",
+   "color": "lo que más confunde · #ff5a5f"
+  },
+  {
+   "nombre": "Cierre",
+   "color": "#06d6a0"
+  }
+ ],
+ "frases": [
+  {
+   "bloque": 0,
+   "frase": 0,
+   "texto": "En una gráfica de primer orden hay un número escondido que te da medio problema.",
+   "dicho": "En una gráfica de primer orden hay un número escondido que te da medio problema.",
+   "camara": "push in rápido",
+   "inicio": 0.35,
+   "fin": 4.807,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 0.35,
+     "fin": 0.491
+    },
+    {
+     "w": "una",
+     "inicio": 0.491,
+     "fin": 0.704
+    },
+    {
+     "w": "gráfica",
+     "inicio": 0.704,
+     "fin": 1.199
+    },
+    {
+     "w": "de",
+     "inicio": 1.199,
+     "fin": 1.341
+    },
+    {
+     "w": "primer",
+     "inicio": 1.341,
+     "fin": 1.765
+    },
+    {
+     "w": "orden",
+     "inicio": 1.765,
+     "fin": 2.119
+    },
+    {
+     "w": "hay",
+     "inicio": 2.119,
+     "fin": 2.26
+    },
+    {
+     "w": "un",
+     "inicio": 2.26,
+     "fin": 2.402
+    },
+    {
+     "w": "número",
+     "inicio": 2.402,
+     "fin": 2.826
+    },
+    {
+     "w": "escondido",
+     "inicio": 2.826,
+     "fin": 3.463
+    },
+    {
+     "w": "que",
+     "inicio": 3.463,
+     "fin": 3.605
+    },
+    {
+     "w": "te",
+     "inicio": 3.605,
+     "fin": 3.746
+    },
+    {
+     "w": "da",
+     "inicio": 3.746,
+     "fin": 3.888
+    },
+    {
+     "w": "medio",
+     "inicio": 3.888,
+     "fin": 4.241
+    },
+    {
+     "w": "problema.",
+     "inicio": 4.241,
+     "fin": 4.807
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 1,
+   "texto": "Si no sabes dónde mirar, te quedas sin la constante de tiempo.",
+   "dicho": "Si no sabes dónde mirar, te quedas sin la constante de tiempo.",
+   "camara": "deriva lenta",
+   "inicio": 5.107,
+   "fin": 8.496,
+   "palabras": [
+    {
+     "w": "Si",
+     "inicio": 5.107,
+     "fin": 5.245
+    },
+    {
+     "w": "no",
+     "inicio": 5.245,
+     "fin": 5.383
+    },
+    {
+     "w": "sabes",
+     "inicio": 5.383,
+     "fin": 5.728
+    },
+    {
+     "w": "dónde",
+     "inicio": 5.728,
+     "fin": 6.073
+    },
+    {
+     "w": "mirar,",
+     "inicio": 6.073,
+     "fin": 6.417
+    },
+    {
+     "w": "te",
+     "inicio": 6.627,
+     "fin": 6.756
+    },
+    {
+     "w": "quedas",
+     "inicio": 6.756,
+     "fin": 7.078
+    },
+    {
+     "w": "sin",
+     "inicio": 7.078,
+     "fin": 7.272
+    },
+    {
+     "w": "la",
+     "inicio": 7.272,
+     "fin": 7.401
+    },
+    {
+     "w": "constante",
+     "inicio": 7.401,
+     "fin": 7.981
+    },
+    {
+     "w": "de",
+     "inicio": 7.981,
+     "fin": 8.11
+    },
+    {
+     "w": "tiempo.",
+     "inicio": 8.11,
+     "fin": 8.496
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 2,
+   "texto": "Hoy aprendes a leerla en tres segundos.",
+   "dicho": "Hoy aprendes a leerla en tres segundos.",
+   "camara": "push out",
+   "inicio": 8.796,
+   "fin": 11.235,
+   "palabras": [
+    {
+     "w": "Hoy",
+     "inicio": 8.796,
+     "fin": 8.954
+    },
+    {
+     "w": "aprendes",
+     "inicio": 8.954,
+     "fin": 9.583
+    },
+    {
+     "w": "a",
+     "inicio": 9.583,
+     "fin": 9.661
+    },
+    {
+     "w": "leerla",
+     "inicio": 9.661,
+     "fin": 10.133
+    },
+    {
+     "w": "en",
+     "inicio": 10.133,
+     "fin": 10.291
+    },
+    {
+     "w": "tres",
+     "inicio": 10.291,
+     "fin": 10.605
+    },
+    {
+     "w": "segundos.",
+     "inicio": 10.605,
+     "fin": 11.235
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 0,
+   "texto": "Un sistema de primer orden tiene un solo polo real.",
+   "dicho": "Un sistema de primer orden tiene un solo polo real.",
+   "camara": "viaje largo a la estación 1",
+   "inicio": 11.735,
+   "fin": 14.734,
+   "palabras": [
+    {
+     "w": "Un",
+     "inicio": 11.735,
+     "fin": 11.881
+    },
+    {
+     "w": "sistema",
+     "inicio": 11.881,
+     "fin": 12.393
+    },
+    {
+     "w": "de",
+     "inicio": 12.393,
+     "fin": 12.539
+    },
+    {
+     "w": "primer",
+     "inicio": 12.539,
+     "fin": 12.978
+    },
+    {
+     "w": "orden",
+     "inicio": 12.978,
+     "fin": 13.344
+    },
+    {
+     "w": "tiene",
+     "inicio": 13.344,
+     "fin": 13.71
+    },
+    {
+     "w": "un",
+     "inicio": 13.71,
+     "fin": 13.856
+    },
+    {
+     "w": "solo",
+     "inicio": 13.856,
+     "fin": 14.149
+    },
+    {
+     "w": "polo",
+     "inicio": 14.149,
+     "fin": 14.441
+    },
+    {
+     "w": "real.",
+     "inicio": 14.441,
+     "fin": 14.734
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 1,
+   "texto": "Su forma estándar es K entre tau ese más uno.",
+   "dicho": "Su forma estándar es K entre tau ese más uno.",
+   "camara": "push in",
+   "inicio": 15.034,
+   "fin": 17.884,
+   "palabras": [
+    {
+     "w": "Su",
+     "inicio": 15.034,
+     "fin": 15.192
+    },
+    {
+     "w": "forma",
+     "inicio": 15.192,
+     "fin": 15.588
+    },
+    {
+     "w": "estándar",
+     "inicio": 15.588,
+     "fin": 16.222
+    },
+    {
+     "w": "es",
+     "inicio": 16.222,
+     "fin": 16.38
+    },
+    {
+     "w": "K",
+     "inicio": 16.38,
+     "fin": 16.538
+    },
+    {
+     "w": "entre",
+     "inicio": 16.538,
+     "fin": 16.934
+    },
+    {
+     "w": "tau",
+     "inicio": 16.934,
+     "fin": 17.172
+    },
+    {
+     "w": "ese",
+     "inicio": 17.172,
+     "fin": 17.409
+    },
+    {
+     "w": "más",
+     "inicio": 17.409,
+     "fin": 17.647
+    },
+    {
+     "w": "uno.",
+     "inicio": 17.647,
+     "fin": 17.884
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 2,
+   "texto": "K es la ganancia: cuánto vale la salida final por cada unidad de entrada.",
+   "dicho": "K es la ganancia: cuánto vale la salida final por cada unidad de entrada.",
+   "camara": "deriva lenta",
+   "inicio": 18.184,
+   "fin": 22.358,
+   "palabras": [
+    {
+     "w": "K",
+     "inicio": 18.184,
+     "fin": 18.326
+    },
+    {
+     "w": "es",
+     "inicio": 18.326,
+     "fin": 18.467
+    },
+    {
+     "w": "la",
+     "inicio": 18.467,
+     "fin": 18.609
+    },
+    {
+     "w": "ganancia:",
+     "inicio": 18.609,
+     "fin": 19.174
+    },
+    {
+     "w": "cuánto",
+     "inicio": 19.434,
+     "fin": 19.824
+    },
+    {
+     "w": "vale",
+     "inicio": 19.824,
+     "fin": 20.084
+    },
+    {
+     "w": "la",
+     "inicio": 20.084,
+     "fin": 20.214
+    },
+    {
+     "w": "salida",
+     "inicio": 20.214,
+     "fin": 20.604
+    },
+    {
+     "w": "final",
+     "inicio": 20.604,
+     "fin": 20.929
+    },
+    {
+     "w": "por",
+     "inicio": 20.929,
+     "fin": 21.124
+    },
+    {
+     "w": "cada",
+     "inicio": 21.124,
+     "fin": 21.384
+    },
+    {
+     "w": "unidad",
+     "inicio": 21.384,
+     "fin": 21.774
+    },
+    {
+     "w": "de",
+     "inicio": 21.774,
+     "fin": 21.903
+    },
+    {
+     "w": "entrada.",
+     "inicio": 21.903,
+     "fin": 22.358
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 3,
+   "texto": "Tau es la constante de tiempo: qué tan rápido llega.",
+   "dicho": "Tau es la constante de tiempo: qué tan rápido llega.",
+   "camara": "deriva lenta",
+   "inicio": 22.658,
+   "fin": 25.61,
+   "palabras": [
+    {
+     "w": "Tau",
+     "inicio": 22.658,
+     "fin": 22.856
+    },
+    {
+     "w": "es",
+     "inicio": 22.856,
+     "fin": 22.988
+    },
+    {
+     "w": "la",
+     "inicio": 22.988,
+     "fin": 23.119
+    },
+    {
+     "w": "constante",
+     "inicio": 23.119,
+     "fin": 23.712
+    },
+    {
+     "w": "de",
+     "inicio": 23.712,
+     "fin": 23.843
+    },
+    {
+     "w": "tiempo:",
+     "inicio": 23.843,
+     "fin": 24.238
+    },
+    {
+     "w": "qué",
+     "inicio": 24.348,
+     "fin": 24.517
+    },
+    {
+     "w": "tan",
+     "inicio": 24.517,
+     "fin": 24.769
+    },
+    {
+     "w": "rápido",
+     "inicio": 24.769,
+     "fin": 25.274
+    },
+    {
+     "w": "llega.",
+     "inicio": 25.274,
+     "fin": 25.61
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 4,
+   "texto": "El polo está en menos uno entre tau.",
+   "dicho": "El polo está en menos uno entre tau.",
+   "camara": "push in al plano",
+   "inicio": 25.91,
+   "fin": 28.159,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 25.91,
+     "fin": 26.071
+    },
+    {
+     "w": "polo",
+     "inicio": 26.071,
+     "fin": 26.392
+    },
+    {
+     "w": "está",
+     "inicio": 26.392,
+     "fin": 26.713
+    },
+    {
+     "w": "en",
+     "inicio": 26.713,
+     "fin": 26.874
+    },
+    {
+     "w": "menos",
+     "inicio": 26.874,
+     "fin": 27.276
+    },
+    {
+     "w": "uno",
+     "inicio": 27.276,
+     "fin": 27.517
+    },
+    {
+     "w": "entre",
+     "inicio": 27.517,
+     "fin": 27.918
+    },
+    {
+     "w": "tau.",
+     "inicio": 27.918,
+     "fin": 28.159
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 0,
+   "texto": "Primer error típico: leer K y tau sin normalizar.",
+   "dicho": "Primer error típico: leer K y tau sin normalizar.",
+   "camara": "viaje largo a la estación 2",
+   "inicio": 28.659,
+   "fin": 31.717,
+   "palabras": [
+    {
+     "w": "Primer",
+     "inicio": 28.659,
+     "fin": 29.12
+    },
+    {
+     "w": "error",
+     "inicio": 29.12,
+     "fin": 29.428
+    },
+    {
+     "w": "típico:",
+     "inicio": 29.428,
+     "fin": 29.889
+    },
+    {
+     "w": "leer",
+     "inicio": 29.999,
+     "fin": 30.298
+    },
+    {
+     "w": "K",
+     "inicio": 30.298,
+     "fin": 30.447
+    },
+    {
+     "w": "y",
+     "inicio": 30.447,
+     "fin": 30.522
+    },
+    {
+     "w": "tau",
+     "inicio": 30.522,
+     "fin": 30.746
+    },
+    {
+     "w": "sin",
+     "inicio": 30.746,
+     "fin": 30.97
+    },
+    {
+     "w": "normalizar.",
+     "inicio": 30.97,
+     "fin": 31.717
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 1,
+   "texto": "Con cuatro entre ese más dos, factoriza el dos de abajo.",
+   "dicho": "Con cuatro entre ese más dos, factoriza el dos de abajo.",
+   "camara": "push in",
+   "inicio": 32.017,
+   "fin": 35.23,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 32.017,
+     "fin": 32.229
+    },
+    {
+     "w": "cuatro",
+     "inicio": 32.229,
+     "fin": 32.651
+    },
+    {
+     "w": "entre",
+     "inicio": 32.651,
+     "fin": 33.004
+    },
+    {
+     "w": "ese",
+     "inicio": 33.004,
+     "fin": 33.215
+    },
+    {
+     "w": "más",
+     "inicio": 33.215,
+     "fin": 33.426
+    },
+    {
+     "w": "dos,",
+     "inicio": 33.426,
+     "fin": 33.637
+    },
+    {
+     "w": "factoriza",
+     "inicio": 33.787,
+     "fin": 34.406
+    },
+    {
+     "w": "el",
+     "inicio": 34.406,
+     "fin": 34.543
+    },
+    {
+     "w": "dos",
+     "inicio": 34.543,
+     "fin": 34.749
+    },
+    {
+     "w": "de",
+     "inicio": 34.749,
+     "fin": 34.886
+    },
+    {
+     "w": "abajo.",
+     "inicio": 34.886,
+     "fin": 35.23
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 2,
+   "texto": "Queda dos entre un medio de ese más uno.",
+   "dicho": "Queda dos entre un medio de ese más uno.",
+   "camara": "deriva lenta",
+   "inicio": 35.53,
+   "fin": 38.061,
+   "palabras": [
+    {
+     "w": "Queda",
+     "inicio": 35.53,
+     "fin": 35.867
+    },
+    {
+     "w": "dos",
+     "inicio": 35.867,
+     "fin": 36.12
+    },
+    {
+     "w": "entre",
+     "inicio": 36.12,
+     "fin": 36.542
+    },
+    {
+     "w": "un",
+     "inicio": 36.542,
+     "fin": 36.711
+    },
+    {
+     "w": "medio",
+     "inicio": 36.711,
+     "fin": 37.133
+    },
+    {
+     "w": "de",
+     "inicio": 37.133,
+     "fin": 37.301
+    },
+    {
+     "w": "ese",
+     "inicio": 37.301,
+     "fin": 37.554
+    },
+    {
+     "w": "más",
+     "inicio": 37.554,
+     "fin": 37.807
+    },
+    {
+     "w": "uno.",
+     "inicio": 37.807,
+     "fin": 38.061
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 3,
+   "texto": "Ahora sí: K vale dos y tau vale un medio.",
+   "dicho": "Ahora sí: K vale dos y tau vale un medio.",
+   "camara": "push in",
+   "inicio": 38.361,
+   "fin": 40.816,
+   "palabras": [
+    {
+     "w": "Ahora",
+     "inicio": 38.361,
+     "fin": 38.688
+    },
+    {
+     "w": "sí:",
+     "inicio": 38.688,
+     "fin": 38.852
+    },
+    {
+     "w": "K",
+     "inicio": 38.852,
+     "fin": 39.015
+    },
+    {
+     "w": "vale",
+     "inicio": 39.015,
+     "fin": 39.343
+    },
+    {
+     "w": "dos",
+     "inicio": 39.343,
+     "fin": 39.588
+    },
+    {
+     "w": "y",
+     "inicio": 39.588,
+     "fin": 39.67
+    },
+    {
+     "w": "tau",
+     "inicio": 39.67,
+     "fin": 39.916
+    },
+    {
+     "w": "vale",
+     "inicio": 39.916,
+     "fin": 40.243
+    },
+    {
+     "w": "un",
+     "inicio": 40.243,
+     "fin": 40.407
+    },
+    {
+     "w": "medio.",
+     "inicio": 40.407,
+     "fin": 40.816
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 0,
+   "texto": "Ante un escalón de amplitud A, la salida es K por A, por uno menos e a la menos t entre tau.",
+   "dicho": "Ante un escalón de amplitud A, la salida es K por A, por uno menos e a la menos t entre tau.",
+   "camara": "viaje largo a la estación 3",
+   "inicio": 41.316,
+   "fin": 46.365,
+   "palabras": [
+    {
+     "w": "Ante",
+     "inicio": 41.316,
+     "fin": 41.534
+    },
+    {
+     "w": "un",
+     "inicio": 41.534,
+     "fin": 41.644
+    },
+    {
+     "w": "escalón",
+     "inicio": 41.644,
+     "fin": 42.026
+    },
+    {
+     "w": "de",
+     "inicio": 42.026,
+     "fin": 42.135
+    },
+    {
+     "w": "amplitud",
+     "inicio": 42.135,
+     "fin": 42.572
+    },
+    {
+     "w": "A,",
+     "inicio": 42.572,
+     "fin": 42.626
+    },
+    {
+     "w": "la",
+     "inicio": 42.906,
+     "fin": 43.081
+    },
+    {
+     "w": "salida",
+     "inicio": 43.081,
+     "fin": 43.606
+    },
+    {
+     "w": "es",
+     "inicio": 43.606,
+     "fin": 43.781
+    },
+    {
+     "w": "K",
+     "inicio": 43.781,
+     "fin": 43.956
+    },
+    {
+     "w": "por",
+     "inicio": 43.956,
+     "fin": 44.219
+    },
+    {
+     "w": "A,",
+     "inicio": 44.219,
+     "fin": 44.306
+    },
+    {
+     "w": "por",
+     "inicio": 44.446,
+     "fin": 44.638
+    },
+    {
+     "w": "uno",
+     "inicio": 44.638,
+     "fin": 44.83
+    },
+    {
+     "w": "menos",
+     "inicio": 44.83,
+     "fin": 45.15
+    },
+    {
+     "w": "e",
+     "inicio": 45.15,
+     "fin": 45.214
+    },
+    {
+     "w": "a",
+     "inicio": 45.214,
+     "fin": 45.278
+    },
+    {
+     "w": "la",
+     "inicio": 45.278,
+     "fin": 45.406
+    },
+    {
+     "w": "menos",
+     "inicio": 45.406,
+     "fin": 45.726
+    },
+    {
+     "w": "t",
+     "inicio": 45.726,
+     "fin": 45.853
+    },
+    {
+     "w": "entre",
+     "inicio": 45.853,
+     "fin": 46.173
+    },
+    {
+     "w": "tau.",
+     "inicio": 46.173,
+     "fin": 46.365
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 1,
+   "texto": "En t igual a tau ya llegó al 63 %.",
+   "dicho": "En t igual a tau ya llegó al 63 %.",
+   "camara": "push in",
+   "inicio": 46.665,
+   "fin": 49.79,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 46.665,
+     "fin": 46.814
+    },
+    {
+     "w": "t",
+     "inicio": 46.814,
+     "fin": 46.963
+    },
+    {
+     "w": "igual",
+     "inicio": 46.963,
+     "fin": 47.335
+    },
+    {
+     "w": "a",
+     "inicio": 47.335,
+     "fin": 47.409
+    },
+    {
+     "w": "tau",
+     "inicio": 47.409,
+     "fin": 47.633
+    },
+    {
+     "w": "ya",
+     "inicio": 47.633,
+     "fin": 47.781
+    },
+    {
+     "w": "llegó",
+     "inicio": 47.781,
+     "fin": 48.079
+    },
+    {
+     "w": "al",
+     "inicio": 48.079,
+     "fin": 48.228
+    },
+    {
+     "w": "63",
+     "inicio": 48.228,
+     "fin": 49.121
+    },
+    {
+     "w": "%.",
+     "inicio": 49.121,
+     "fin": 49.79
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 2,
+   "texto": "En cuatro tau, al 98 %: ese es el tiempo de establecimiento.",
+   "dicho": "En cuatro tau, al 98 %: ese es el tiempo de establecimiento.",
+   "camara": "pan con desenfoque",
+   "inicio": 50.09,
+   "fin": 54.672,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 50.09,
+     "fin": 50.233
+    },
+    {
+     "w": "cuatro",
+     "inicio": 50.233,
+     "fin": 50.663
+    },
+    {
+     "w": "tau,",
+     "inicio": 50.663,
+     "fin": 50.878
+    },
+    {
+     "w": "al",
+     "inicio": 50.878,
+     "fin": 51.021
+    },
+    {
+     "w": "98",
+     "inicio": 51.021,
+     "fin": 51.88
+    },
+    {
+     "w": "%:",
+     "inicio": 51.88,
+     "fin": 52.524
+    },
+    {
+     "w": "ese",
+     "inicio": 52.524,
+     "fin": 52.739
+    },
+    {
+     "w": "es",
+     "inicio": 52.739,
+     "fin": 52.882
+    },
+    {
+     "w": "el",
+     "inicio": 52.882,
+     "fin": 53.026
+    },
+    {
+     "w": "tiempo",
+     "inicio": 53.026,
+     "fin": 53.455
+    },
+    {
+     "w": "de",
+     "inicio": 53.455,
+     "fin": 53.598
+    },
+    {
+     "w": "establecimiento.",
+     "inicio": 53.598,
+     "fin": 54.672
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 3,
+   "texto": "Y la tangente en el origen corta el valor final justo en t igual a tau.",
+   "dicho": "Y la tangente en el origen corta el valor final justo en t igual a tau.",
+   "camara": "deriva lenta",
+   "inicio": 54.972,
+   "fin": 58.96,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 54.972,
+     "fin": 55.043
+    },
+    {
+     "w": "la",
+     "inicio": 55.043,
+     "fin": 55.186
+    },
+    {
+     "w": "tangente",
+     "inicio": 55.186,
+     "fin": 55.755
+    },
+    {
+     "w": "en",
+     "inicio": 55.755,
+     "fin": 55.898
+    },
+    {
+     "w": "el",
+     "inicio": 55.898,
+     "fin": 56.04
+    },
+    {
+     "w": "origen",
+     "inicio": 56.04,
+     "fin": 56.467
+    },
+    {
+     "w": "corta",
+     "inicio": 56.467,
+     "fin": 56.823
+    },
+    {
+     "w": "el",
+     "inicio": 56.823,
+     "fin": 56.966
+    },
+    {
+     "w": "valor",
+     "inicio": 56.966,
+     "fin": 57.322
+    },
+    {
+     "w": "final",
+     "inicio": 57.322,
+     "fin": 57.678
+    },
+    {
+     "w": "justo",
+     "inicio": 57.678,
+     "fin": 58.034
+    },
+    {
+     "w": "en",
+     "inicio": 58.034,
+     "fin": 58.176
+    },
+    {
+     "w": "t",
+     "inicio": 58.176,
+     "fin": 58.319
+    },
+    {
+     "w": "igual",
+     "inicio": 58.319,
+     "fin": 58.675
+    },
+    {
+     "w": "a",
+     "inicio": 58.675,
+     "fin": 58.746
+    },
+    {
+     "w": "tau.",
+     "inicio": 58.746,
+     "fin": 58.96
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 4,
+   "texto": "Sin formulario, estos números salen de e: e a la menos uno es 0.37 y e a la menos cuatro, 0.02.",
+   "dicho": "Sin formulario, estos números salen de e: e a la menos uno es 0.37 y e a la menos cuatro, 0.02.",
+   "camara": "push in",
+   "inicio": 59.26,
+   "fin": 66.678,
+   "palabras": [
+    {
+     "w": "Sin",
+     "inicio": 59.26,
+     "fin": 59.772
+    },
+    {
+     "w": "formulario,",
+     "inicio": 59.772,
+     "fin": 61.48
+    },
+    {
+     "w": "estos",
+     "inicio": 61.95,
+     "fin": 62.505
+    },
+    {
+     "w": "números",
+     "inicio": 62.505,
+     "fin": 63.282
+    },
+    {
+     "w": "salen",
+     "inicio": 63.282,
+     "fin": 63.837
+    },
+    {
+     "w": "de",
+     "inicio": 63.837,
+     "fin": 64.059
+    },
+    {
+     "w": "e:",
+     "inicio": 64.059,
+     "fin": 64.17
+    },
+    {
+     "w": "e",
+     "inicio": 64.28,
+     "fin": 64.291
+    },
+    {
+     "w": "a",
+     "inicio": 64.291,
+     "fin": 64.303
+    },
+    {
+     "w": "la",
+     "inicio": 64.303,
+     "fin": 64.326
+    },
+    {
+     "w": "menos",
+     "inicio": 64.326,
+     "fin": 64.383
+    },
+    {
+     "w": "uno",
+     "inicio": 64.383,
+     "fin": 64.418
+    },
+    {
+     "w": "es",
+     "inicio": 64.418,
+     "fin": 64.441
+    },
+    {
+     "w": "0.37",
+     "inicio": 64.441,
+     "fin": 64.695
+    },
+    {
+     "w": "y",
+     "inicio": 64.695,
+     "fin": 64.706
+    },
+    {
+     "w": "e",
+     "inicio": 64.706,
+     "fin": 64.718
+    },
+    {
+     "w": "a",
+     "inicio": 64.718,
+     "fin": 64.73
+    },
+    {
+     "w": "la",
+     "inicio": 64.73,
+     "fin": 64.753
+    },
+    {
+     "w": "menos",
+     "inicio": 64.753,
+     "fin": 64.81
+    },
+    {
+     "w": "cuatro,",
+     "inicio": 64.81,
+     "fin": 64.88
+    },
+    {
+     "w": "0.02.",
+     "inicio": 64.99,
+     "fin": 66.678
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 0,
+   "texto": "Para identificar un modelo con una gráfica, haz dos lecturas.",
+   "dicho": "Para identificar un modelo con una gráfica, haz dos lecturas.",
+   "camara": "viaje largo a la estación 4",
+   "inicio": 67.178,
+   "fin": 70.594,
+   "palabras": [
+    {
+     "w": "Para",
+     "inicio": 67.178,
+     "fin": 67.5
+    },
+    {
+     "w": "identificar",
+     "inicio": 67.5,
+     "fin": 68.386
+    },
+    {
+     "w": "un",
+     "inicio": 68.386,
+     "fin": 68.547
+    },
+    {
+     "w": "modelo",
+     "inicio": 68.547,
+     "fin": 69.031
+    },
+    {
+     "w": "con",
+     "inicio": 69.031,
+     "fin": 69.272
+    },
+    {
+     "w": "una",
+     "inicio": 69.272,
+     "fin": 69.514
+    },
+    {
+     "w": "gráfica,",
+     "inicio": 69.514,
+     "fin": 70.078
+    },
+    {
+     "w": "haz",
+     "inicio": 70.208,
+     "fin": 70.267
+    },
+    {
+     "w": "dos",
+     "inicio": 70.267,
+     "fin": 70.356
+    },
+    {
+     "w": "lecturas.",
+     "inicio": 70.356,
+     "fin": 70.594
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 1,
+   "texto": "El valor final entre la amplitud de la entrada te da K.",
+   "dicho": "El valor final entre la amplitud de la entrada te da K.",
+   "camara": "push in",
+   "inicio": 70.894,
+   "fin": 74.125,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 70.894,
+     "fin": 71.041
+    },
+    {
+     "w": "valor",
+     "inicio": 71.041,
+     "fin": 71.408
+    },
+    {
+     "w": "final",
+     "inicio": 71.408,
+     "fin": 71.775
+    },
+    {
+     "w": "entre",
+     "inicio": 71.775,
+     "fin": 72.142
+    },
+    {
+     "w": "la",
+     "inicio": 72.142,
+     "fin": 72.289
+    },
+    {
+     "w": "amplitud",
+     "inicio": 72.289,
+     "fin": 72.877
+    },
+    {
+     "w": "de",
+     "inicio": 72.877,
+     "fin": 73.023
+    },
+    {
+     "w": "la",
+     "inicio": 73.023,
+     "fin": 73.17
+    },
+    {
+     "w": "entrada",
+     "inicio": 73.17,
+     "fin": 73.684
+    },
+    {
+     "w": "te",
+     "inicio": 73.684,
+     "fin": 73.831
+    },
+    {
+     "w": "da",
+     "inicio": 73.831,
+     "fin": 73.978
+    },
+    {
+     "w": "K.",
+     "inicio": 73.978,
+     "fin": 74.125
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 2,
+   "texto": "El tiempo donde llega al 63 % de ese valor final te da tau.",
+   "dicho": "El tiempo donde llega al 63 % de ese valor final te da tau.",
+   "camara": "deriva lenta",
+   "inicio": 74.425,
+   "fin": 78.925,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 74.425,
+     "fin": 74.57
+    },
+    {
+     "w": "tiempo",
+     "inicio": 74.57,
+     "fin": 75.005
+    },
+    {
+     "w": "donde",
+     "inicio": 75.005,
+     "fin": 75.368
+    },
+    {
+     "w": "llega",
+     "inicio": 75.368,
+     "fin": 75.659
+    },
+    {
+     "w": "al",
+     "inicio": 75.659,
+     "fin": 75.804
+    },
+    {
+     "w": "63",
+     "inicio": 75.804,
+     "fin": 76.675
+    },
+    {
+     "w": "%",
+     "inicio": 76.675,
+     "fin": 77.328
+    },
+    {
+     "w": "de",
+     "inicio": 77.328,
+     "fin": 77.474
+    },
+    {
+     "w": "ese",
+     "inicio": 77.474,
+     "fin": 77.691
+    },
+    {
+     "w": "valor",
+     "inicio": 77.691,
+     "fin": 78.054
+    },
+    {
+     "w": "final",
+     "inicio": 78.054,
+     "fin": 78.417
+    },
+    {
+     "w": "te",
+     "inicio": 78.417,
+     "fin": 78.562
+    },
+    {
+     "w": "da",
+     "inicio": 78.562,
+     "fin": 78.708
+    },
+    {
+     "w": "tau.",
+     "inicio": 78.708,
+     "fin": 78.925
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 3,
+   "texto": "Ejemplo del libro: un termómetro llega al 98 % en un minuto.",
+   "dicho": "Ejemplo del libro: un termómetro llega al 98 % en un minuto.",
+   "camara": "pan con desenfoque",
+   "inicio": 79.225,
+   "fin": 83.794,
+   "palabras": [
+    {
+     "w": "Ejemplo",
+     "inicio": 79.225,
+     "fin": 79.669
+    },
+    {
+     "w": "del",
+     "inicio": 79.669,
+     "fin": 79.859
+    },
+    {
+     "w": "libro:",
+     "inicio": 79.859,
+     "fin": 80.175
+    },
+    {
+     "w": "un",
+     "inicio": 80.475,
+     "fin": 80.611
+    },
+    {
+     "w": "termómetro",
+     "inicio": 80.611,
+     "fin": 81.288
+    },
+    {
+     "w": "llega",
+     "inicio": 81.288,
+     "fin": 81.559
+    },
+    {
+     "w": "al",
+     "inicio": 81.559,
+     "fin": 81.694
+    },
+    {
+     "w": "98",
+     "inicio": 81.694,
+     "fin": 82.507
+    },
+    {
+     "w": "%",
+     "inicio": 82.507,
+     "fin": 83.117
+    },
+    {
+     "w": "en",
+     "inicio": 83.117,
+     "fin": 83.252
+    },
+    {
+     "w": "un",
+     "inicio": 83.252,
+     "fin": 83.387
+    },
+    {
+     "w": "minuto.",
+     "inicio": 83.387,
+     "fin": 83.794
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 4,
+   "texto": "Eso es cuatro tau, así que tau es un cuarto de minuto.",
+   "dicho": "Eso es cuatro tau, así que tau es un cuarto de minuto.",
+   "camara": "push in",
+   "inicio": 84.094,
+   "fin": 87.069,
+   "palabras": [
+    {
+     "w": "Eso",
+     "inicio": 84.094,
+     "fin": 84.317
+    },
+    {
+     "w": "es",
+     "inicio": 84.317,
+     "fin": 84.466
+    },
+    {
+     "w": "cuatro",
+     "inicio": 84.466,
+     "fin": 84.912
+    },
+    {
+     "w": "tau,",
+     "inicio": 84.912,
+     "fin": 85.135
+    },
+    {
+     "w": "así",
+     "inicio": 85.135,
+     "fin": 85.358
+    },
+    {
+     "w": "que",
+     "inicio": 85.358,
+     "fin": 85.507
+    },
+    {
+     "w": "tau",
+     "inicio": 85.507,
+     "fin": 85.73
+    },
+    {
+     "w": "es",
+     "inicio": 85.73,
+     "fin": 85.879
+    },
+    {
+     "w": "un",
+     "inicio": 85.879,
+     "fin": 86.027
+    },
+    {
+     "w": "cuarto",
+     "inicio": 86.027,
+     "fin": 86.474
+    },
+    {
+     "w": "de",
+     "inicio": 86.474,
+     "fin": 86.622
+    },
+    {
+     "w": "minuto.",
+     "inicio": 86.622,
+     "fin": 87.069
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 0,
+   "texto": "El circuito RC es el primer orden de manual.",
+   "dicho": "El circuito RC es el primer orden de manual.",
+   "camara": "viaje largo a la estación 5",
+   "inicio": 87.569,
+   "fin": 90.557,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 87.569,
+     "fin": 87.726
+    },
+    {
+     "w": "circuito",
+     "inicio": 87.726,
+     "fin": 88.355
+    },
+    {
+     "w": "RC",
+     "inicio": 88.355,
+     "fin": 88.748
+    },
+    {
+     "w": "es",
+     "inicio": 88.748,
+     "fin": 88.905
+    },
+    {
+     "w": "el",
+     "inicio": 88.905,
+     "fin": 89.063
+    },
+    {
+     "w": "primer",
+     "inicio": 89.063,
+     "fin": 89.535
+    },
+    {
+     "w": "orden",
+     "inicio": 89.535,
+     "fin": 89.928
+    },
+    {
+     "w": "de",
+     "inicio": 89.928,
+     "fin": 90.085
+    },
+    {
+     "w": "manual.",
+     "inicio": 90.085,
+     "fin": 90.557
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 1,
+   "texto": "El voltaje del capacitor entre el de entrada es uno entre RC ese más uno.",
+   "dicho": "El voltaje del capacitor entre el de entrada es uno entre RC ese más uno.",
+   "camara": "push in",
+   "inicio": 90.857,
+   "fin": 95.295,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 90.857,
+     "fin": 91.002
+    },
+    {
+     "w": "voltaje",
+     "inicio": 91.002,
+     "fin": 91.512
+    },
+    {
+     "w": "del",
+     "inicio": 91.512,
+     "fin": 91.73
+    },
+    {
+     "w": "capacitor",
+     "inicio": 91.73,
+     "fin": 92.385
+    },
+    {
+     "w": "entre",
+     "inicio": 92.385,
+     "fin": 92.749
+    },
+    {
+     "w": "el",
+     "inicio": 92.749,
+     "fin": 92.894
+    },
+    {
+     "w": "de",
+     "inicio": 92.894,
+     "fin": 93.04
+    },
+    {
+     "w": "entrada",
+     "inicio": 93.04,
+     "fin": 93.549
+    },
+    {
+     "w": "es",
+     "inicio": 93.549,
+     "fin": 93.695
+    },
+    {
+     "w": "uno",
+     "inicio": 93.695,
+     "fin": 93.913
+    },
+    {
+     "w": "entre",
+     "inicio": 93.913,
+     "fin": 94.277
+    },
+    {
+     "w": "RC",
+     "inicio": 94.277,
+     "fin": 94.641
+    },
+    {
+     "w": "ese",
+     "inicio": 94.641,
+     "fin": 94.859
+    },
+    {
+     "w": "más",
+     "inicio": 94.859,
+     "fin": 95.077
+    },
+    {
+     "w": "uno.",
+     "inicio": 95.077,
+     "fin": 95.295
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 2,
+   "texto": "Así que tau es R por C, y K es uno.",
+   "dicho": "Así que tau es R por C, y K es uno.",
+   "camara": "deriva lenta",
+   "inicio": 95.595,
+   "fin": 97.903,
+   "palabras": [
+    {
+     "w": "Así",
+     "inicio": 95.595,
+     "fin": 95.862
+    },
+    {
+     "w": "que",
+     "inicio": 95.862,
+     "fin": 96.039
+    },
+    {
+     "w": "tau",
+     "inicio": 96.039,
+     "fin": 96.305
+    },
+    {
+     "w": "es",
+     "inicio": 96.305,
+     "fin": 96.483
+    },
+    {
+     "w": "R",
+     "inicio": 96.483,
+     "fin": 96.749
+    },
+    {
+     "w": "por",
+     "inicio": 96.749,
+     "fin": 97.015
+    },
+    {
+     "w": "C,",
+     "inicio": 97.015,
+     "fin": 97.193
+    },
+    {
+     "w": "y",
+     "inicio": 97.193,
+     "fin": 97.282
+    },
+    {
+     "w": "K",
+     "inicio": 97.282,
+     "fin": 97.459
+    },
+    {
+     "w": "es",
+     "inicio": 97.459,
+     "fin": 97.637
+    },
+    {
+     "w": "uno.",
+     "inicio": 97.637,
+     "fin": 97.903
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 0,
+   "texto": "Con una rampa unitaria y K igual a uno, la salida la sigue con un retraso.",
+   "dicho": "Con una rampa unitaria y K igual a uno, la salida la sigue con un retraso.",
+   "camara": "viaje largo a la estación 6",
+   "inicio": 98.403,
+   "fin": 102.822,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 98.403,
+     "fin": 98.625
+    },
+    {
+     "w": "una",
+     "inicio": 98.625,
+     "fin": 98.848
+    },
+    {
+     "w": "rampa",
+     "inicio": 98.848,
+     "fin": 99.219
+    },
+    {
+     "w": "unitaria",
+     "inicio": 99.219,
+     "fin": 99.813
+    },
+    {
+     "w": "y",
+     "inicio": 99.813,
+     "fin": 99.887
+    },
+    {
+     "w": "K",
+     "inicio": 99.887,
+     "fin": 100.035
+    },
+    {
+     "w": "igual",
+     "inicio": 100.035,
+     "fin": 100.406
+    },
+    {
+     "w": "a",
+     "inicio": 100.406,
+     "fin": 100.48
+    },
+    {
+     "w": "uno,",
+     "inicio": 100.48,
+     "fin": 100.703
+    },
+    {
+     "w": "la",
+     "inicio": 100.963,
+     "fin": 101.106
+    },
+    {
+     "w": "salida",
+     "inicio": 101.106,
+     "fin": 101.535
+    },
+    {
+     "w": "la",
+     "inicio": 101.535,
+     "fin": 101.678
+    },
+    {
+     "w": "sigue",
+     "inicio": 101.678,
+     "fin": 101.964
+    },
+    {
+     "w": "con",
+     "inicio": 101.964,
+     "fin": 102.179
+    },
+    {
+     "w": "un",
+     "inicio": 102.179,
+     "fin": 102.322
+    },
+    {
+     "w": "retraso.",
+     "inicio": 102.322,
+     "fin": 102.822
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 1,
+   "texto": "Y el error en estado estable es exactamente tau.",
+   "dicho": "Y el error en estado estable es exactamente tau.",
+   "camara": "push in",
+   "inicio": 103.122,
+   "fin": 105.996,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 103.122,
+     "fin": 103.196
+    },
+    {
+     "w": "el",
+     "inicio": 103.196,
+     "fin": 103.343
+    },
+    {
+     "w": "error",
+     "inicio": 103.343,
+     "fin": 103.638
+    },
+    {
+     "w": "en",
+     "inicio": 103.638,
+     "fin": 103.785
+    },
+    {
+     "w": "estado",
+     "inicio": 103.785,
+     "fin": 104.228
+    },
+    {
+     "w": "estable",
+     "inicio": 104.228,
+     "fin": 104.744
+    },
+    {
+     "w": "es",
+     "inicio": 104.744,
+     "fin": 104.891
+    },
+    {
+     "w": "exactamente",
+     "inicio": 104.891,
+     "fin": 105.775
+    },
+    {
+     "w": "tau.",
+     "inicio": 105.775,
+     "fin": 105.996
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 2,
+   "texto": "En el libro, el termómetro en un baño que sube 10 grados por minuto se queda 2.5 grados atrás.",
+   "dicho": "En el libro, el termómetro en un baño que sube 10 grados por minuto se queda 2.5 grados atrás.",
+   "camara": "deriva lenta",
+   "inicio": 106.296,
+   "fin": 112.609,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 106.296,
+     "fin": 107.15
+    },
+    {
+     "w": "el",
+     "inicio": 107.15,
+     "fin": 108.003
+    },
+    {
+     "w": "libro,",
+     "inicio": 108.003,
+     "fin": 110.136
+    },
+    {
+     "w": "el",
+     "inicio": 110.386,
+     "fin": 110.446
+    },
+    {
+     "w": "termómetro",
+     "inicio": 110.446,
+     "fin": 110.742
+    },
+    {
+     "w": "en",
+     "inicio": 110.742,
+     "fin": 110.801
+    },
+    {
+     "w": "un",
+     "inicio": 110.801,
+     "fin": 110.86
+    },
+    {
+     "w": "baño",
+     "inicio": 110.86,
+     "fin": 110.979
+    },
+    {
+     "w": "que",
+     "inicio": 110.979,
+     "fin": 111.038
+    },
+    {
+     "w": "sube",
+     "inicio": 111.038,
+     "fin": 111.157
+    },
+    {
+     "w": "10",
+     "inicio": 111.157,
+     "fin": 111.275
+    },
+    {
+     "w": "grados",
+     "inicio": 111.275,
+     "fin": 111.453
+    },
+    {
+     "w": "por",
+     "inicio": 111.453,
+     "fin": 111.542
+    },
+    {
+     "w": "minuto",
+     "inicio": 111.542,
+     "fin": 111.72
+    },
+    {
+     "w": "se",
+     "inicio": 111.72,
+     "fin": 111.779
+    },
+    {
+     "w": "queda",
+     "inicio": 111.779,
+     "fin": 111.898
+    },
+    {
+     "w": "2.5",
+     "inicio": 111.898,
+     "fin": 112.283
+    },
+    {
+     "w": "grados",
+     "inicio": 112.283,
+     "fin": 112.461
+    },
+    {
+     "w": "atrás.",
+     "inicio": 112.461,
+     "fin": 112.609
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 3,
+   "texto": "Con un impulso, la salida salta a K entre tau y decae.",
+   "dicho": "Con un impulso, la salida salta a K entre tau y decae.",
+   "camara": "pan con desenfoque",
+   "inicio": 112.909,
+   "fin": 116.097,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 112.909,
+     "fin": 113.136
+    },
+    {
+     "w": "un",
+     "inicio": 113.136,
+     "fin": 113.288
+    },
+    {
+     "w": "impulso,",
+     "inicio": 113.288,
+     "fin": 113.82
+    },
+    {
+     "w": "la",
+     "inicio": 113.82,
+     "fin": 113.971
+    },
+    {
+     "w": "salida",
+     "inicio": 113.971,
+     "fin": 114.427
+    },
+    {
+     "w": "salta",
+     "inicio": 114.427,
+     "fin": 114.807
+    },
+    {
+     "w": "a",
+     "inicio": 114.807,
+     "fin": 114.882
+    },
+    {
+     "w": "K",
+     "inicio": 114.882,
+     "fin": 115.034
+    },
+    {
+     "w": "entre",
+     "inicio": 115.034,
+     "fin": 115.414
+    },
+    {
+     "w": "tau",
+     "inicio": 115.414,
+     "fin": 115.642
+    },
+    {
+     "w": "y",
+     "inicio": 115.642,
+     "fin": 115.717
+    },
+    {
+     "w": "decae.",
+     "inicio": 115.717,
+     "fin": 116.097
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 4,
+   "texto": "Y no memorices tres respuestas: la del impulso es la derivada de la del escalón, y esta, la derivada de la de la rampa.",
+   "dicho": "Y no memorices tres respuestas: la del impulso es la derivada de la del escalón, y esta, la derivada de la de la rampa.",
+   "camara": "push out",
+   "inicio": 116.397,
+   "fin": 123.153,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 116.397,
+     "fin": 116.468
+    },
+    {
+     "w": "no",
+     "inicio": 116.468,
+     "fin": 116.61
+    },
+    {
+     "w": "memorices",
+     "inicio": 116.61,
+     "fin": 117.251
+    },
+    {
+     "w": "tres",
+     "inicio": 117.251,
+     "fin": 117.535
+    },
+    {
+     "w": "respuestas:",
+     "inicio": 117.535,
+     "fin": 118.247
+    },
+    {
+     "w": "la",
+     "inicio": 118.557,
+     "fin": 118.683
+    },
+    {
+     "w": "del",
+     "inicio": 118.683,
+     "fin": 118.871
+    },
+    {
+     "w": "impulso",
+     "inicio": 118.871,
+     "fin": 119.312
+    },
+    {
+     "w": "es",
+     "inicio": 119.312,
+     "fin": 119.438
+    },
+    {
+     "w": "la",
+     "inicio": 119.438,
+     "fin": 119.563
+    },
+    {
+     "w": "derivada",
+     "inicio": 119.563,
+     "fin": 120.066
+    },
+    {
+     "w": "de",
+     "inicio": 120.066,
+     "fin": 120.192
+    },
+    {
+     "w": "la",
+     "inicio": 120.192,
+     "fin": 120.318
+    },
+    {
+     "w": "del",
+     "inicio": 120.318,
+     "fin": 120.507
+    },
+    {
+     "w": "escalón,",
+     "inicio": 120.507,
+     "fin": 120.947
+    },
+    {
+     "w": "y",
+     "inicio": 121.097,
+     "fin": 121.199
+    },
+    {
+     "w": "esta,",
+     "inicio": 121.199,
+     "fin": 121.607
+    },
+    {
+     "w": "la",
+     "inicio": 121.717,
+     "fin": 121.842
+    },
+    {
+     "w": "derivada",
+     "inicio": 121.842,
+     "fin": 122.341
+    },
+    {
+     "w": "de",
+     "inicio": 122.341,
+     "fin": 122.466
+    },
+    {
+     "w": "la",
+     "inicio": 122.466,
+     "fin": 122.591
+    },
+    {
+     "w": "de",
+     "inicio": 122.591,
+     "fin": 122.716
+    },
+    {
+     "w": "la",
+     "inicio": 122.716,
+     "fin": 122.841
+    },
+    {
+     "w": "rampa.",
+     "inicio": 122.841,
+     "fin": 123.153
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 0,
+   "texto": "Ahora lo que más confunde.",
+   "dicho": "Ahora lo que más confunde.",
+   "camara": "push in con golpe",
+   "inicio": 123.653,
+   "fin": 125.222,
+   "palabras": [
+    {
+     "w": "Ahora",
+     "inicio": 123.653,
+     "fin": 123.984
+    },
+    {
+     "w": "lo",
+     "inicio": 123.984,
+     "fin": 124.149
+    },
+    {
+     "w": "que",
+     "inicio": 124.149,
+     "fin": 124.314
+    },
+    {
+     "w": "más",
+     "inicio": 124.314,
+     "fin": 124.561
+    },
+    {
+     "w": "confunde.",
+     "inicio": 124.561,
+     "fin": 125.222
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 1,
+   "texto": "Subir K no hace más rápido al sistema: solo lo hace llegar más alto.",
+   "dicho": "Subir K no hace más rápido al sistema: solo lo hace llegar más alto.",
+   "camara": "deriva lenta",
+   "inicio": 125.522,
+   "fin": 129.59,
+   "palabras": [
+    {
+     "w": "Subir",
+     "inicio": 125.522,
+     "fin": 125.877
+    },
+    {
+     "w": "K",
+     "inicio": 125.877,
+     "fin": 126.019
+    },
+    {
+     "w": "no",
+     "inicio": 126.019,
+     "fin": 126.161
+    },
+    {
+     "w": "hace",
+     "inicio": 126.161,
+     "fin": 126.374
+    },
+    {
+     "w": "más",
+     "inicio": 126.374,
+     "fin": 126.587
+    },
+    {
+     "w": "rápido",
+     "inicio": 126.587,
+     "fin": 127.013
+    },
+    {
+     "w": "al",
+     "inicio": 127.013,
+     "fin": 127.155
+    },
+    {
+     "w": "sistema:",
+     "inicio": 127.155,
+     "fin": 127.652
+    },
+    {
+     "w": "solo",
+     "inicio": 127.912,
+     "fin": 128.232
+    },
+    {
+     "w": "lo",
+     "inicio": 128.232,
+     "fin": 128.391
+    },
+    {
+     "w": "hace",
+     "inicio": 128.391,
+     "fin": 128.631
+    },
+    {
+     "w": "llegar",
+     "inicio": 128.631,
+     "fin": 129.03
+    },
+    {
+     "w": "más",
+     "inicio": 129.03,
+     "fin": 129.27
+    },
+    {
+     "w": "alto.",
+     "inicio": 129.27,
+     "fin": 129.59
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 2,
+   "texto": "Lo rápido lo decide tau, es decir, dónde está el polo.",
+   "dicho": "Lo rápido lo decide tau, es decir, dónde está el polo.",
+   "camara": "pan con desenfoque",
+   "inicio": 129.89,
+   "fin": 132.972,
+   "palabras": [
+    {
+     "w": "Lo",
+     "inicio": 129.89,
+     "fin": 130.04
+    },
+    {
+     "w": "rápido",
+     "inicio": 130.04,
+     "fin": 130.491
+    },
+    {
+     "w": "lo",
+     "inicio": 130.491,
+     "fin": 130.642
+    },
+    {
+     "w": "decide",
+     "inicio": 130.642,
+     "fin": 131.093
+    },
+    {
+     "w": "tau,",
+     "inicio": 131.093,
+     "fin": 131.318
+    },
+    {
+     "w": "es",
+     "inicio": 131.318,
+     "fin": 131.469
+    },
+    {
+     "w": "decir,",
+     "inicio": 131.469,
+     "fin": 131.844
+    },
+    {
+     "w": "dónde",
+     "inicio": 131.844,
+     "fin": 132.22
+    },
+    {
+     "w": "está",
+     "inicio": 132.22,
+     "fin": 132.521
+    },
+    {
+     "w": "el",
+     "inicio": 132.521,
+     "fin": 132.671
+    },
+    {
+     "w": "polo.",
+     "inicio": 132.671,
+     "fin": 132.972
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 3,
+   "texto": "Mientras más a la izquierda está el polo, más rápido responde.",
+   "dicho": "Mientras más a la izquierda está el polo, más rápido responde.",
+   "camara": "push in",
+   "inicio": 133.272,
+   "fin": 136.84,
+   "palabras": [
+    {
+     "w": "Mientras",
+     "inicio": 133.272,
+     "fin": 133.802
+    },
+    {
+     "w": "más",
+     "inicio": 133.802,
+     "fin": 134.001
+    },
+    {
+     "w": "a",
+     "inicio": 134.001,
+     "fin": 134.067
+    },
+    {
+     "w": "la",
+     "inicio": 134.067,
+     "fin": 134.2
+    },
+    {
+     "w": "izquierda",
+     "inicio": 134.2,
+     "fin": 134.73
+    },
+    {
+     "w": "está",
+     "inicio": 134.73,
+     "fin": 134.995
+    },
+    {
+     "w": "el",
+     "inicio": 134.995,
+     "fin": 135.127
+    },
+    {
+     "w": "polo,",
+     "inicio": 135.127,
+     "fin": 135.392
+    },
+    {
+     "w": "más",
+     "inicio": 135.542,
+     "fin": 135.771
+    },
+    {
+     "w": "rápido",
+     "inicio": 135.771,
+     "fin": 136.229
+    },
+    {
+     "w": "responde.",
+     "inicio": 136.229,
+     "fin": 136.84
+    }
+   ]
+  },
+  {
+   "bloque": 8,
+   "frase": 0,
+   "texto": "Dibuja una curva de primer orden y marca 63 % y 98 % sin mirar.",
+   "dicho": "Dibuja una curva de primer orden y marca 63 % y 98 % sin mirar.",
+   "camara": "push out a plano general",
+   "inicio": 137.34,
+   "fin": 143.347,
+   "palabras": [
+    {
+     "w": "Dibuja",
+     "inicio": 137.34,
+     "fin": 137.769
+    },
+    {
+     "w": "una",
+     "inicio": 137.769,
+     "fin": 137.984
+    },
+    {
+     "w": "curva",
+     "inicio": 137.984,
+     "fin": 138.341
+    },
+    {
+     "w": "de",
+     "inicio": 138.341,
+     "fin": 138.484
+    },
+    {
+     "w": "primer",
+     "inicio": 138.484,
+     "fin": 138.913
+    },
+    {
+     "w": "orden",
+     "inicio": 138.913,
+     "fin": 139.271
+    },
+    {
+     "w": "y",
+     "inicio": 139.271,
+     "fin": 139.342
+    },
+    {
+     "w": "marca",
+     "inicio": 139.342,
+     "fin": 139.7
+    },
+    {
+     "w": "63",
+     "inicio": 139.7,
+     "fin": 140.558
+    },
+    {
+     "w": "%",
+     "inicio": 140.558,
+     "fin": 141.202
+    },
+    {
+     "w": "y",
+     "inicio": 141.202,
+     "fin": 141.273
+    },
+    {
+     "w": "98",
+     "inicio": 141.273,
+     "fin": 142.131
+    },
+    {
+     "w": "%",
+     "inicio": 142.131,
+     "fin": 142.775
+    },
+    {
+     "w": "sin",
+     "inicio": 142.775,
+     "fin": 142.989
+    },
+    {
+     "w": "mirar.",
+     "inicio": 142.989,
+     "fin": 143.347
+    }
+   ]
+  },
+  {
+   "bloque": 8,
+   "frase": 1,
+   "texto": "En el siguiente vídeo: segundo orden y el triángulo del polo.",
+   "dicho": "En el siguiente vídeo: segundo orden y el triángulo del polo.",
+   "camara": "push in a la tarjeta",
+   "inicio": 143.647,
+   "fin": 147.079,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 143.647,
+     "fin": 143.772
+    },
+    {
+     "w": "el",
+     "inicio": 143.772,
+     "fin": 143.896
+    },
+    {
+     "w": "siguiente",
+     "inicio": 143.896,
+     "fin": 144.395
+    },
+    {
+     "w": "vídeo:",
+     "inicio": 144.395,
+     "fin": 144.707
+    },
+    {
+     "w": "segundo",
+     "inicio": 144.887,
+     "fin": 145.382
+    },
+    {
+     "w": "orden",
+     "inicio": 145.382,
+     "fin": 145.736
+    },
+    {
+     "w": "y",
+     "inicio": 145.736,
+     "fin": 145.806
+    },
+    {
+     "w": "el",
+     "inicio": 145.806,
+     "fin": 145.948
+    },
+    {
+     "w": "triángulo",
+     "inicio": 145.948,
+     "fin": 146.584
+    },
+    {
+     "w": "del",
+     "inicio": 146.584,
+     "fin": 146.797
+    },
+    {
+     "w": "polo.",
+     "inicio": 146.797,
+     "fin": 147.079
+    }
+   ]
+  }
+ ]
+}

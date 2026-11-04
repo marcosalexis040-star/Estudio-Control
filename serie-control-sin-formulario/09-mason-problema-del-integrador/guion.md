@@ -8,7 +8,7 @@
 | publico | estudiantes de Ingeniería de Control que presentan el integrador sin formulario |
 | tema | regla de Mason, trayectos, lazos, lazos que no se tocan, Δ y cofactores; problema 2 del Integrador 1 (2026); comprobación con k = 0 |
 | Frases | 34 |
-| Palabras | 464 |
+| Palabras | 466 |
 | Duración estimada | ~2:58 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
 
 Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bien y rojo = mal, Inter en negrita a 46 px o más, iconos de Phosphor. Un solo mundo 2D: cada bloque es una estación unida por un camino que se dibuja mientras viaja la cámara. El perrito es la foto recortada `assets/perrito-recorte.png`; nunca tapa texto.
@@ -85,7 +85,7 @@ Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bie
 | # | Frase (voz) | Qué se ve | Cámara | Medio |
 |---:|---|---|---|---|
 | 33 | Marca cada lazo con un color y busca los pares sin nodos en común. | Plano general de las cinco estaciones con los cuatro lazos coloreados. | push out a plano general | SVG |
-| 34 | Sígueme para más trucos de control. | Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». | push in a la tarjeta | perrito-avatar.png |
+| 34 | En el siguiente vídeo: la tabla de Routh. | Tarjeta final «Siguiente · 10» con el título del próximo vídeo y el mapa de la serie. | push in a la tarjeta | SVG |
 
 ## Fuentes y comprobación
 

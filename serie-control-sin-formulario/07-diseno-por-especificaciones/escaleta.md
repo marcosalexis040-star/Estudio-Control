@@ -51,7 +51,7 @@ Por eso piden un PID: para mover lo que una ganancia sola no mueve. || El candad
 
 ## Cierre · #06d6a0
 Antes de despejar, revisa qué coeficientes puede mover cada parámetro. || Plano general de las cuatro estaciones con las tarjetas TENGO/QUIERO. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: álgebra de bloques. || Tarjeta final «Siguiente · 08» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

@@ -54,7 +54,7 @@ Y si hay muchos lazos cruzados, usa Mason. || Rótulo «Mason → vídeo 09». E
 
 ## Cierre · #06d6a0
 Reduce el mismo diagrama dos veces, por reglas y por ecuaciones, y compara. || Plano general de las cinco estaciones. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: Mason con el problema del integrador. || Tarjeta final «Siguiente · 09» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

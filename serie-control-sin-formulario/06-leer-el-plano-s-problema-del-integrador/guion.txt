@@ -31,4 +31,4 @@ El sobreimpulso no depende de la distancia al origen, sino del ángulo.
 El tiempo pico se calcula con omega de, no con omega ene.
 Y beta se mide desde el eje real negativo.
 Dibuja tus cinco polos y responde las cinco preguntas en voz alta.
-Sígueme para más trucos de control.
+En el siguiente vídeo: cómo encontrar a, b o k para lo que te piden.

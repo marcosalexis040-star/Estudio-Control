@@ -60,7 +60,7 @@ Eso es estabilidad, y es lo que mide Routh. || Rótulo «ESTABLE = todos los pol
 
 ## Cierre · #06d6a0
 Repite el par madre y los cuatro trucos hasta poder escribir la tabla completa en un minuto. || Push out a plano general: las seis estaciones unidas por el camino; reloj de 60 s que corre. || push out a plano general || SVG · Phosphor `timer`
-Sígueme para más trucos de control. || Tarjeta de perfil con perrito-avatar.png y @perritoCAD; el cursor pulsa «Seguir» y cambia a «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+En el siguiente vídeo: de la ecuación diferencial a la respuesta. || Tarjeta final «Siguiente · 02» con el título del próximo vídeo y el mapa de la serie. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación

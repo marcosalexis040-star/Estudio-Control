@@ -1,0 +1,2500 @@
+{
+ "video": "04-segundo-orden-el-triangulo-del-polo",
+ "voz": "em_alex",
+ "duracion": 153.19,
+ "bloques": [
+  {
+   "nombre": "Gancho",
+   "color": "#ff5a5f"
+  },
+  {
+   "nombre": "Forma estándar",
+   "color": "#4da3ff"
+  },
+  {
+   "nombre": "Polos",
+   "color": "#ffd166"
+  },
+  {
+   "nombre": "Los cuatro casos",
+   "color": "#06d6a0"
+  },
+  {
+   "nombre": "El triángulo",
+   "color": "#c77dff"
+  },
+  {
+   "nombre": "Leer el ángulo",
+   "color": "#ff9f1c"
+  },
+  {
+   "nombre": "Clímax",
+   "color": "un polo del integrador · #ff5a5f"
+  },
+  {
+   "nombre": "Cierre",
+   "color": "#06d6a0"
+  }
+ ],
+ "frases": [
+  {
+   "bloque": 0,
+   "frase": 0,
+   "texto": "Te dan dos polos y te preguntan si la respuesta oscila.",
+   "dicho": "Te dan dos polos y te preguntan si la respuesta oscila.",
+   "camara": "push in rápido",
+   "inicio": 0.35,
+   "fin": 3.613,
+   "palabras": [
+    {
+     "w": "Te",
+     "inicio": 0.35,
+     "fin": 0.498
+    },
+    {
+     "w": "dan",
+     "inicio": 0.498,
+     "fin": 0.721
+    },
+    {
+     "w": "dos",
+     "inicio": 0.721,
+     "fin": 0.943
+    },
+    {
+     "w": "polos",
+     "inicio": 0.943,
+     "fin": 1.314
+    },
+    {
+     "w": "y",
+     "inicio": 1.314,
+     "fin": 1.388
+    },
+    {
+     "w": "te",
+     "inicio": 1.388,
+     "fin": 1.537
+    },
+    {
+     "w": "preguntan",
+     "inicio": 1.537,
+     "fin": 2.204
+    },
+    {
+     "w": "si",
+     "inicio": 2.204,
+     "fin": 2.352
+    },
+    {
+     "w": "la",
+     "inicio": 2.352,
+     "fin": 2.501
+    },
+    {
+     "w": "respuesta",
+     "inicio": 2.501,
+     "fin": 3.168
+    },
+    {
+     "w": "oscila.",
+     "inicio": 3.168,
+     "fin": 3.613
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 1,
+   "texto": "Si tienes que simularlo, ya perdiste.",
+   "dicho": "Si tienes que simularlo, ya perdiste.",
+   "camara": "deriva lenta",
+   "inicio": 3.913,
+   "fin": 6.167,
+   "palabras": [
+    {
+     "w": "Si",
+     "inicio": 3.913,
+     "fin": 4.068
+    },
+    {
+     "w": "tienes",
+     "inicio": 4.068,
+     "fin": 4.535
+    },
+    {
+     "w": "que",
+     "inicio": 4.535,
+     "fin": 4.69
+    },
+    {
+     "w": "simularlo,",
+     "inicio": 4.69,
+     "fin": 5.39
+    },
+    {
+     "w": "ya",
+     "inicio": 5.39,
+     "fin": 5.545
+    },
+    {
+     "w": "perdiste.",
+     "inicio": 5.545,
+     "fin": 6.167
+    }
+   ]
+  },
+  {
+   "bloque": 0,
+   "frase": 2,
+   "texto": "Los polos te dicen todo; solo hay que leerlos como un triángulo.",
+   "dicho": "Los polos te dicen todo; solo hay que leerlos como un triángulo.",
+   "camara": "push out",
+   "inicio": 6.467,
+   "fin": 10.072,
+   "palabras": [
+    {
+     "w": "Los",
+     "inicio": 6.467,
+     "fin": 6.677
+    },
+    {
+     "w": "polos",
+     "inicio": 6.677,
+     "fin": 7.027
+    },
+    {
+     "w": "te",
+     "inicio": 7.027,
+     "fin": 7.167
+    },
+    {
+     "w": "dicen",
+     "inicio": 7.167,
+     "fin": 7.517
+    },
+    {
+     "w": "todo;",
+     "inicio": 7.517,
+     "fin": 7.797
+    },
+    {
+     "w": "solo",
+     "inicio": 7.997,
+     "fin": 8.274
+    },
+    {
+     "w": "hay",
+     "inicio": 8.274,
+     "fin": 8.412
+    },
+    {
+     "w": "que",
+     "inicio": 8.412,
+     "fin": 8.55
+    },
+    {
+     "w": "leerlos",
+     "inicio": 8.55,
+     "fin": 9.035
+    },
+    {
+     "w": "como",
+     "inicio": 9.035,
+     "fin": 9.311
+    },
+    {
+     "w": "un",
+     "inicio": 9.311,
+     "fin": 9.45
+    },
+    {
+     "w": "triángulo.",
+     "inicio": 9.45,
+     "fin": 10.072
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 0,
+   "texto": "La forma estándar de segundo orden es omega ene al cuadrado, entre ese al cuadrado más dos zeta omega ene ese, más omega ene al cuadrado.",
+   "dicho": "La forma estándar de segundo orden es omega ene al cuadrado, entre ese al cuadrado más dos zeta omega ene ese, más omega ene al cuadrado.",
+   "camara": "viaje largo a la estación 1",
+   "inicio": 10.572,
+   "fin": 18.478,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 10.572,
+     "fin": 10.701
+    },
+    {
+     "w": "forma",
+     "inicio": 10.701,
+     "fin": 11.022
+    },
+    {
+     "w": "estándar",
+     "inicio": 11.022,
+     "fin": 11.537
+    },
+    {
+     "w": "de",
+     "inicio": 11.537,
+     "fin": 11.665
+    },
+    {
+     "w": "segundo",
+     "inicio": 11.665,
+     "fin": 12.115
+    },
+    {
+     "w": "orden",
+     "inicio": 12.115,
+     "fin": 12.437
+    },
+    {
+     "w": "es",
+     "inicio": 12.437,
+     "fin": 12.565
+    },
+    {
+     "w": "omega",
+     "inicio": 12.565,
+     "fin": 12.887
+    },
+    {
+     "w": "ene",
+     "inicio": 12.887,
+     "fin": 13.08
+    },
+    {
+     "w": "al",
+     "inicio": 13.08,
+     "fin": 13.208
+    },
+    {
+     "w": "cuadrado,",
+     "inicio": 13.208,
+     "fin": 13.722
+    },
+    {
+     "w": "entre",
+     "inicio": 14.042,
+     "fin": 14.378
+    },
+    {
+     "w": "ese",
+     "inicio": 14.378,
+     "fin": 14.58
+    },
+    {
+     "w": "al",
+     "inicio": 14.58,
+     "fin": 14.714
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 14.714,
+     "fin": 15.252
+    },
+    {
+     "w": "más",
+     "inicio": 15.252,
+     "fin": 15.453
+    },
+    {
+     "w": "dos",
+     "inicio": 15.453,
+     "fin": 15.655
+    },
+    {
+     "w": "zeta",
+     "inicio": 15.655,
+     "fin": 15.923
+    },
+    {
+     "w": "omega",
+     "inicio": 15.923,
+     "fin": 16.259
+    },
+    {
+     "w": "ene",
+     "inicio": 16.259,
+     "fin": 16.461
+    },
+    {
+     "w": "ese,",
+     "inicio": 16.461,
+     "fin": 16.662
+    },
+    {
+     "w": "más",
+     "inicio": 17.022,
+     "fin": 17.23
+    },
+    {
+     "w": "omega",
+     "inicio": 17.23,
+     "fin": 17.577
+    },
+    {
+     "w": "ene",
+     "inicio": 17.577,
+     "fin": 17.785
+    },
+    {
+     "w": "al",
+     "inicio": 17.785,
+     "fin": 17.924
+    },
+    {
+     "w": "cuadrado.",
+     "inicio": 17.924,
+     "fin": 18.478
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 1,
+   "texto": "Zeta es el factor de amortiguamiento y omega ene la frecuencia natural no amortiguada.",
+   "dicho": "Zeta es el factor de amortiguamiento y omega ene la frecuencia natural no amortiguada.",
+   "camara": "push in",
+   "inicio": 18.778,
+   "fin": 23.772,
+   "palabras": [
+    {
+     "w": "Zeta",
+     "inicio": 18.778,
+     "fin": 19.056
+    },
+    {
+     "w": "es",
+     "inicio": 19.056,
+     "fin": 19.194
+    },
+    {
+     "w": "el",
+     "inicio": 19.194,
+     "fin": 19.333
+    },
+    {
+     "w": "factor",
+     "inicio": 19.333,
+     "fin": 19.749
+    },
+    {
+     "w": "de",
+     "inicio": 19.749,
+     "fin": 19.888
+    },
+    {
+     "w": "amortiguamiento",
+     "inicio": 19.888,
+     "fin": 20.928
+    },
+    {
+     "w": "y",
+     "inicio": 20.928,
+     "fin": 20.998
+    },
+    {
+     "w": "omega",
+     "inicio": 20.998,
+     "fin": 21.344
+    },
+    {
+     "w": "ene",
+     "inicio": 21.344,
+     "fin": 21.552
+    },
+    {
+     "w": "la",
+     "inicio": 21.552,
+     "fin": 21.691
+    },
+    {
+     "w": "frecuencia",
+     "inicio": 21.691,
+     "fin": 22.385
+    },
+    {
+     "w": "natural",
+     "inicio": 22.385,
+     "fin": 22.87
+    },
+    {
+     "w": "no",
+     "inicio": 22.87,
+     "fin": 23.009
+    },
+    {
+     "w": "amortiguada.",
+     "inicio": 23.009,
+     "fin": 23.772
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 2,
+   "texto": "Si hay ganancia, multiplica el numerador por K.",
+   "dicho": "Si hay ganancia, multiplica el numerador por K.",
+   "camara": "deriva lenta",
+   "inicio": 24.072,
+   "fin": 26.902,
+   "palabras": [
+    {
+     "w": "Si",
+     "inicio": 24.072,
+     "fin": 24.221
+    },
+    {
+     "w": "hay",
+     "inicio": 24.221,
+     "fin": 24.37
+    },
+    {
+     "w": "ganancia,",
+     "inicio": 24.37,
+     "fin": 24.965
+    },
+    {
+     "w": "multiplica",
+     "inicio": 24.965,
+     "fin": 25.71
+    },
+    {
+     "w": "el",
+     "inicio": 25.71,
+     "fin": 25.859
+    },
+    {
+     "w": "numerador",
+     "inicio": 25.859,
+     "fin": 26.529
+    },
+    {
+     "w": "por",
+     "inicio": 26.529,
+     "fin": 26.753
+    },
+    {
+     "w": "K.",
+     "inicio": 26.753,
+     "fin": 26.902
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 3,
+   "texto": "Para leer zeta y omega ene, iguala tu denominador a esa forma, término por término.",
+   "dicho": "Para leer zeta y omega ene, iguala tu denominador a esa forma, término por término.",
+   "camara": "pan con desenfoque",
+   "inicio": 27.202,
+   "fin": 32.131,
+   "palabras": [
+    {
+     "w": "Para",
+     "inicio": 27.202,
+     "fin": 27.489
+    },
+    {
+     "w": "leer",
+     "inicio": 27.489,
+     "fin": 27.777
+    },
+    {
+     "w": "zeta",
+     "inicio": 27.777,
+     "fin": 28.065
+    },
+    {
+     "w": "y",
+     "inicio": 28.065,
+     "fin": 28.137
+    },
+    {
+     "w": "omega",
+     "inicio": 28.137,
+     "fin": 28.496
+    },
+    {
+     "w": "ene,",
+     "inicio": 28.496,
+     "fin": 28.712
+    },
+    {
+     "w": "iguala",
+     "inicio": 28.972,
+     "fin": 29.379
+    },
+    {
+     "w": "tu",
+     "inicio": 29.379,
+     "fin": 29.515
+    },
+    {
+     "w": "denominador",
+     "inicio": 29.515,
+     "fin": 30.261
+    },
+    {
+     "w": "a",
+     "inicio": 30.261,
+     "fin": 30.329
+    },
+    {
+     "w": "esa",
+     "inicio": 30.329,
+     "fin": 30.533
+    },
+    {
+     "w": "forma,",
+     "inicio": 30.533,
+     "fin": 30.872
+    },
+    {
+     "w": "término",
+     "inicio": 31.032,
+     "fin": 31.484
+    },
+    {
+     "w": "por",
+     "inicio": 31.484,
+     "fin": 31.678
+    },
+    {
+     "w": "término.",
+     "inicio": 31.678,
+     "fin": 32.131
+    }
+   ]
+  },
+  {
+   "bloque": 1,
+   "frase": 4,
+   "texto": "Con ese al cuadrado más dos ese más 25: omega ene es cinco y dos zeta por cinco es dos, así que zeta es 0.2.",
+   "dicho": "Con ese al cuadrado más dos ese más 25: omega ene es cinco y dos zeta por cinco es dos, así que zeta es 0.2.",
+   "camara": "push in",
+   "inicio": 32.431,
+   "fin": 39.993,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 32.431,
+     "fin": 32.631
+    },
+    {
+     "w": "ese",
+     "inicio": 32.631,
+     "fin": 32.831
+    },
+    {
+     "w": "al",
+     "inicio": 32.831,
+     "fin": 32.964
+    },
+    {
+     "w": "cuadrado",
+     "inicio": 32.964,
+     "fin": 33.497
+    },
+    {
+     "w": "más",
+     "inicio": 33.497,
+     "fin": 33.697
+    },
+    {
+     "w": "dos",
+     "inicio": 33.697,
+     "fin": 33.897
+    },
+    {
+     "w": "ese",
+     "inicio": 33.897,
+     "fin": 34.097
+    },
+    {
+     "w": "más",
+     "inicio": 34.097,
+     "fin": 34.297
+    },
+    {
+     "w": "25:",
+     "inicio": 34.297,
+     "fin": 35.031
+    },
+    {
+     "w": "omega",
+     "inicio": 35.401,
+     "fin": 35.77
+    },
+    {
+     "w": "ene",
+     "inicio": 35.77,
+     "fin": 35.992
+    },
+    {
+     "w": "es",
+     "inicio": 35.992,
+     "fin": 36.139
+    },
+    {
+     "w": "cinco",
+     "inicio": 36.139,
+     "fin": 36.509
+    },
+    {
+     "w": "y",
+     "inicio": 36.509,
+     "fin": 36.583
+    },
+    {
+     "w": "dos",
+     "inicio": 36.583,
+     "fin": 36.804
+    },
+    {
+     "w": "zeta",
+     "inicio": 36.804,
+     "fin": 37.1
+    },
+    {
+     "w": "por",
+     "inicio": 37.1,
+     "fin": 37.322
+    },
+    {
+     "w": "cinco",
+     "inicio": 37.322,
+     "fin": 37.691
+    },
+    {
+     "w": "es",
+     "inicio": 37.691,
+     "fin": 37.839
+    },
+    {
+     "w": "dos,",
+     "inicio": 37.839,
+     "fin": 38.061
+    },
+    {
+     "w": "así",
+     "inicio": 38.281,
+     "fin": 38.504
+    },
+    {
+     "w": "que",
+     "inicio": 38.504,
+     "fin": 38.653
+    },
+    {
+     "w": "zeta",
+     "inicio": 38.653,
+     "fin": 38.951
+    },
+    {
+     "w": "es",
+     "inicio": 38.951,
+     "fin": 39.1
+    },
+    {
+     "w": "0.2.",
+     "inicio": 39.1,
+     "fin": 39.993
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 0,
+   "texto": "Los polos salen de la fórmula general.",
+   "dicho": "Los polos salen de la fórmula general.",
+   "camara": "viaje largo a la estación 2",
+   "inicio": 40.493,
+   "fin": 42.706,
+   "palabras": [
+    {
+     "w": "Los",
+     "inicio": 40.493,
+     "fin": 40.707
+    },
+    {
+     "w": "polos",
+     "inicio": 40.707,
+     "fin": 41.064
+    },
+    {
+     "w": "salen",
+     "inicio": 41.064,
+     "fin": 41.421
+    },
+    {
+     "w": "de",
+     "inicio": 41.421,
+     "fin": 41.564
+    },
+    {
+     "w": "la",
+     "inicio": 41.564,
+     "fin": 41.707
+    },
+    {
+     "w": "fórmula",
+     "inicio": 41.707,
+     "fin": 42.206
+    },
+    {
+     "w": "general.",
+     "inicio": 42.206,
+     "fin": 42.706
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 1,
+   "texto": "Son menos zeta omega ene, más menos jota omega ene por la raíz de uno menos zeta al cuadrado.",
+   "dicho": "Son menos zeta omega ene, más menos jota omega ene por la raíz de uno menos zeta al cuadrado.",
+   "camara": "push in",
+   "inicio": 43.006,
+   "fin": 48.331,
+   "palabras": [
+    {
+     "w": "Son",
+     "inicio": 43.006,
+     "fin": 43.206
+    },
+    {
+     "w": "menos",
+     "inicio": 43.206,
+     "fin": 43.538
+    },
+    {
+     "w": "zeta",
+     "inicio": 43.538,
+     "fin": 43.804
+    },
+    {
+     "w": "omega",
+     "inicio": 43.804,
+     "fin": 44.137
+    },
+    {
+     "w": "ene,",
+     "inicio": 44.137,
+     "fin": 44.336
+    },
+    {
+     "w": "más",
+     "inicio": 44.656,
+     "fin": 44.864
+    },
+    {
+     "w": "menos",
+     "inicio": 44.864,
+     "fin": 45.211
+    },
+    {
+     "w": "jota",
+     "inicio": 45.211,
+     "fin": 45.488
+    },
+    {
+     "w": "omega",
+     "inicio": 45.488,
+     "fin": 45.835
+    },
+    {
+     "w": "ene",
+     "inicio": 45.835,
+     "fin": 46.043
+    },
+    {
+     "w": "por",
+     "inicio": 46.043,
+     "fin": 46.251
+    },
+    {
+     "w": "la",
+     "inicio": 46.251,
+     "fin": 46.389
+    },
+    {
+     "w": "raíz",
+     "inicio": 46.389,
+     "fin": 46.667
+    },
+    {
+     "w": "de",
+     "inicio": 46.667,
+     "fin": 46.805
+    },
+    {
+     "w": "uno",
+     "inicio": 46.805,
+     "fin": 47.013
+    },
+    {
+     "w": "menos",
+     "inicio": 47.013,
+     "fin": 47.36
+    },
+    {
+     "w": "zeta",
+     "inicio": 47.36,
+     "fin": 47.637
+    },
+    {
+     "w": "al",
+     "inicio": 47.637,
+     "fin": 47.776
+    },
+    {
+     "w": "cuadrado.",
+     "inicio": 47.776,
+     "fin": 48.331
+    }
+   ]
+  },
+  {
+   "bloque": 2,
+   "frase": 2,
+   "texto": "A la parte real le llamamos sigma, y a la imaginaria, omega de.",
+   "dicho": "A la parte real le llamamos sigma, y a la imaginaria, omega de.",
+   "camara": "deriva lenta",
+   "inicio": 48.631,
+   "fin": 52.313,
+   "palabras": [
+    {
+     "w": "A",
+     "inicio": 48.631,
+     "fin": 48.709
+    },
+    {
+     "w": "la",
+     "inicio": 48.709,
+     "fin": 48.866
+    },
+    {
+     "w": "parte",
+     "inicio": 48.866,
+     "fin": 49.257
+    },
+    {
+     "w": "real",
+     "inicio": 49.257,
+     "fin": 49.571
+    },
+    {
+     "w": "le",
+     "inicio": 49.571,
+     "fin": 49.728
+    },
+    {
+     "w": "llamamos",
+     "inicio": 49.728,
+     "fin": 50.276
+    },
+    {
+     "w": "sigma,",
+     "inicio": 50.276,
+     "fin": 50.668
+    },
+    {
+     "w": "y",
+     "inicio": 50.668,
+     "fin": 50.746
+    },
+    {
+     "w": "a",
+     "inicio": 50.746,
+     "fin": 50.824
+    },
+    {
+     "w": "la",
+     "inicio": 50.824,
+     "fin": 50.981
+    },
+    {
+     "w": "imaginaria,",
+     "inicio": 50.981,
+     "fin": 51.765
+    },
+    {
+     "w": "omega",
+     "inicio": 51.765,
+     "fin": 52.156
+    },
+    {
+     "w": "de.",
+     "inicio": 52.156,
+     "fin": 52.313
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 0,
+   "texto": "Y zeta decide la forma de la respuesta.",
+   "dicho": "Y zeta decide la forma de la respuesta.",
+   "camara": "viaje largo a la estación 3",
+   "inicio": 52.813,
+   "fin": 55.177,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 52.813,
+     "fin": 52.889
+    },
+    {
+     "w": "zeta",
+     "inicio": 52.889,
+     "fin": 53.195
+    },
+    {
+     "w": "decide",
+     "inicio": 53.195,
+     "fin": 53.652
+    },
+    {
+     "w": "la",
+     "inicio": 53.652,
+     "fin": 53.805
+    },
+    {
+     "w": "forma",
+     "inicio": 53.805,
+     "fin": 54.186
+    },
+    {
+     "w": "de",
+     "inicio": 54.186,
+     "fin": 54.339
+    },
+    {
+     "w": "la",
+     "inicio": 54.339,
+     "fin": 54.491
+    },
+    {
+     "w": "respuesta.",
+     "inicio": 54.491,
+     "fin": 55.177
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 1,
+   "texto": "Con zeta igual a cero, los polos son imaginarios puros y oscila para siempre.",
+   "dicho": "Con zeta igual a cero, los polos son imaginarios puros y oscila para siempre.",
+   "camara": "push in",
+   "inicio": 55.477,
+   "fin": 60.034,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 55.477,
+     "fin": 55.694
+    },
+    {
+     "w": "zeta",
+     "inicio": 55.694,
+     "fin": 55.984
+    },
+    {
+     "w": "igual",
+     "inicio": 55.984,
+     "fin": 56.346
+    },
+    {
+     "w": "a",
+     "inicio": 56.346,
+     "fin": 56.418
+    },
+    {
+     "w": "cero,",
+     "inicio": 56.418,
+     "fin": 56.707
+    },
+    {
+     "w": "los",
+     "inicio": 56.967,
+     "fin": 57.172
+    },
+    {
+     "w": "polos",
+     "inicio": 57.172,
+     "fin": 57.513
+    },
+    {
+     "w": "son",
+     "inicio": 57.513,
+     "fin": 57.717
+    },
+    {
+     "w": "imaginarios",
+     "inicio": 57.717,
+     "fin": 58.467
+    },
+    {
+     "w": "puros",
+     "inicio": 58.467,
+     "fin": 58.807
+    },
+    {
+     "w": "y",
+     "inicio": 58.807,
+     "fin": 58.875
+    },
+    {
+     "w": "oscila",
+     "inicio": 58.875,
+     "fin": 59.284
+    },
+    {
+     "w": "para",
+     "inicio": 59.284,
+     "fin": 59.557
+    },
+    {
+     "w": "siempre.",
+     "inicio": 59.557,
+     "fin": 60.034
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 2,
+   "texto": "Entre cero y uno, son complejos: subamortiguado, con sobreimpulso.",
+   "dicho": "Entre cero y uno, son complejos: subamortiguado, con sobreimpulso.",
+   "camara": "deriva lenta",
+   "inicio": 60.334,
+   "fin": 64.396,
+   "palabras": [
+    {
+     "w": "Entre",
+     "inicio": 60.334,
+     "fin": 60.71
+    },
+    {
+     "w": "cero",
+     "inicio": 60.71,
+     "fin": 61.011
+    },
+    {
+     "w": "y",
+     "inicio": 61.011,
+     "fin": 61.086
+    },
+    {
+     "w": "uno,",
+     "inicio": 61.086,
+     "fin": 61.312
+    },
+    {
+     "w": "son",
+     "inicio": 61.312,
+     "fin": 61.537
+    },
+    {
+     "w": "complejos:",
+     "inicio": 61.537,
+     "fin": 62.214
+    },
+    {
+     "w": "subamortiguado,",
+     "inicio": 62.214,
+     "fin": 63.268
+    },
+    {
+     "w": "con",
+     "inicio": 63.268,
+     "fin": 63.493
+    },
+    {
+     "w": "sobreimpulso.",
+     "inicio": 63.493,
+     "fin": 64.396
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 3,
+   "texto": "Con zeta igual a uno, se juntan en un polo doble: críticamente amortiguado, lo más rápido sin pasarse.",
+   "dicho": "Con zeta igual a uno, se juntan en un polo doble: críticamente amortiguado, lo más rápido sin pasarse.",
+   "camara": "deriva lenta",
+   "inicio": 64.696,
+   "fin": 70.677,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 64.696,
+     "fin": 64.917
+    },
+    {
+     "w": "zeta",
+     "inicio": 64.917,
+     "fin": 65.213
+    },
+    {
+     "w": "igual",
+     "inicio": 65.213,
+     "fin": 65.582
+    },
+    {
+     "w": "a",
+     "inicio": 65.582,
+     "fin": 65.656
+    },
+    {
+     "w": "uno,",
+     "inicio": 65.656,
+     "fin": 65.877
+    },
+    {
+     "w": "se",
+     "inicio": 65.877,
+     "fin": 66.025
+    },
+    {
+     "w": "juntan",
+     "inicio": 66.025,
+     "fin": 66.468
+    },
+    {
+     "w": "en",
+     "inicio": 66.468,
+     "fin": 66.616
+    },
+    {
+     "w": "un",
+     "inicio": 66.616,
+     "fin": 66.764
+    },
+    {
+     "w": "polo",
+     "inicio": 66.764,
+     "fin": 67.059
+    },
+    {
+     "w": "doble:",
+     "inicio": 67.059,
+     "fin": 67.428
+    },
+    {
+     "w": "críticamente",
+     "inicio": 67.428,
+     "fin": 68.314
+    },
+    {
+     "w": "amortiguado,",
+     "inicio": 68.314,
+     "fin": 69.127
+    },
+    {
+     "w": "lo",
+     "inicio": 69.127,
+     "fin": 69.274
+    },
+    {
+     "w": "más",
+     "inicio": 69.274,
+     "fin": 69.496
+    },
+    {
+     "w": "rápido",
+     "inicio": 69.496,
+     "fin": 69.939
+    },
+    {
+     "w": "sin",
+     "inicio": 69.939,
+     "fin": 70.16
+    },
+    {
+     "w": "pasarse.",
+     "inicio": 70.16,
+     "fin": 70.677
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 4,
+   "texto": "Mayor que uno, se separan en dos polos reales: sobreamortiguado, lento y sin sobreimpulso.",
+   "dicho": "Mayor que uno, se separan en dos polos reales: sobreamortiguado, lento y sin sobreimpulso.",
+   "camara": "pan con desenfoque",
+   "inicio": 70.977,
+   "fin": 76.252,
+   "palabras": [
+    {
+     "w": "Mayor",
+     "inicio": 70.977,
+     "fin": 71.344
+    },
+    {
+     "w": "que",
+     "inicio": 71.344,
+     "fin": 71.49
+    },
+    {
+     "w": "uno,",
+     "inicio": 71.49,
+     "fin": 71.71
+    },
+    {
+     "w": "se",
+     "inicio": 71.71,
+     "fin": 71.856
+    },
+    {
+     "w": "separan",
+     "inicio": 71.856,
+     "fin": 72.369
+    },
+    {
+     "w": "en",
+     "inicio": 72.369,
+     "fin": 72.516
+    },
+    {
+     "w": "dos",
+     "inicio": 72.516,
+     "fin": 72.735
+    },
+    {
+     "w": "polos",
+     "inicio": 72.735,
+     "fin": 73.102
+    },
+    {
+     "w": "reales:",
+     "inicio": 73.102,
+     "fin": 73.541
+    },
+    {
+     "w": "sobreamortiguado,",
+     "inicio": 73.541,
+     "fin": 74.714
+    },
+    {
+     "w": "lento",
+     "inicio": 74.714,
+     "fin": 75.08
+    },
+    {
+     "w": "y",
+     "inicio": 75.08,
+     "fin": 75.153
+    },
+    {
+     "w": "sin",
+     "inicio": 75.153,
+     "fin": 75.373
+    },
+    {
+     "w": "sobreimpulso.",
+     "inicio": 75.373,
+     "fin": 76.252
+    }
+   ]
+  },
+  {
+   "bloque": 3,
+   "frase": 5,
+   "texto": "Y con zeta negativa, los polos cruzan a la derecha y la respuesta crece: inestable.",
+   "dicho": "ye con zeta negativa, los polos cruzan a la derecha y la respuesta crece: inestable.",
+   "camara": "push in",
+   "inicio": 76.552,
+   "fin": 81.457,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 76.552,
+     "fin": 76.629
+    },
+    {
+     "w": "con",
+     "inicio": 76.629,
+     "fin": 76.859
+    },
+    {
+     "w": "zeta",
+     "inicio": 76.859,
+     "fin": 77.167
+    },
+    {
+     "w": "negativa,",
+     "inicio": 77.167,
+     "fin": 77.782
+    },
+    {
+     "w": "los",
+     "inicio": 78.012,
+     "fin": 78.206
+    },
+    {
+     "w": "polos",
+     "inicio": 78.206,
+     "fin": 78.529
+    },
+    {
+     "w": "cruzan",
+     "inicio": 78.529,
+     "fin": 78.917
+    },
+    {
+     "w": "a",
+     "inicio": 78.917,
+     "fin": 78.982
+    },
+    {
+     "w": "la",
+     "inicio": 78.982,
+     "fin": 79.111
+    },
+    {
+     "w": "derecha",
+     "inicio": 79.111,
+     "fin": 79.563
+    },
+    {
+     "w": "y",
+     "inicio": 79.563,
+     "fin": 79.628
+    },
+    {
+     "w": "la",
+     "inicio": 79.628,
+     "fin": 79.757
+    },
+    {
+     "w": "respuesta",
+     "inicio": 79.757,
+     "fin": 80.339
+    },
+    {
+     "w": "crece:",
+     "inicio": 80.339,
+     "fin": 80.662
+    },
+    {
+     "w": "inestable.",
+     "inicio": 80.792,
+     "fin": 81.457
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 0,
+   "texto": "Ahora dibuja el polo de arriba y baja una vertical al eje real.",
+   "dicho": "Ahora dibuja el polo de arriba y baja una vertical al eje real.",
+   "camara": "viaje largo a la estación 4",
+   "inicio": 81.957,
+   "fin": 85.504,
+   "palabras": [
+    {
+     "w": "Ahora",
+     "inicio": 81.957,
+     "fin": 82.253
+    },
+    {
+     "w": "dibuja",
+     "inicio": 82.253,
+     "fin": 82.696
+    },
+    {
+     "w": "el",
+     "inicio": 82.696,
+     "fin": 82.844
+    },
+    {
+     "w": "polo",
+     "inicio": 82.844,
+     "fin": 83.139
+    },
+    {
+     "w": "de",
+     "inicio": 83.139,
+     "fin": 83.287
+    },
+    {
+     "w": "arriba",
+     "inicio": 83.287,
+     "fin": 83.657
+    },
+    {
+     "w": "y",
+     "inicio": 83.657,
+     "fin": 83.73
+    },
+    {
+     "w": "baja",
+     "inicio": 83.73,
+     "fin": 84.026
+    },
+    {
+     "w": "una",
+     "inicio": 84.026,
+     "fin": 84.248
+    },
+    {
+     "w": "vertical",
+     "inicio": 84.248,
+     "fin": 84.839
+    },
+    {
+     "w": "al",
+     "inicio": 84.839,
+     "fin": 84.986
+    },
+    {
+     "w": "eje",
+     "inicio": 84.986,
+     "fin": 85.208
+    },
+    {
+     "w": "real.",
+     "inicio": 85.208,
+     "fin": 85.504
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 1,
+   "texto": "Queda un triángulo rectángulo.",
+   "dicho": "Queda un triángulo rectángulo.",
+   "camara": "push in",
+   "inicio": 85.804,
+   "fin": 87.524,
+   "palabras": [
+    {
+     "w": "Queda",
+     "inicio": 85.804,
+     "fin": 86.079
+    },
+    {
+     "w": "un",
+     "inicio": 86.079,
+     "fin": 86.217
+    },
+    {
+     "w": "triángulo",
+     "inicio": 86.217,
+     "fin": 86.836
+    },
+    {
+     "w": "rectángulo.",
+     "inicio": 86.836,
+     "fin": 87.524
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 2,
+   "texto": "El cateto horizontal es sigma, igual a zeta por omega ene.",
+   "dicho": "El cateto horizontal es sigma, igual a zeta por omega ene.",
+   "camara": "deriva lenta",
+   "inicio": 87.824,
+   "fin": 91.405,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 87.824,
+     "fin": 87.97
+    },
+    {
+     "w": "cateto",
+     "inicio": 87.97,
+     "fin": 88.408
+    },
+    {
+     "w": "horizontal",
+     "inicio": 88.408,
+     "fin": 89.064
+    },
+    {
+     "w": "es",
+     "inicio": 89.064,
+     "fin": 89.21
+    },
+    {
+     "w": "sigma,",
+     "inicio": 89.21,
+     "fin": 89.574
+    },
+    {
+     "w": "igual",
+     "inicio": 89.794,
+     "fin": 90.178
+    },
+    {
+     "w": "a",
+     "inicio": 90.178,
+     "fin": 90.254
+    },
+    {
+     "w": "zeta",
+     "inicio": 90.254,
+     "fin": 90.561
+    },
+    {
+     "w": "por",
+     "inicio": 90.561,
+     "fin": 90.791
+    },
+    {
+     "w": "omega",
+     "inicio": 90.791,
+     "fin": 91.175
+    },
+    {
+     "w": "ene.",
+     "inicio": 91.175,
+     "fin": 91.405
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 3,
+   "texto": "El cateto vertical es omega de, la frecuencia de la oscilación.",
+   "dicho": "El cateto vertical es omega de, la frecuencia de la oscilación.",
+   "camara": "deriva lenta",
+   "inicio": 91.705,
+   "fin": 95.448,
+   "palabras": [
+    {
+     "w": "El",
+     "inicio": 91.705,
+     "fin": 91.858
+    },
+    {
+     "w": "cateto",
+     "inicio": 91.858,
+     "fin": 92.319
+    },
+    {
+     "w": "vertical",
+     "inicio": 92.319,
+     "fin": 92.934
+    },
+    {
+     "w": "es",
+     "inicio": 92.934,
+     "fin": 93.087
+    },
+    {
+     "w": "omega",
+     "inicio": 93.087,
+     "fin": 93.471
+    },
+    {
+     "w": "de,",
+     "inicio": 93.471,
+     "fin": 93.625
+    },
+    {
+     "w": "la",
+     "inicio": 93.825,
+     "fin": 93.95
+    },
+    {
+     "w": "frecuencia",
+     "inicio": 93.95,
+     "fin": 94.574
+    },
+    {
+     "w": "de",
+     "inicio": 94.574,
+     "fin": 94.699
+    },
+    {
+     "w": "la",
+     "inicio": 94.699,
+     "fin": 94.824
+    },
+    {
+     "w": "oscilación.",
+     "inicio": 94.824,
+     "fin": 95.448
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 4,
+   "texto": "La hipotenusa, la distancia al origen, es omega ene.",
+   "dicho": "La hipotenusa, la distancia al origen, es omega ene.",
+   "camara": "deriva lenta",
+   "inicio": 95.748,
+   "fin": 98.879,
+   "palabras": [
+    {
+     "w": "La",
+     "inicio": 95.748,
+     "fin": 95.905
+    },
+    {
+     "w": "hipotenusa,",
+     "inicio": 95.905,
+     "fin": 96.609
+    },
+    {
+     "w": "la",
+     "inicio": 96.609,
+     "fin": 96.766
+    },
+    {
+     "w": "distancia",
+     "inicio": 96.766,
+     "fin": 97.47
+    },
+    {
+     "w": "al",
+     "inicio": 97.47,
+     "fin": 97.627
+    },
+    {
+     "w": "origen,",
+     "inicio": 97.627,
+     "fin": 98.096
+    },
+    {
+     "w": "es",
+     "inicio": 98.096,
+     "fin": 98.253
+    },
+    {
+     "w": "omega",
+     "inicio": 98.253,
+     "fin": 98.644
+    },
+    {
+     "w": "ene.",
+     "inicio": 98.644,
+     "fin": 98.879
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 5,
+   "texto": "Y el ángulo beta se mide desde el eje real negativo, no desde el imaginario.",
+   "dicho": "Y el ángulo beta se mide desde el eje real negativo, no desde el imaginario.",
+   "camara": "push in al origen",
+   "inicio": 99.179,
+   "fin": 103.556,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 99.179,
+     "fin": 99.25
+    },
+    {
+     "w": "el",
+     "inicio": 99.25,
+     "fin": 99.392
+    },
+    {
+     "w": "ángulo",
+     "inicio": 99.392,
+     "fin": 99.818
+    },
+    {
+     "w": "beta",
+     "inicio": 99.818,
+     "fin": 100.102
+    },
+    {
+     "w": "se",
+     "inicio": 100.102,
+     "fin": 100.243
+    },
+    {
+     "w": "mide",
+     "inicio": 100.243,
+     "fin": 100.527
+    },
+    {
+     "w": "desde",
+     "inicio": 100.527,
+     "fin": 100.882
+    },
+    {
+     "w": "el",
+     "inicio": 100.882,
+     "fin": 101.024
+    },
+    {
+     "w": "eje",
+     "inicio": 101.024,
+     "fin": 101.237
+    },
+    {
+     "w": "real",
+     "inicio": 101.237,
+     "fin": 101.521
+    },
+    {
+     "w": "negativo,",
+     "inicio": 101.521,
+     "fin": 102.089
+    },
+    {
+     "w": "no",
+     "inicio": 102.359,
+     "fin": 102.485
+    },
+    {
+     "w": "desde",
+     "inicio": 102.485,
+     "fin": 102.8
+    },
+    {
+     "w": "el",
+     "inicio": 102.8,
+     "fin": 102.926
+    },
+    {
+     "w": "imaginario.",
+     "inicio": 102.926,
+     "fin": 103.556
+    }
+   ]
+  },
+  {
+   "bloque": 4,
+   "frase": 6,
+   "texto": "Su coseno es zeta.",
+   "dicho": "Su coseno es zeta.",
+   "camara": "push out",
+   "inicio": 103.856,
+   "fin": 105.136,
+   "palabras": [
+    {
+     "w": "Su",
+     "inicio": 103.856,
+     "fin": 104.039
+    },
+    {
+     "w": "coseno",
+     "inicio": 104.039,
+     "fin": 104.587
+    },
+    {
+     "w": "es",
+     "inicio": 104.587,
+     "fin": 104.77
+    },
+    {
+     "w": "zeta.",
+     "inicio": 104.77,
+     "fin": 105.136
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 0,
+   "texto": "Por eso un polo pegado al eje imaginario tiene beta cerca de 90 grados y zeta casi cero: oscila mucho.",
+   "dicho": "Por eso un polo pegado al eje imaginario tiene beta cerca de 90 grados y zeta casi cero: oscila mucho.",
+   "camara": "viaje largo a la estación 5",
+   "inicio": 105.636,
+   "fin": 111.918,
+   "palabras": [
+    {
+     "w": "Por",
+     "inicio": 105.636,
+     "fin": 105.842
+    },
+    {
+     "w": "eso",
+     "inicio": 105.842,
+     "fin": 106.048
+    },
+    {
+     "w": "un",
+     "inicio": 106.048,
+     "fin": 106.185
+    },
+    {
+     "w": "polo",
+     "inicio": 106.185,
+     "fin": 106.46
+    },
+    {
+     "w": "pegado",
+     "inicio": 106.46,
+     "fin": 106.872
+    },
+    {
+     "w": "al",
+     "inicio": 106.872,
+     "fin": 107.009
+    },
+    {
+     "w": "eje",
+     "inicio": 107.009,
+     "fin": 107.215
+    },
+    {
+     "w": "imaginario",
+     "inicio": 107.215,
+     "fin": 107.902
+    },
+    {
+     "w": "tiene",
+     "inicio": 107.902,
+     "fin": 108.245
+    },
+    {
+     "w": "beta",
+     "inicio": 108.245,
+     "fin": 108.52
+    },
+    {
+     "w": "cerca",
+     "inicio": 108.52,
+     "fin": 108.863
+    },
+    {
+     "w": "de",
+     "inicio": 108.863,
+     "fin": 109.001
+    },
+    {
+     "w": "90",
+     "inicio": 109.001,
+     "fin": 109.481
+    },
+    {
+     "w": "grados",
+     "inicio": 109.481,
+     "fin": 109.893
+    },
+    {
+     "w": "y",
+     "inicio": 109.893,
+     "fin": 109.962
+    },
+    {
+     "w": "zeta",
+     "inicio": 109.962,
+     "fin": 110.237
+    },
+    {
+     "w": "casi",
+     "inicio": 110.237,
+     "fin": 110.511
+    },
+    {
+     "w": "cero:",
+     "inicio": 110.511,
+     "fin": 110.786
+    },
+    {
+     "w": "oscila",
+     "inicio": 111.096,
+     "fin": 111.544
+    },
+    {
+     "w": "mucho.",
+     "inicio": 111.544,
+     "fin": 111.918
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 1,
+   "texto": "Y uno pegado al eje real tiene zeta casi uno: casi no oscila.",
+   "dicho": "Y uno pegado al eje real tiene zeta casi uno: casi no oscila.",
+   "camara": "pan con desenfoque",
+   "inicio": 112.218,
+   "fin": 115.82,
+   "palabras": [
+    {
+     "w": "Y",
+     "inicio": 112.218,
+     "fin": 112.289
+    },
+    {
+     "w": "uno",
+     "inicio": 112.289,
+     "fin": 112.503
+    },
+    {
+     "w": "pegado",
+     "inicio": 112.503,
+     "fin": 112.932
+    },
+    {
+     "w": "al",
+     "inicio": 112.932,
+     "fin": 113.075
+    },
+    {
+     "w": "eje",
+     "inicio": 113.075,
+     "fin": 113.289
+    },
+    {
+     "w": "real",
+     "inicio": 113.289,
+     "fin": 113.575
+    },
+    {
+     "w": "tiene",
+     "inicio": 113.575,
+     "fin": 113.932
+    },
+    {
+     "w": "zeta",
+     "inicio": 113.932,
+     "fin": 114.218
+    },
+    {
+     "w": "casi",
+     "inicio": 114.218,
+     "fin": 114.503
+    },
+    {
+     "w": "uno:",
+     "inicio": 114.503,
+     "fin": 114.718
+    },
+    {
+     "w": "casi",
+     "inicio": 114.888,
+     "fin": 115.199
+    },
+    {
+     "w": "no",
+     "inicio": 115.199,
+     "fin": 115.354
+    },
+    {
+     "w": "oscila.",
+     "inicio": 115.354,
+     "fin": 115.82
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 2,
+   "texto": "Con beta de 45 grados, zeta es 0.71.",
+   "dicho": "Con beta de 45 grados, zeta es 0.71.",
+   "camara": "push in",
+   "inicio": 116.12,
+   "fin": 119.888,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 116.12,
+     "fin": 116.297
+    },
+    {
+     "w": "beta",
+     "inicio": 116.297,
+     "fin": 116.533
+    },
+    {
+     "w": "de",
+     "inicio": 116.533,
+     "fin": 116.651
+    },
+    {
+     "w": "45",
+     "inicio": 116.651,
+     "fin": 117.476
+    },
+    {
+     "w": "grados,",
+     "inicio": 117.476,
+     "fin": 117.83
+    },
+    {
+     "w": "zeta",
+     "inicio": 118.04,
+     "fin": 118.325
+    },
+    {
+     "w": "es",
+     "inicio": 118.325,
+     "fin": 118.467
+    },
+    {
+     "w": "0.71.",
+     "inicio": 118.467,
+     "fin": 119.888
+    }
+   ]
+  },
+  {
+   "bloque": 5,
+   "frase": 3,
+   "texto": "Con 60 grados, zeta es un medio.",
+   "dicho": "Con 60 grados, zeta es un medio.",
+   "camara": "deriva lenta",
+   "inicio": 120.188,
+   "fin": 122.502,
+   "palabras": [
+    {
+     "w": "Con",
+     "inicio": 120.188,
+     "fin": 120.428
+    },
+    {
+     "w": "60",
+     "inicio": 120.428,
+     "fin": 120.986
+    },
+    {
+     "w": "grados,",
+     "inicio": 120.986,
+     "fin": 121.465
+    },
+    {
+     "w": "zeta",
+     "inicio": 121.465,
+     "fin": 121.784
+    },
+    {
+     "w": "es",
+     "inicio": 121.784,
+     "fin": 121.944
+    },
+    {
+     "w": "un",
+     "inicio": 121.944,
+     "fin": 122.103
+    },
+    {
+     "w": "medio.",
+     "inicio": 122.103,
+     "fin": 122.502
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 0,
+   "texto": "Pruébalo con un ejemplo real del integrador: menos dos más menos jota cuatro.",
+   "dicho": "Pruébalo con un ejemplo real del integrador: menos dos más menos jota cuatro.",
+   "camara": "push in con golpe",
+   "inicio": 123.002,
+   "fin": 127.592,
+   "palabras": [
+    {
+     "w": "Pruébalo",
+     "inicio": 123.002,
+     "fin": 123.491
+    },
+    {
+     "w": "con",
+     "inicio": 123.491,
+     "fin": 123.674
+    },
+    {
+     "w": "un",
+     "inicio": 123.674,
+     "fin": 123.797
+    },
+    {
+     "w": "ejemplo",
+     "inicio": 123.797,
+     "fin": 124.224
+    },
+    {
+     "w": "real",
+     "inicio": 124.224,
+     "fin": 124.468
+    },
+    {
+     "w": "del",
+     "inicio": 124.468,
+     "fin": 124.652
+    },
+    {
+     "w": "integrador:",
+     "inicio": 124.652,
+     "fin": 125.262
+    },
+    {
+     "w": "menos",
+     "inicio": 125.562,
+     "fin": 125.953
+    },
+    {
+     "w": "dos",
+     "inicio": 125.953,
+     "fin": 126.187
+    },
+    {
+     "w": "más",
+     "inicio": 126.187,
+     "fin": 126.421
+    },
+    {
+     "w": "menos",
+     "inicio": 126.421,
+     "fin": 126.812
+    },
+    {
+     "w": "jota",
+     "inicio": 126.812,
+     "fin": 127.124
+    },
+    {
+     "w": "cuatro.",
+     "inicio": 127.124,
+     "fin": 127.592
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 1,
+   "texto": "Sigma es dos, omega de es cuatro, y omega ene es la raíz de 20, unos 4.47.",
+   "dicho": "Sigma es dos, omega de es cuatro, y omega ene es la raíz de 20, unos 4.47.",
+   "camara": "deriva lenta",
+   "inicio": 127.892,
+   "fin": 133.574,
+   "palabras": [
+    {
+     "w": "Sigma",
+     "inicio": 127.892,
+     "fin": 128.782
+    },
+    {
+     "w": "es",
+     "inicio": 128.782,
+     "fin": 129.138
+    },
+    {
+     "w": "dos,",
+     "inicio": 129.138,
+     "fin": 129.672
+    },
+    {
+     "w": "omega",
+     "inicio": 129.922,
+     "fin": 130.462
+    },
+    {
+     "w": "de",
+     "inicio": 130.462,
+     "fin": 130.678
+    },
+    {
+     "w": "es",
+     "inicio": 130.678,
+     "fin": 130.894
+    },
+    {
+     "w": "cuatro,",
+     "inicio": 130.894,
+     "fin": 131.542
+    },
+    {
+     "w": "y",
+     "inicio": 131.742,
+     "fin": 131.806
+    },
+    {
+     "w": "omega",
+     "inicio": 131.806,
+     "fin": 132.126
+    },
+    {
+     "w": "ene",
+     "inicio": 132.126,
+     "fin": 132.318
+    },
+    {
+     "w": "es",
+     "inicio": 132.318,
+     "fin": 132.446
+    },
+    {
+     "w": "la",
+     "inicio": 132.446,
+     "fin": 132.574
+    },
+    {
+     "w": "raíz",
+     "inicio": 132.574,
+     "fin": 132.83
+    },
+    {
+     "w": "de",
+     "inicio": 132.83,
+     "fin": 132.958
+    },
+    {
+     "w": "20,",
+     "inicio": 132.958,
+     "fin": 133.342
+    },
+    {
+     "w": "unos",
+     "inicio": 133.452,
+     "fin": 133.469
+    },
+    {
+     "w": "4.47.",
+     "inicio": 133.469,
+     "fin": 133.574
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 2,
+   "texto": "Zeta es dos entre 4.47: 0.45.",
+   "dicho": "Zeta es dos entre 4.47: 0.45.",
+   "camara": "push in",
+   "inicio": 133.874,
+   "fin": 138.262,
+   "palabras": [
+    {
+     "w": "Zeta",
+     "inicio": 133.874,
+     "fin": 134.138
+    },
+    {
+     "w": "es",
+     "inicio": 134.138,
+     "fin": 134.27
+    },
+    {
+     "w": "dos",
+     "inicio": 134.27,
+     "fin": 134.469
+    },
+    {
+     "w": "entre",
+     "inicio": 134.469,
+     "fin": 134.8
+    },
+    {
+     "w": "4.47:",
+     "inicio": 134.8,
+     "fin": 136.454
+    },
+    {
+     "w": "0.45.",
+     "inicio": 136.704,
+     "fin": 138.262
+    }
+   ]
+  },
+  {
+   "bloque": 6,
+   "frase": 3,
+   "texto": "Subamortiguado, con sobreimpulso, y sin simular nada.",
+   "dicho": "Subamortiguado, con sobreimpulso, y sin simular nada.",
+   "camara": "push out",
+   "inicio": 138.562,
+   "fin": 141.794,
+   "palabras": [
+    {
+     "w": "Subamortiguado,",
+     "inicio": 138.562,
+     "fin": 139.59
+    },
+    {
+     "w": "con",
+     "inicio": 139.59,
+     "fin": 139.811
+    },
+    {
+     "w": "sobreimpulso,",
+     "inicio": 139.811,
+     "fin": 140.692
+    },
+    {
+     "w": "y",
+     "inicio": 140.692,
+     "fin": 140.765
+    },
+    {
+     "w": "sin",
+     "inicio": 140.765,
+     "fin": 140.986
+    },
+    {
+     "w": "simular",
+     "inicio": 140.986,
+     "fin": 141.5
+    },
+    {
+     "w": "nada.",
+     "inicio": 141.5,
+     "fin": 141.794
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 0,
+   "texto": "Dibuja tres polos al azar y saca su triángulo hasta que te salga solo.",
+   "dicho": "Dibuja tres polos al azar y saca su triángulo hasta que te salga solo.",
+   "camara": "push out a plano general",
+   "inicio": 142.294,
+   "fin": 146.731,
+   "palabras": [
+    {
+     "w": "Dibuja",
+     "inicio": 142.294,
+     "fin": 142.787
+    },
+    {
+     "w": "tres",
+     "inicio": 142.787,
+     "fin": 143.115
+    },
+    {
+     "w": "polos",
+     "inicio": 143.115,
+     "fin": 143.526
+    },
+    {
+     "w": "al",
+     "inicio": 143.526,
+     "fin": 143.691
+    },
+    {
+     "w": "azar",
+     "inicio": 143.691,
+     "fin": 144.019
+    },
+    {
+     "w": "y",
+     "inicio": 144.019,
+     "fin": 144.101
+    },
+    {
+     "w": "saca",
+     "inicio": 144.101,
+     "fin": 144.43
+    },
+    {
+     "w": "su",
+     "inicio": 144.43,
+     "fin": 144.594
+    },
+    {
+     "w": "triángulo",
+     "inicio": 144.594,
+     "fin": 145.334
+    },
+    {
+     "w": "hasta",
+     "inicio": 145.334,
+     "fin": 145.663
+    },
+    {
+     "w": "que",
+     "inicio": 145.663,
+     "fin": 145.827
+    },
+    {
+     "w": "te",
+     "inicio": 145.827,
+     "fin": 145.991
+    },
+    {
+     "w": "salga",
+     "inicio": 145.991,
+     "fin": 146.402
+    },
+    {
+     "w": "solo.",
+     "inicio": 146.402,
+     "fin": 146.731
+    }
+   ]
+  },
+  {
+   "bloque": 7,
+   "frase": 1,
+   "texto": "En el siguiente vídeo: cómo deducir tiempo pico, sobreimpulso y establecimiento.",
+   "dicho": "En el siguiente vídeo: cómo deducir tiempo pico, sobreimpulso y establecimiento.",
+   "camara": "push in a la tarjeta",
+   "inicio": 147.031,
+   "fin": 151.49,
+   "palabras": [
+    {
+     "w": "En",
+     "inicio": 147.031,
+     "fin": 147.146
+    },
+    {
+     "w": "el",
+     "inicio": 147.146,
+     "fin": 147.261
+    },
+    {
+     "w": "siguiente",
+     "inicio": 147.261,
+     "fin": 147.723
+    },
+    {
+     "w": "vídeo:",
+     "inicio": 147.723,
+     "fin": 148.011
+    },
+    {
+     "w": "cómo",
+     "inicio": 148.271,
+     "fin": 148.45
+    },
+    {
+     "w": "deducir",
+     "inicio": 148.45,
+     "fin": 148.763
+    },
+    {
+     "w": "tiempo",
+     "inicio": 148.763,
+     "fin": 149.032
+    },
+    {
+     "w": "pico,",
+     "inicio": 149.032,
+     "fin": 149.211
+    },
+    {
+     "w": "sobreimpulso",
+     "inicio": 149.321,
+     "fin": 150.251
+    },
+    {
+     "w": "y",
+     "inicio": 150.251,
+     "fin": 150.328
+    },
+    {
+     "w": "establecimiento.",
+     "inicio": 150.328,
+     "fin": 151.49
+    }
+   ]
+  }
+ ]
+}

@@ -34,4 +34,4 @@ Las exponenciales vienen de los polos del sistema: son el transitorio que se apa
 Entrada da permanente; polos del sistema dan transitorio.
 Esa frase te ahorra la mitad del examen.
 Practica tapar con tres polos distintos hasta hacerlo de memoria.
-Sígueme para más trucos de control.
+En el siguiente vídeo: sistemas de primer orden.

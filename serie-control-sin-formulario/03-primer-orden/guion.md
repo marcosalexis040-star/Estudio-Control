@@ -8,8 +8,8 @@
 | publico | estudiantes de Ingeniería de Control que presentan el integrador sin formulario |
 | tema | forma estándar K/(τs+1), normalización, 63 % y 98 %, identificación con una gráfica, circuito RC, rampa e impulso |
 | Frases | 36 |
-| Palabras | 443 |
-| Duración estimada | ~2:51 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
+| Palabras | 448 |
+| Duración estimada | ~2:53 (a 2.8 palabras/s con pausas de 0.3 s y 0.5 s; la real la da voz.wav) |
 
 Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bien y rojo = mal, Inter en negrita a 46 px o más, iconos de Phosphor. Un solo mundo 2D: cada bloque es una estación unida por un camino que se dibuja mientras viaja la cámara. El perrito es la foto recortada `assets/perrito-recorte.png`; nunca tapa texto.
 
@@ -92,7 +92,7 @@ Estilo común: fondo casi negro con rejilla suave, tarjetas blancas, verde = bie
 | # | Frase (voz) | Qué se ve | Cámara | Medio |
 |---:|---|---|---|---|
 | 35 | Dibuja una curva de primer orden y marca 63 % y 98 % sin mirar. | Plano general de las seis estaciones unidas por el camino. | push out a plano general | SVG |
-| 36 | Sígueme para más trucos de control. | Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». | push in a la tarjeta | perrito-avatar.png |
+| 36 | En el siguiente vídeo: segundo orden y el triángulo del polo. | Tarjeta final «Siguiente · 04» con el título del próximo vídeo y el mapa de la serie. | push in a la tarjeta | SVG |
 
 ## Fuentes y comprobación
 

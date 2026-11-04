@@ -52,7 +52,7 @@ Laplace los encuentra, los diagramas los esconden, Routh los cuenta y la retroal
 
 ## Cierre · #06d6a0
 Repasa la serie completa una vez antes del examen. || Push out a plano general con las 15 estaciones de la serie unidas por el camino, cada una con su título. || push out a plano general || SVG
-Sígueme para más trucos de control. || Tarjeta de perfil @perritoCAD; «Seguir» → «Siguiendo». || push in a la tarjeta || perrito-avatar.png
+Mucho éxito en tu integrador. || Tarjeta final «Fin de la serie» con el mapa de los 15 vídeos. || push in a la tarjeta || SVG
 
 === NOTAS ===
 ## Fuentes y comprobación
