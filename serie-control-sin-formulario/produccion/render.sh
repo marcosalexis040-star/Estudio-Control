@@ -7,6 +7,8 @@ export HYPERFRAMES_BROWSER_PATH="${HYPERFRAMES_BROWSER_PATH:-/opt/pw-browsers/ch
 mkdir -p ../videos salida
 for nn in "$@"; do
   carpeta=$(ls -d ../${nn}-* | head -1); nombre=$(basename "$carpeta")
+  if [ -s ../videos/$nombre.mp4 ] && [ -z "${FORZAR:-}" ]; then echo "== $nn ya existe (FORZAR=1 para rehacer)"; continue; fi
+  rm -rf salida/.$nn-render.hf-transaction-* salida/work-* 2>/dev/null || true
   echo "== $nn ($nombre) $(date +%H:%M:%S)"
   ( cd proyectos/$nn && npx --prefix ../.. hyperframes render --quality looks --crf 24 --workers 4 -o ../../salida/$nn-render.mp4 2>&1 | grep -E "rendered in|✗|Error|error" || true )
   [ -s salida/$nn-render.mp4 ] || { echo "FALLO render $nn"; continue; }
