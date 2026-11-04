@@ -116,14 +116,15 @@ def procesar(nn):
     tmp = d / "assets" / "_mezcla_bruta.wav"
     sf.write(tmp, mezcla / max(1.0, np.max(np.abs(mezcla))) * 0.9, SR, subtype="PCM_24")
     lim = d / "assets" / "_mezcla_lim.wav"
-    subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(tmp), "-af", "alimiter=limit=0.35:attack=1:release=80:level=false", "-c:a", "pcm_s24le", str(lim)], check=True)
+    subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(tmp), "-af", "alimiter=limit=0.3:attack=1:release=80:level=false", "-c:a", "pcm_s24le", str(lim)], check=True)
     tmp.unlink(); tmp = lim
     # loudnorm en dos pasadas
-    r = subprocess.run(["ffmpeg", "-hide_banner", "-nostats", "-i", str(tmp), "-af", "loudnorm=I=-14:TP=-1:LRA=11:print_format=json", "-f", "null", "-"], capture_output=True, text=True)
+    r = subprocess.run(["ffmpeg", "-hide_banner", "-nostats", "-i", str(tmp), "-af", "loudnorm=I=-14:TP=-1.6:LRA=11:print_format=json", "-f", "null", "-"], capture_output=True, text=True)
     js = r.stderr[r.stderr.rfind("{"): r.stderr.rfind("}") + 1]; m = json.loads(js)
-    filtro = (f"loudnorm=I=-14:TP=-1:LRA=11:measured_I={m['input_i']}:measured_TP={m['input_tp']}:measured_LRA={m['input_lra']}"
+    filtro = (f"loudnorm=I=-14:TP=-1.6:LRA=11:measured_I={m['input_i']}:measured_TP={m['input_tp']}:measured_LRA={m['input_lra']}"
               f":measured_thresh={m['input_thresh']}:offset={m['target_offset']}:linear=true")
-    subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(tmp), "-af", filtro, "-ar", str(SR), "-c:a", "pcm_s24le", str(d / "assets" / "mezcla.wav")], check=True)
+    subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-i", str(tmp), "-af", filtro, "-ar", str(SR), "-c:a", "pcm_s24le", str(d / "assets" / "_mezcla_nueva.wav")], check=True)
+    (d / "assets" / "_mezcla_nueva.wav").replace(d / "assets" / "mezcla.wav")
     tmp.unlink()
     r = subprocess.run(["ffmpeg", "-hide_banner", "-nostats", "-i", str(d / "assets" / "mezcla.wav"), "-af", "loudnorm=I=-14:TP=-1:print_format=json", "-f", "null", "-"], capture_output=True, text=True)
     m2 = json.loads(r.stderr[r.stderr.rfind("{"): r.stderr.rfind("}") + 1])
