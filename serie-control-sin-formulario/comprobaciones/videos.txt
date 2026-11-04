@@ -1,0 +1,15 @@
+01: 01-laplace-sin-formulario.mp4 · vídeo 154.705000s · voz 154.706s · tramos negros: 0 · -14.42 LUFS -1.24 dBTP · 19M
+02: 02-de-la-ecuacion-a-la-respuesta.mp4 · vídeo 154.996000s · voz 154.996s · tramos negros: 0 · -14.54 LUFS -0.73 dBTP · 21M
+03: 03-primer-orden.mp4 · vídeo 148.779000s · voz 148.779s · tramos negros: 0 · -14.66 LUFS -1.43 dBTP · 19M
+04: 04-segundo-orden-el-triangulo-del-polo.mp4 · vídeo 153.190000s · voz 153.19s · tramos negros: 0 · -14.51 LUFS -1.36 dBTP · 19M
+05: 05-segundo-orden-deduce-las-formulas.mp4 · vídeo 155.720000s · voz 155.72s · tramos negros: 0 · -14.65 LUFS -1.35 dBTP · 20M
+06: 06-leer-el-plano-s-problema-del-integrador.mp4 · vídeo 160.943000s · voz 160.943s · tramos negros: 0 · -14.77 LUFS -0.17 dBTP · 21M
+07: 07-diseno-por-especificaciones.mp4 · vídeo 163.124000s · voz 163.124s · tramos negros: 0 · -14.68 LUFS -1.31 dBTP · 21M
+08: 08-algebra-de-bloques.mp4 · vídeo 153.517000s · voz 153.518s · tramos negros: 0 · -14.46 LUFS -1.37 dBTP · 22M
+09: 09-mason-problema-del-integrador.mp4 · vídeo 156.008000s · voz 156.008s · tramos negros: 0 · -14.51 LUFS -1.38 dBTP · 22M
+10: 10-routh-hurwitz-la-tabla.mp4 · vídeo 159.732000s · voz 159.732s · tramos negros: 0 · -14.56 LUFS -1.33 dBTP · 21M
+11: 11-routh-casos-especiales-y-rango-de-k.mp4 · vídeo 166.617000s · voz 166.617s · tramos negros: 0 · -14.30 LUFS -1.38 dBTP · 21M
+12: 12-error-en-estado-estable-y-pid.mp4 · vídeo 174.722000s · voz 174.723s · tramos negros: 0 · -14.47 LUFS -1.08 dBTP · 23M
+13: 13-variables-de-estado.mp4 · vídeo 174.899000s · voz 174.899s · tramos negros: 0 · -14.48 LUFS -1.43 dBTP · 22M
+14: 14-retroalimentacion-de-estados.mp4 · vídeo 171.836000s · voz 171.836s · tramos negros: 0 · -14.62 LUFS -1.44 dBTP · 22M
+15: 15-los-10-errores-del-integrador.mp4 · vídeo 135.899000s · voz 135.899s · tramos negros: 0 · -14.39 LUFS -1.38 dBTP · 19M
